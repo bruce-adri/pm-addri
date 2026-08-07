@@ -2,13 +2,15 @@
 area: trabajo
 status: 🟢 activo
 priority: crítica
-updated: 2026-07-20
+updated: 2026-08-07
 ---
 
 # Pórtico Plaza II (53 viv., Bulevar del Pla, Alicante)
 
 ## Objetivo
-**29/53 vendidas (20 jul 2026, dato verbal de Adrián para el comité del 21 jul)** — a solo 2 ventas de los 31/53 que desbloquean el préstamo promotor de CaixaBank. Licencia de obras ya obtenida. Entrega prevista finales 2027/2028.
+**29/53 vendidas (20 jul 2026, dato verbal de Adrián para el comité del 21 jul)** — a solo 2 ventas de los 31/53 que desbloquean el préstamo promotor de CaixaBank. Licencia de obras ya obtenida. **Entrega prevista verano 2028** (confirmado por Adrián 7 ago 2026, sustituye la referencia vaga anterior de "finales 2027/2028").
+
+**Discrepancia nueva (7 ago 2026):** Adrián indica "más del 60% vendido", pero el tracker (29/53 = 54,7%) y la disponibilidad en vivo de `porticoplaza.es` (24 unidades libres = 29/53 vendidas, mismo 54,7%) no llegan al 60%. Puede haber ventas más recientes sin reflejar aquí ni en la web — confirmar cifra exacta antes de usarla en comunicación con clientes (ver `knowledge/mpc-group/whatsapp-plantillas-leads.md`).
 
 **⚠️ Discrepancia sin confirmar:** el 26/06/2026 este archivo registraba 31/53. El dato del 20/07 (29/53) es más bajo, lo cual no encaja con ventas que solo pueden subir — puede que el "31/53" anterior fuera una proyección/objetivo y no el estado real de entonces. Adrián fue avisado del descuadre y no lo corrigió al cierre de la sesión. Preguntar el origen la próxima vez que se toque este proyecto.
 

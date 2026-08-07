@@ -2,7 +2,7 @@
 area: trabajo
 status: 🟡 en marcha
 priority: media
-updated: 2026-08-06
+updated: 2026-08-07
 ---
 
 # Patrocinios y acciones de marca — Real Murcia CF, Nueva Condomina, tranvía
@@ -16,6 +16,7 @@ Varias vías de patrocinio/publicidad en Murcia en exploración, ninguna cerrada
 - **Ronda de cierre final (6 ago 2026):** términos definitivos a firmar — **33.000€+IVA** (sube desde los 30.000€), pago mensual o trimestral, 4 butacas VIP (sube desde 2), 45 pantalones de cantera, valla publicitaria en la universidad (activo nuevo), LED del estadio, Club de Empresas. El cartel de gran formato del Enrique Roca (pedido en julio) **se cae** — el club no lo ofrece.
 - Pendiente de pedir al club: specs del vídeo del LED (dimensiones/formato/duración), medidas de la valla de la universidad, calendario de eventos del Club de Empresas, desglose de publicaciones RRSS incluidas.
 - **Canal de cierre:** Manuel se lo manda directamente a Juanjo (vicepresidente y director general del club, amistad personal) por WhatsApp + email de confirmación. Objetivo: **firmar la semana del 10-14 de agosto**.
+- **Confirmado (7 ago 2026):** WhatsApp de Manuel a Juanjo enviado. En espera de que el club proponga día para firmar.
 - Análisis completo: `~/bruce/knowledge/mpc-group/patrocinio-real-murcia.md`
 
 ## Hércules CF — nuevo (24 jul 2026)
@@ -37,4 +38,4 @@ Adrián decide no seguir esta vía: Real Murcia avanza a cierre y se centra ahí
 - Intervención urbana propia — adoptar/mejorar una plaza o zona verde cerca de Nueva Condomina.
 
 ## Próxima acción
-Esperar respuesta de Juanjo al WhatsApp de Manuel y firmar el contrato del Real Murcia la semana del 10-14 de agosto (33.000€+IVA). Hércules ya confirmado en importe — pendiente seguir el calendario de ejecución del resto del gasto a lo largo del año. En paralelo, esperar movimiento de Manuel en Nueva Condomina.
+WhatsApp de Manuel a Juanjo ya enviado (7 ago) — esperar que el club proponga día para firmar el contrato del Real Murcia, objetivo semana del 10-14 de agosto (33.000€+IVA). Hércules ya confirmado en importe — pendiente seguir el calendario de ejecución del resto del gasto a lo largo del año. En paralelo, esperar movimiento de Manuel en Nueva Condomina.

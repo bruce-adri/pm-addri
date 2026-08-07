@@ -2,7 +2,7 @@
 area: trabajo
 status: 🟢 activo
 priority: crítica
-updated: 2026-08-03
+updated: 2026-08-07
 ---
 
 # Inversión Vadim / fondo eslovaco (~10M€) — Arbitas SICAV
@@ -26,13 +26,15 @@ Tras llamada de Adrián con Peter J. Heriban (Legal Dept., Arbitas SICAV, martes
 Trabajo ya hecho con Bruce:
 - `knowledge/mpc-group/arbitas-sicav-due-diligence-tracker.md` — checklist completo convertido en tabla de estado por sección.
 - `knowledge/mpc-group/arbitas-sicav-presentacion-comercial-esqueleto.md` — esqueleto de la presentación para Baláž, con rentabilidad de alquiler y licencias turísticas ya investigadas (dato real, con fuente).
-- `knowledge/mpc-group/arbitas-sicav-email-respuesta-peter.md` — borrador de respuesta a Peter Heriban, pendiente de enviar.
+- `knowledge/mpc-group/arbitas-sicav-email-respuesta-peter.md` — respuesta a Peter Heriban, **enviada 4/08**.
+- `knowledge/mpc-group/arbitas-sicav-email-extranet-acceso.md` — acceso a la extranet de proyectos (Aura Condomina + Pórtico Plaza II) para Baláž, CC Heriban/Nentvich, **enviado 7/08**. Propone punto de control semanal por call desde la semana del 10/08.
 
 ## Próxima acción
-1. Enviar el email de respuesta a Peter Heriban (borrador listo).
-2. Construir el contenido completo de la presentación comercial para Baláž — plazo esta semana.
-3. Reunión con Manuel para repartir quién aporta cada pieza del checklist de due diligence (financials auditados, estructura societaria, legal del suelo, presupuesto de construcción, modelo financiero, estrategia de salida) — la mayoría depende de él/Administración/Garrigues, no es algo que Adrián pueda resolver solo.
-4. Cuando llegue el cuestionario de inversión de Petr Nentvich, procesarlo igual.
+1. Confirmar día/hora del punto de control semanal con Arbitas — objetivo empezar semana del 10 de agosto.
+2. Adrián habla con Vadim esta semana (canal personal) — coordinar con el punto anterior.
+3. Construir el contenido completo de la presentación comercial para Baláž — la extranet no la sustituye, sigue pendiente.
+4. Reunión con Manuel para repartir quién aporta cada pieza del checklist de due diligence (financials auditados, estructura societaria, legal del suelo, presupuesto de construcción, modelo financiero, estrategia de salida) — la mayoría depende de él/Administración/Garrigues, no es algo que Adrián pueda resolver solo.
+5. Cuando llegue el cuestionario de inversión de Petr Nentvich, procesarlo igual.
 
 ## Notas
 - Adrián planea arrancar con esto el 4 de agosto, antes de la preparación de la reunión del jueves con Cris.
