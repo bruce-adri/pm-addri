@@ -1,0 +1,28 @@
+---
+area: trabajo
+status: 🟡 en marcha
+priority: alta
+updated: 2026-07-27
+---
+
+# Sistema de reports mensuales para Manuel
+
+## Objetivo
+Dar visibilidad real del trabajo de Adrián ante Manuel. Manuel prefiere todo por escrito/impreso — el email es poco eficaz con él.
+
+## Próxima acción
+Seguir usando `/report-comercial` cada semana (segundo uso end-to-end completado el 27 jul, con dato nuevo de calidad de visitas). Cuando haya 3-4 semanas de datos, montar el primer report mensual real con ellas — de momento solo hay 2 semanas guardadas (8 jul, 27 jul), faltan las intermedias.
+
+## Acciones / Tareas
+- [x] Arrancar el tracker semanal (2026-07-08, primera semana con Aura activa) — `knowledge/mpc-group/reports-comerciales/`
+- [x] Codificar el informe semanal como skill (`/report-comercial`, `.claude/commands/report-comercial.md`) — cabecera corporativa con logo real de MPC Group (`knowledge/mpc-group/assets/mpc-group-logo.jpg`) y colores exactos del logo (12 jul 2026)
+- [x] Probar `/report-comercial` con datos reales de una semana nueva (27 jul 2026 — primer caso end-to-end con clasificación de calidad de visitas por Oskar, exportado también a PDF en `Desktop/MPC Group/Comité dirección/`)
+- [ ] Aclarar con Eduardo el descuadre entre visitas reportadas por el equipo y visitas registradas en Dynamics/Power BI (persiste: el 27/07 el equipo reportó 21 visitas vs 5 en Power BI, rangos de fecha no coinciden)
+- [ ] Validar formato del informe semanal con Manuel
+- [ ] Diseñar propuesta de formato del report mensual (escrito/impreso) — pendiente de acumular 3-4 semanas
+
+## Notas
+- Objetivo de fondo: que Manuel vea el trabajo real de Adrián, no solo resultados.
+- El tracker semanal es el input para este report — se guarda un archivo por semana con datos manuales del equipo + Power BI, y una tabla resumen para ver evolución sin reconstruir nada.
+- Las "visitas programadas" (ej. 15 para la semana del 8 jul) son un dato que reporta el equipo directamente, no algo que se pueda cruzar con Power BI.
+- Colores de marca MPC Group (muestreados del logo real, no aproximados): navy `#0E3C89`, azul `#43BBED`, ámbar `#FFB71C`. Reutilizables en cualquier otro documento corporativo.
