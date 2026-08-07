@@ -2,7 +2,7 @@
 area: trabajo
 status: 🟢 activo
 priority: crítica
-updated: 2026-07-27
+updated: 2026-08-07
 ---
 
 # Aura Condomina — Fase 1 (250 viv., Nueva Condomina, Murcia)
@@ -57,6 +57,11 @@ Email, WhatsApp de respuesta libre y plantilla WhatsApp Business (Meta) de lanza
 
 ## Próxima acción
 Contratar un comercial senior de Murcia, con experiencia, para reforzar Aura (decisión 27 jul 2026) — ver `contratacion-comercial-murcia.md`. Sigue siendo el mismo foco desde el 18 jul (conversión de lead a venta, no captación), pero ahora con una acción concreta encima de la mesa.
+
+## Estudio de posicionamiento de precio — pendiente (lunes 10 ago 2026)
+Repetir para Aura Condomina el mismo ejercicio que se hizo para Pórtico Plaza II el 7 ago 2026 (`~/bruce/knowledge/mpc-group/reports-comerciales/2026-08-07-portico-plaza-ii-posicionamiento-precio-manuel.html`): sacar 7-10 testigos reales de obra nueva del entorno de Nueva Condomina/Murcia capital vía Idealista (precio ÷ m² por unidad, excluyendo VPO), comparar contra la media del barrio, y montar el mismo informe de 2 páginas para Manuel (página 1: testigos + posicionamiento; página 2: contexto de mercado con fuentes oficiales — INE, Colegio de Registradores, Notariado — no solo Idealista).
+
+**Cadencia decidida por Adrián (7 ago 2026):** este tipo de estudio de posicionamiento de precio (Pórtico y Aura) se repite **cada mes, o cada 15 días si hay parón de ventas** — no es un informe de una sola vez. Dejar esto como recordatorio recurrente, no como tarea puntual.
 
 ## Campañas de marketing en marcha (actualizado 31 jul 2026)
 

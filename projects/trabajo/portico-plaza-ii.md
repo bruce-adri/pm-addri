@@ -23,6 +23,11 @@ updated: 2026-08-07
 - [ ] Seguimiento de leads activos
 - [ ] Conseguir 5-6 ventas más antes del 30/09/2026
 
+## Estudio de posicionamiento de precio (7 ago 2026)
+Informe de 2 páginas para Manuel: `~/bruce/knowledge/mpc-group/reports-comerciales/2026-08-07-portico-plaza-ii-posicionamiento-precio-manuel.pdf` (también en `~/Desktop/Bruce/`). Conclusión: Pórtico Plaza II (3.739€/m²) está prácticamente igualado con la media real de su barrio, Paus/Garbinet (3.730€/m², 7 testigos verificados uno a uno en Idealista) — sin sobreprecio. Página 2 con contexto de fuentes oficiales (INE, Registradores, Notariado), no solo Idealista.
+
+**Cadencia decidida por Adrián:** repetir este estudio cada mes, o cada 15 días si hay parón de ventas — no es un informe puntual. Mismo tratamiento para Aura Condomina, pendiente para el lunes 10 ago (ver `aura-condomina.md`).
+
 ## Notas
 - Reactivado el 26 jun 2026 — estaban paradas, ahora de nuevo en marcha.
 - 15 jul 2026: reserva confirmada — **Fernando, inversor de Alicante**. Primera venta desde la reactivación, hacia el objetivo de 6-7 antes del 30/09.
