@@ -43,6 +43,11 @@ CV (2022, no recoge sus ~3 años en MPC) muestra negociación B2B real en su eta
 
 Sin decidir a 29/07. Bruce propuso un piloto pequeño primero (apoyo en leads/visitas internacionales, sin tocar aún su horario fijo) antes de comprometer un reparto de días. Detalle completo en `knowledge/personas/equipo/jonathan.md` (repo de Bruce, gitignored).
 
+**Decisión tomada (Comité de Dirección, 11 ago 2026):** Jonathan se incorpora a Aura Condomina como refuerzo comercial la semana del 17 de agosto y las dos últimas semanas de agosto, por defecto, manteniendo su horario de Benejúzar. Ya tiene una primera visita concertada.
+
+## Actitud de Oliver — refuerza la necesidad del comercial senior (11 ago 2026)
+Adrián señaló en comité que lo que no le convence de Oliver es más la **actitud** que el rendimiento (aunque el rendimiento tampoco es el punto fuerte) — mientras cubre Nature Views durante las vacaciones de María. Confirma que la vía externa (comercial senior de Murcia) sigue siendo necesaria, Jonathan no la sustituye.
+
 ## Próxima acción
 - Preguntar a Adrián a cuáles de los 5 candidatos de LinkedIn quiere que se profundice, o si seguir revisando las 8 páginas restantes.
 - Decidir cómo seguir con Jonathan (piloto pequeño vs. reparto fijo vs. esperar a hablar con María Jesús/Manuel).

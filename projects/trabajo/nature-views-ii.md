@@ -1,8 +1,8 @@
 ---
 area: trabajo
-status: 🔴 no iniciado
+status: 🟡 en marcha
 priority: media
-updated: 2026-08-04
+updated: 2026-08-11
 ---
 
 # Nature Views II (Torrevieja)
@@ -17,7 +17,7 @@ Perfil de inversión "compra y alquila" — el comprador adquiere la unidad y MP
 Sin fecha de lanzamiento, sin pricing, sin ficha comercial. No forma parte de la presentación comercial formal para Arbitas SICAV/Peter Baláž (esa se queda en Aura + Pórtico Plaza II) — se plantea directamente a Vadim por la relación personal.
 
 ## Próxima acción
-Depende de cómo responda Vadim al primer contacto (WhatsApp, 4 ago 2026). Si hay interés real, habrá que construir ficha comercial, pricing y plan de explotación del alquiler turístico antes de poder mandarle nada por escrito.
+**Reunión confirmada con Vadim el miércoles 19 de agosto 2026**, con Nature Views II como tema central — "encaja perfectamente con el fondo" (Adrián, comité 11 ago). Adrián ya preparó la ficha comercial fuera de Bruce; email con toda la info enviado a Vadim + Peter J. Heriban (CC) el 11 ago vía WeTransfer (ver `knowledge/mpc-group/arbitas-sicav-email-nature-views-ii.md` en el repo de Bruce). Pendiente decidir en la reunión del 19 si el proyecto pasa también al canal formal de Arbitas (Baláž/Nentvich) o sigue solo por el canal personal.
 
 ## Notas
 - Capacidad operativa real de MPC para gestionar alquiler turístico a este nivel: mismo aviso que ya existe para Aura/Pórtico — confirmar que se puede montar antes de comprometerlo por escrito.
