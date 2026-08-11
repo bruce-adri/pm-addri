@@ -38,4 +38,4 @@ Adrián decide no seguir esta vía: Real Murcia avanza a cierre y se centra ahí
 - Intervención urbana propia — adoptar/mejorar una plaza o zona verde cerca de Nueva Condomina.
 
 ## Próxima acción
-WhatsApp de Manuel a Juanjo ya enviado (7 ago) — esperar que el club proponga día para firmar el contrato del Real Murcia, objetivo semana del 10-14 de agosto (33.000€+IVA). Hércules ya confirmado en importe — pendiente seguir el calendario de ejecución del resto del gasto a lo largo del año. En paralelo, esperar movimiento de Manuel en Nueva Condomina.
+**Firma confirmada: comida el lunes 17 de agosto con el Real Murcia para firmar el acuerdo** (33.000€+IVA). Hércules ya confirmado en importe — pendiente seguir el calendario de ejecución del resto del gasto a lo largo del año. En paralelo, esperar movimiento de Manuel en Nueva Condomina.

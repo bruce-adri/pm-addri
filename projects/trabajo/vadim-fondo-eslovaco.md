@@ -30,11 +30,10 @@ Trabajo ya hecho con Bruce:
 - `knowledge/mpc-group/arbitas-sicav-email-extranet-acceso.md` — acceso a la extranet de proyectos (Aura Condomina + Pórtico Plaza II) para Baláž, CC Heriban/Nentvich, **enviado 7/08**. Propone punto de control semanal por call desde la semana del 10/08.
 
 ## Próxima acción
-1. Confirmar día/hora del punto de control semanal con Arbitas — objetivo empezar semana del 10 de agosto.
-2. Adrián habla con Vadim esta semana (canal personal) — coordinar con el punto anterior.
-3. Construir el contenido completo de la presentación comercial para Baláž — la extranet no la sustituye, sigue pendiente.
-4. Reunión con Manuel para repartir quién aporta cada pieza del checklist de due diligence (financials auditados, estructura societaria, legal del suelo, presupuesto de construcción, modelo financiero, estrategia de salida) — la mayoría depende de él/Administración/Garrigues, no es algo que Adrián pueda resolver solo.
-5. Cuando llegue el cuestionario de inversión de Petr Nentvich, procesarlo igual.
+1. **Reunión confirmada con Vadim el miércoles 19 de agosto** para avanzar con el fondo de inversión — objetivos: decidir si se avanza con **Nature Views II**, y explorar **abrir mercado en Eslovaquia y República Checa** (red de colaboradores/agencias en esos países, ver `red-internacional.md`).
+2. Construir el contenido completo de la presentación comercial para Baláž — la extranet no la sustituye, sigue pendiente.
+3. Reunión con Manuel para repartir quién aporta cada pieza del checklist de due diligence (financials auditados, estructura societaria, legal del suelo, presupuesto de construcción, modelo financiero, estrategia de salida) — la mayoría depende de él/Administración/Garrigues, no es algo que Adrián pueda resolver solo.
+4. Cuando llegue el cuestionario de inversión de Petr Nentvich, procesarlo igual.
 
 ## Notas
 - Adrián planea arrancar con esto el 4 de agosto, antes de la preparación de la reunión del jueves con Cris.

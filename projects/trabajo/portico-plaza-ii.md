@@ -17,6 +17,10 @@ updated: 2026-08-07
 ## Próxima acción
 **Prioridad máxima: cerrar 2 ventas más para desbloquear el préstamo promotor de CaixaBank** (umbral en 31/53). Por encima del objetivo previo de 6-7 ventas antes del 30/09 — ese sigue siendo el horizonte, pero las 2 próximas son las que de verdad mueven la aguja ahora mismo.
 
+**Oferta doble — decidida en Comité de Dirección (11 ago 2026):** lanzar oferta sobre dos unidades concretas — el **último ático de 2 hab.** y la **vivienda de 299.000€**. Ejecución a cargo de **Manu** (marketing/RRSS) — fuera del alcance de Bruce salvo que Adrián pida apoyo puntual.
+
+**Operación Patricia (ático, visita 6 ago) y operación vía agencia Arfero:** ambas en marcha, ver seguimiento en informes de Comité de Dirección de agosto (`knowledge/mpc-group/reports-comerciales/` en el repo de Bruce).
+
 ## Acciones / Tareas
 - [x] Reactivar ventas (confirmado 26 jun 2026 — de nuevo en activo)
 - [x] Primera reserva post-reactivación (Fernando, 15 jul 2026)

@@ -24,6 +24,7 @@ Vista agregada de todos los proyectos, por área. Detalle de cada proyecto en `p
 | [Patrocinios Real Murcia + Nueva Condomina](projects/trabajo/patrocinios-real-murcia-nueva-condomina.md) | 🟡 En marcha | Alta | Real Murcia: WhatsApp de Manuel a Juanjo confirmado enviado (7 ago) — en espera de que el club proponga fecha de firma, objetivo semana 10-14 ago; Hércules CF ya confirmado; Nueva Condomina sin decidir |
 | [Proceso Comercial y Tecnología — con Cris](projects/trabajo/proceso-comercial-tecnologia-cris.md) | 🟢 Listo para reunión | Alta | Reunión **jueves 6 ago** — #8, #9 y #10 cerrados (5 ago), más documento extra de mejoras de CRM del equipo comercial. Pendiente: cotejar los 6 textos "revisar" de #9 con Administración/Postventa |
 | [WhatsApp API — equipo comercial bloqueado](projects/trabajo/whatsapp-api-equipo-comercial.md) | 🟡 En marcha | Alta | Comparativa de proveedores lista (Saysimple/360dialog/Wati/Respond.io + Inogic para Dynamics) — pendiente que Eduardo traiga cotización real y respuesta sobre integración con Dynamics |
+| Estudio de mercado — Murcia y Torrevieja (estilo Alicante) | 🔴 No iniciado | Media | Decidido en Comité de Dirección (11 ago 2026): el formato del estudio de Alicante (testigos reales por barrio + fuentes oficiales INE/Registradores/Notariado, `knowledge/real-estate/alicante.md`) funcionó muy bien — replicar el mismo nivel de profundidad en `murcia.md` y `costa-blanca-sur.md` (Torrevieja, hoy plantilla vacía). Sin fecha de arranque todavía. |
 
 ## Personal
 
