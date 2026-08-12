@@ -2,7 +2,7 @@
 area: trabajo
 status: 🟢 activo
 priority: crítica
-updated: 2026-08-07
+updated: 2026-08-12
 ---
 
 # Inversión Vadim / fondo eslovaco (~10M€) — Arbitas SICAV
@@ -28,6 +28,14 @@ Trabajo ya hecho con Bruce:
 - `knowledge/mpc-group/arbitas-sicav-presentacion-comercial-esqueleto.md` — esqueleto de la presentación para Baláž, con rentabilidad de alquiler y licencias turísticas ya investigadas (dato real, con fuente).
 - `knowledge/mpc-group/arbitas-sicav-email-respuesta-peter.md` — respuesta a Peter Heriban, **enviada 4/08**.
 - `knowledge/mpc-group/arbitas-sicav-email-extranet-acceso.md` — acceso a la extranet de proyectos (Aura Condomina + Pórtico Plaza II) para Baláž, CC Heriban/Nentvich, **enviado 7/08**. Propone punto de control semanal por call desde la semana del 10/08.
+
+## Línea de apertura de mercado Eslovaquia/Chequia — 12 ago 2026
+
+Distinta del fondo Arbitas SICAV en sí (eso es Nature Views II, ver arriba y `nature-views-ii.md`): esta línea es la red de agencias inmobiliarias en Eslovaquia/Chequia que Vadim/Peter Heriban están evaluando, con AURA Condomina como primer proyecto de referencia. Peter preguntó por (1) precios/IVA/comisión de agencias, (2) apartamentos con vistas al mar (AURA no tiene — Murcia ciudad no tiene costa), (3) análisis de mercado/ROI/rentabilidad de alquiler.
+
+**Construido 12 ago:** comparativa completa de rentabilidad/revalorización de AURA Condomina, en español e inglés — `~/bruce/knowledge/mpc-group/reports-comerciales/2026-08-12-roi-comparativa-aura-condomina.html/.pdf` (+ `-en.html/.pdf`), copiada a `~/Desktop/Bruce/`. Incluye calendario de la inversión (compra ago26, primer alquiler posible abr28), revalorización durante construcción (+15%/+23%, cifra ajustada por Adrián), rentabilidad de alquiler (4,5%-5,5% bruto, fijada por Adrián), retorno acumulado a 32 meses (~19,5-28,5% según escenario), crecimiento de Murcia (Bankinter/Provia: 3ª región de España en crecimiento poblacional proyectado 2024-2039) y UCAM como driver de demanda de alquiler (6.500 alumnos internacionales, cita textual de la universidad conectando alumnado con demanda de alquiler). Documento no contractual, con aviso explícito.
+
+**Pendiente:** enviar la respuesta a Peter Heriban con este documento adjunto (redactada, sin enviar). Construir el mismo tratamiento para Alicante/Pórtico Plaza II.
 
 ## Próxima acción
 1. **Reunión confirmada con Vadim el miércoles 19 de agosto** para avanzar con el fondo de inversión — objetivos: decidir si se avanza con **Nature Views II**, y explorar **abrir mercado en Eslovaquia y República Checa** (red de colaboradores/agencias en esos países, ver `red-internacional.md`).
