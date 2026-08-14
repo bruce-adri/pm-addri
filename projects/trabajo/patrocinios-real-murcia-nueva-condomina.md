@@ -17,6 +17,7 @@ Varias vías de patrocinio/publicidad en Murcia en exploración, ninguna cerrada
 - Pendiente de pedir al club: specs del vídeo del LED (dimensiones/formato/duración), medidas de la valla de la universidad, calendario de eventos del Club de Empresas, desglose de publicaciones RRSS incluidas.
 - **Canal de cierre:** Manuel se lo manda directamente a Juanjo (vicepresidente y director general del club, amistad personal) por WhatsApp + email de confirmación. Objetivo: **firmar la semana del 10-14 de agosto**.
 - **Confirmado (7 ago 2026):** WhatsApp de Manuel a Juanjo enviado. En espera de que el club proponga día para firmar.
+- **Borradores de contrato recibidos (13 ago 2026)** — dos documentos: Contrato de Publicidad (27.000€+IVA, con Murcia Promises C.F.) + Contrato de Butacas VIP (6.000€+IVA, con Real Murcia CF SAD), total 33.000€+IVA, cuadra con lo cerrado el 06/08. **Bruce detectó varios riesgos antes de firmar el 17 ago:** dos entidades firmantes distintas (verificar relación), cláusula de incumplimiento asimétrica, interés de demora alto (2,5%/mes), contradicción sobre catering en el contrato de butacas (Adrián también la detectó), numeración duplicada/plantilla sin revisar. Detalle completo en `~/bruce/knowledge/mpc-group/patrocinio-real-murcia.md` (actualización 13/08). Adrián no pidió preparar nada formal — decisión suya si lo plantea al club antes de firmar.
 - Análisis completo: `~/bruce/knowledge/mpc-group/patrocinio-real-murcia.md`
 
 ## Hércules CF — nuevo (24 jul 2026)
@@ -38,4 +39,7 @@ Adrián decide no seguir esta vía: Real Murcia avanza a cierre y se centra ahí
 - Intervención urbana propia — adoptar/mejorar una plaza o zona verde cerca de Nueva Condomina.
 
 ## Próxima acción
-**Firma confirmada: comida el lunes 17 de agosto con el Real Murcia para firmar el acuerdo** (33.000€+IVA). Hércules ya confirmado en importe — pendiente seguir el calendario de ejecución del resto del gasto a lo largo del año. En paralelo, esperar movimiento de Manuel en Nueva Condomina.
+**Firma confirmada: comida el lunes 17 de agosto con el Real Murcia para firmar el acuerdo** (33.000€+IVA). Borradores de contrato ya revisados por Bruce (13/08) — decidir si se plantean los riesgos detectados (contradicción de catering, cláusula de incumplimiento asimétrica, entidad firmante Murcia Promises C.F.) antes de firmar. Hércules ya confirmado en importe — pendiente seguir el calendario de ejecución del resto del gasto a lo largo del año. En paralelo, esperar movimiento de Manuel en Nueva Condomina.
+
+## Contenido de marca para el LED del Real Murcia (13 ago 2026)
+Guion de 20 segundos (3 pases por hora, confirmado en el contrato) para Aura Condomina — usa la cercanía real al estadio (2 min andando) como gancho de cierre. Detalle completo en `~/bruce/knowledge/mpc-group/aura-condomina-campanas-julio-2026.md` (sección 4). Pendiente: producir el vídeo (falta imagen/vídeo de gimnasio o Aura Bar para la escena 2) y decidir quién lo produce (Jonathan o agencia externa).

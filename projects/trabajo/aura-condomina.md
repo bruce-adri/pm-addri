@@ -2,7 +2,7 @@
 area: trabajo
 status: 🟢 activo
 priority: crítica
-updated: 2026-08-07
+updated: 2026-08-14
 ---
 
 # Aura Condomina — Fase 1 (250 viv., Nueva Condomina, Murcia)
@@ -67,9 +67,10 @@ Repetir para Aura Condomina el mismo ejercicio que se hizo para Pórtico Plaza I
 
 Tres frentes nuevos, detalle completo en `knowledge/mpc-group/aura-condomina-campanas-julio-2026.md` del repo de Bruce:
 
-- **Cuña de radio (Ibolele/Murcia On):** coletilla cerrada — *"Colabora Aura Condomina, tu club de vida con piscina y zonas comunes, Aura Condomina"*. Empieza a emitirse a partir de mediados de agosto (conciertos). **Pendiente: esperando visto bueno de Manuel** antes de enviarla a Alex Torrubia (corregido 31/07 — no iba directa a Alex).
+- **Cuña de radio (Ibolele/Murcia On):** coletilla definitiva corregida (13 ago) — *"Colabora AURA Condomina. La diferencia entre vivir y disfrutar cada día."* (la versión anterior que Bruce tenía anotada, sobre "club de vida con piscina y zonas comunes", era incorrecta). Empieza a emitirse a partir de mediados de agosto (conciertos). **Pendiente: esperando visto bueno de Manuel** antes de enviarla a Alex Torrubia (corregido 31/07 — no iba directa a Alex).
 - **Artículo de PR pagado (La Opinión de Murcia / Prensa Ibérica), 20 agosto — CERRADO (31/07).** Nombre del proyecto corregido (Aura Condomina, no "AURA Condominium"), cifras de comprador internacional verificadas y atribuidas (Colegio de Registradores: 21,73% extranjero en Región de Murcia, UK ~29%; Aena: 447.402 pasajeros RMU H1 2026), sindicación confirmada (solo La Opinión de Murcia). Artículo final en `~/Desktop/MPC_GROUP_20_AGOSTO_v1.docx`, aprobado por Adrián — lo envía él mismo a Prensa Ibérica.
-- **Avatar influencer IA (Persuadis):** briefing casi cerrado (femenino, español, tono cálido/aspiracional). Pendiente: foto de referencia y los 3 renders de escena (revisar si el "render principal.jpg" ya aprobado sirve para alguna). **Actualización 3 ago:** siguen sin poder enviarse renders a Persuadis para montar la maqueta virtual y arrancar la promoción/publicidad a pleno rendimiento — los renders recibidos hoy son mejores que los anteriores, pero a criterio de Adrián todavía no están al nivel necesario. Aun así, el canal ya convierte: el depósito de Alejandro Cano (A10B, 195.900€) llega vía la web de Aura Condomina, por donde se derivan los leads de Persuadis.
+- **Avatar influencer IA (Persuadis) — ENVIADO A PERSUADIS (14 ago).** Guion definitivo, reescrito el 14/08 sobre los 3 renders reales encontrados en `~/Desktop/persuadis/` (el guion del 13/08, con arco mañana-tarde-noche, no encajaba con los renders disponibles — dos de tres eran de atardecer). Escenas finales: 1) plaza/jardines con vecinos ("Así se vive en Nueva Condomina: con espacio, sin prisas, en compañía de los tuyos"), 2) piscina al atardecer ("A las seis de la tarde, esta piscina tiene una luz que no se repite"), 3) terraza privada al atardecer ("Y así se acaba el día: en tu propia terraza, sin igual"). Cierre: lema de marca de siempre. Se retiró la claim "el primer club de vida de Nueva Condomina". Briefing completo (música, edición, gestos, CTA, subtítulos) en `~/Desktop/Briefing avatar influencer - completado.docx`, **enviado por email a Persuadis (Raquel) el 14/08.** El canal ya convertía antes de este cierre: el depósito de Alejandro Cano (A10B, 195.900€) llegó vía la web de Aura Condomina, por donde se derivan los leads de Persuadis. Detalle completo en `~/bruce/knowledge/mpc-group/aura-condomina-campanas-julio-2026.md` y `~/bruce/knowledge/mpc-group/persuadis-storyboard-avatar-aura.md`.
+- **Vídeo valla LED del Real Murcia (nuevo, 13 ago) — CERRADO.** Guion de 20 segundos usando la cercanía real de Aura al estadio (2 min andando) como gancho de cierre. Ver detalle en `patrocinios-real-murcia-nueva-condomina.md` y en el archivo de campañas del repo de Bruce.
 
 ## Tracker de RRSS (nuevo, 31 jul 2026)
 

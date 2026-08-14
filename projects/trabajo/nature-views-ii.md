@@ -2,7 +2,7 @@
 area: trabajo
 status: 🟡 en marcha
 priority: media
-updated: 2026-08-11
+updated: 2026-08-14
 ---
 
 # Nature Views II (Torrevieja)
@@ -21,3 +21,9 @@ Sin fecha de lanzamiento, sin pricing, sin ficha comercial. No forma parte de la
 
 ## Notas
 - Capacidad operativa real de MPC para gestionar alquiler turístico a este nivel: mismo aviso que ya existe para Aura/Pórtico — confirmar que se puede montar antes de comprometerlo por escrito.
+
+## Estudio de rentabilidad turística — en pausa (14 ago 2026)
+Bruce montó un ROI comparativo específico de alquiler turístico gestionado (modelo verano+invierno) — `~/bruce/knowledge/mpc-group/reports-comerciales/2026-08-14-roi-comparativa-nature-views-ii.html/.pdf`. Con las tarifas reales de temporada alta de Adrián (1.200€/sem ático, 1.500€/sem planta baja): revalorización +19-24% (ático) / +9-13% (planta baja) hasta la entrega (mayo 2028, ritmo real de Nature Views I sin descuento por plazo); yield neta 3,9-4,5% (ático) / 5,0-6,1% (planta baja). Adrián dijo "dejemos esto de lado" (14/08) — pausado, sin enviar a Vadim. Pendiente antes de retomar: confirmar semanas de temporada alta asumidas (12 ático/14 bajo) y hacer la versión EN.
+
+## Estudio de competencia — Los Balcones/Laguna Rosa (14 ago 2026)
+Bruce investigó en metainmo, resales-online e idealista: 12 promociones de obra nueva activas en el distrito. Nature Views II queda en banda media-baja de precio. Competidor más directo: **Nalia Resort** (misma calle, mismo precio de entrada, más amenities, 9/10 unidades vendidas en su última fase — señal de demanda fuerte). La claim "vistas a la Laguna Rosa" no es exclusiva. Detalle completo en `~/bruce/knowledge/real-estate/costa-blanca-sur.md` y `~/bruce/knowledge/mpc-group/reports-comerciales/2026-08-14-estudio-mercado-competencia-torrevieja.html/.pdf`.
