@@ -36,7 +36,7 @@ Vista agregada de todos los proyectos, por área. Detalle de cada proyecto en `p
 | [Calistenia](projects/personal/calistenia.md) | 🟢 Activo | Media | Retomar el martes 21 jul, 19:00 (recordatorios ya en el Calendario de Apple) |
 | [Integrar Calendario de Apple](projects/personal/calendario-apple.md) | 🟢 Activo | Baja | Agenda semanal ya montada como eventos recurrentes — revisar el hueco flexible del martes cada semana |
 | [Bruce crea playlists en Apple Music](projects/personal/musica-apple-music.md) | 🟡 En marcha | Baja | Confirmar si Adrián añadió las 13 canciones a `Bruce Buzón` — crear playlist final de la final Argentina-España (19 jul) |
-| [Viaje Londres (24-28 ago 2026)](projects/personal/viaje-londres-2026.md) | 🟢 Activo | Media | Go City comprado (£203,40) — reintentar reserva de franja en la app más cerca del 25 ago; decidir transfer aeropuerto (tren £63 vs Uber) |
+| [Viaje Londres (24-28 ago 2026)](projects/personal/viaje-londres-2026.md) | 🟢 Activo | Media | Tussauds con franja (jueves 9:45); falta franja de London Eye; Peaky Blinders Underworld añadido por fuera; decidir transfer aeropuerto (tren £63 vs Uber) |
 
 ## Bruce (mejoras del agente, propuestas por David)
 
