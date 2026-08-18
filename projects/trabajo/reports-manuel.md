@@ -21,6 +21,9 @@ Seguir usando `/report-comercial` cada semana (segundo uso end-to-end completado
 - [ ] Validar formato del informe semanal con Manuel
 - [ ] Diseñar propuesta de formato del report mensual (escrito/impreso) — pendiente de acumular 3-4 semanas
 
+## Informe ad hoc — Leads/campañas Aura/Pórtico/Nature Views (17 ago 2026)
+Manuel pidió por email una evaluación detallada de leads, visitas, ventas, inversión y coste por lead/visita/venta de las tres campañas activas desde el lanzamiento de Aura (2 jul), distinto del report semanal habitual. Construido cruzando 2 PDFs de Meta Ads Manager + Power BI/Dynamics, con 3 huecos de medición explicitados en el propio informe (periodo no homogéneo, sin atribución venta→campaña específica, Aura sin desglose por sub-campaña). Guardado en `~/bruce/knowledge/mpc-group/reports-comerciales/2026-08-17-leads-campanas-aura-portico-nature-views-manuel.html/.pdf`. **No enviado a Manuel todavía** — Adrián lo revisa primero.
+
 ## Notas
 - Objetivo de fondo: que Manuel vea el trabajo real de Adrián, no solo resultados.
 - El tracker semanal es el input para este report — se guarda un archivo por semana con datos manuales del equipo + Power BI, y una tabla resumen para ver evolución sin reconstruir nada.
