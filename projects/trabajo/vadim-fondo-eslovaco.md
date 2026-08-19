@@ -2,7 +2,7 @@
 area: trabajo
 status: 🟢 activo
 priority: crítica
-updated: 2026-08-12
+updated: 2026-08-19
 ---
 
 # Inversión Vadim / fondo eslovaco (~10M€) — Arbitas SICAV
@@ -39,8 +39,18 @@ Distinta del fondo Arbitas SICAV en sí (eso es Nature Views II, ver arriba y `n
 
 **Pendiente:** cerrar el rango de revalorización de Pórtico Plaza II con Adrián; enviar la respuesta a Peter Heriban con ambos documentos adjuntos (redactada, sin enviar); construir el documento de Nature Views II para el canal formal de Arbitas, de cara a la reunión del 19 ago.
 
+## Presentación de Nature Views II para Vadim — 14 y 19 ago
+
+Presentación de inversión definitiva construida el 14 ago (`knowledge/mpc-group/reports-comerciales/2026-08-14-nature-views-ii-presentacion-inversion-vadim.html/.pdf`): contexto de mercado, retorno a 32 meses y a 5 años, precio de lista, sin escenarios de descuento (documento interno de escenarios aparte, no enviar a Vadim).
+
+**19 ago (el mismo día de la reunión), dos retoques finales:**
+- Sección de demografía reescrita a petición de Adrián: fuera el top-5 del padrón municipal (Ucrania/Colombia/Rusia/Marruecos, poco relevante para un inversor), dentro el ángulo comprador-europeo — 44,65% de compra extranjera en la provincia de Alicante en Q1 2026 (16,52% UE, Colegio de Registradores, verificado a fuente primaria), colonias de Suecia/Bélgica/Polonia/Noruega/Países Bajos en Torrevieja (padrón ene 2025), y el mix real de comprador de Nature Views (30% holandeses, 25% polacos, 20% ucranianos, 10% españoles, 15% resto). Datos también guardados en `knowledge/real-estate/costa-blanca-sur.md`.
+- Logo de Arbitas SICAV añadido a la cabecera (sacado del bundle JS de arbitas.com, guardado en `knowledge/mpc-group/assets/arbitas-logo.svg`, sobre placa azul marino porque el original solo existe en blanco).
+
+PDF final + el interno de escenarios de descuento copiados a `~/Desktop/Eslovaquia/`. **El escenario de descuento a ofrecer (lista/-5%/-10%/Escenario C) seguía sin confirmarse con Manuel** a la hora de cerrar la sesión del 19 ago, justo el día de la reunión — es el pendiente más urgente de este proyecto.
+
 ## Próxima acción
-1. **Reunión confirmada con Vadim el miércoles 19 de agosto** para avanzar con el fondo de inversión — objetivos: decidir si se avanza con **Nature Views II**, y explorar **abrir mercado en Eslovaquia y República Checa** (red de colaboradores/agencias en esos países, ver `red-internacional.md`).
+1. **Reunión con Vadim, miércoles 19 de agosto** — objetivos: decidir si se avanza con **Nature Views II**, y explorar **abrir mercado en Eslovaquia y República Checa** (red de colaboradores/agencias en esos países, ver `red-internacional.md`). Pendiente saber cómo fue y si se cerró el escenario de descuento con Manuel antes o durante la reunión.
 2. Construir el contenido completo de la presentación comercial para Baláž — la extranet no la sustituye, sigue pendiente.
 3. Reunión con Manuel para repartir quién aporta cada pieza del checklist de due diligence (financials auditados, estructura societaria, legal del suelo, presupuesto de construcción, modelo financiero, estrategia de salida) — la mayoría depende de él/Administración/Garrigues, no es algo que Adrián pueda resolver solo.
 4. Cuando llegue el cuestionario de inversión de Petr Nentvich, procesarlo igual.
