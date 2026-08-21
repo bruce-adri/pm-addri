@@ -49,11 +49,30 @@ Presentación de inversión definitiva construida el 14 ago (`knowledge/mpc-grou
 
 PDF final + el interno de escenarios de descuento copiados a `~/Desktop/Eslovaquia/`. **El escenario de descuento a ofrecer (lista/-5%/-10%/Escenario C) seguía sin confirmarse con Manuel** a la hora de cerrar la sesión del 19 ago, justo el día de la reunión — es el pendiente más urgente de este proyecto.
 
+## Reunión del 19 de agosto — desencuentro de fondo, no de precio
+**Resultado (20 ago 2026):** la reunión no llegó a buen entendimiento — no fue un tema de descuento/precio (el escenario que seguía sin cerrar con Manuel quedó irrelevante). **Vadim/Arbitas planteaban financiar el proyecto (deuda/préstamo), mientras que MPC ofrecía la compra del proyecto.** Estructuras distintas desde la base — de ahí el desajuste.
+
+**Follow-up enviado (20 ago 2026):** email de Adrián a Vadim (solo a él, sin CC a Peter Heriban) agradeciendo el tiempo, recordando que ya tiene toda la info de Nature Views II, aclarando que la oportunidad es de **compra directa** (MPC construye y gestiona el alquiler turístico por cuenta del inversor, no financiación), ofreciendo enviar las cifras y datos detallados si Arbitas quiere estudiarlo como inversión directa dada su rentabilidad, y pidiendo su parecer o decisión **antes del 2-3 de septiembre** para poder empezar a preparar el lanzamiento del proyecto al mercado si no siguen adelante.
+
+**Pendiente de decidir con Adrián:**
+- Si Arbitas no encaja como comprador, ¿se explora reformular como financiador (deuda) en vez de descartarlo del todo?
+
+## Segundo email a Vadim (20 ago 2026) — arranca formalmente la línea Eslovaquia/Chequia
+**Enviado a Vadim, CC Peter J. Heriban** (a diferencia del primer email del día, este sí lleva a Heriban por tratarse de una propuesta formal de partnership, no de la relación personal). Contenido:
+- **Adjuntos:** los dos informes de rentabilidad para inversor en inglés, sin datos de competencia — `2026-08-20-aura-condomina-rentabilidad-cliente-en.pdf` y `2026-08-20-portico-plaza-ii-rentabilidad-cliente-en.pdf`.
+- **Propuesta de arranque de la apertura de mercado Eslovaquia/Chequia** (independiente de si Arbitas compra o financia Nature Views II): (1) **webinar en inglés la 1ª o 2ª semana de septiembre** para agencias/partners que identifiquen Vadim/Peter, (2) **product tour** por las promociones de MPC con los agentes interesados, (3) **eventos conjuntos** (a profesionales inmobiliarios o directamente a clientes/inversores), en paralelo o después.
+- **KPIs propuestos por Bruce/Adrián** para medir el partnership (a validar con ellos): nº de agencias captadas y activas por país, asistencia al webinar + leads cualificados generados, conversión lead→visita, reservas/ventas cerradas en 6-12 meses, ticket medio de inversión por operación cerrada.
+- **Pregunta sobre corner físico en sus oficinas** (Eslovaquia/Chequia) — presencia permanente de MPC Group para agencias/clientes.
+- **Oferta a los "tres amigos" de Vadim interesados en comprar:** si es como inversión, pack de 3 viviendas (mismo patrón que el de socios del Real Murcia) — **sin cifra de descuento todavía, decisión explícita de Adrián de no ofrecer nada concreto por ahora.**
+- Cierre con tono personal (pedido explícito de Adrián): urgencia por posicionarse ya en septiembre por la conexión de vuelos, ilusión por arrancar la relación.
+
 ## Próxima acción
-1. **Reunión con Vadim, miércoles 19 de agosto** — objetivos: decidir si se avanza con **Nature Views II**, y explorar **abrir mercado en Eslovaquia y República Checa** (red de colaboradores/agencias en esos países, ver `red-internacional.md`). Pendiente saber cómo fue y si se cerró el escenario de descuento con Manuel antes o durante la reunión.
-2. Construir el contenido completo de la presentación comercial para Baláž — la extranet no la sustituye, sigue pendiente.
-3. Reunión con Manuel para repartir quién aporta cada pieza del checklist de due diligence (financials auditados, estructura societaria, legal del suelo, presupuesto de construcción, modelo financiero, estrategia de salida) — la mayoría depende de él/Administración/Garrigues, no es algo que Adrián pueda resolver solo.
-4. Cuando llegue el cuestionario de inversión de Petr Nentvich, procesarlo igual.
+1. Esperar respuesta de Vadim/Peter — tanto al email de NV2 (plazo 2-3 sep) como a este segundo email sobre la apertura de mercado, webinar y corner. Si no hay señales antes, valorar recordatorio.
+2. Si Vadim confirma agencias interesadas, preparar materiales del webinar (inglés) para la 1ª/2ª semana de septiembre.
+3. Si no hay compra de NV2, preparar el lanzamiento de Nature Views II al mercado general.
+4. Construir el contenido completo de la presentación comercial para Baláž — la extranet no la sustituye, sigue pendiente.
+5. Reunión con Manuel para repartir quién aporta cada pieza del checklist de due diligence (financials auditados, estructura societaria, legal del suelo, presupuesto de construcción, modelo financiero, estrategia de salida) — la mayoría depende de él/Administración/Garrigues, no es algo que Adrián pueda resolver solo.
+6. Cuando llegue el cuestionario de inversión de Petr Nentvich, procesarlo igual.
 
 ## Notas
 - Adrián planea arrancar con esto el 4 de agosto, antes de la preparación de la reunión del jueves con Cris.

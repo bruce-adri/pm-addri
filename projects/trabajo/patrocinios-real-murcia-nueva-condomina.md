@@ -39,8 +39,11 @@ Adrián decide no seguir esta vía: Real Murcia avanza a cierre y se centra ahí
 - Fundador/patrocinador de la futura Ciudad Deportiva del Real Murcia (227.000 m², proyecto en fase temprana).
 - Intervención urbana propia — adoptar/mejorar una plaza o zona verde cerca de Nueva Condomina.
 
+## Oferta de socios — Real Murcia × Aura Condomina (18/20 ago 2026)
+Documento "Oferta Exclusiva Socios Real Murcia CF — Aura Condomina" (pack de 3 viviendas, 2% descuento, 25%/75% de pago, amueblado) ya construido el 18 ago. **20 ago:** Adrián pidió prepararlo para enviar a **Juanjo** (vicepresidente/DG del club) — PDF copiado a `~/Desktop/Bruce/`, texto de WhatsApp redactado por Bruce. **Adrián dijo "ok" pero no confirmó el envío — pendiente de confirmar en la próxima sesión.**
+
 ## Próxima acción
-**Firma completada el 17 de agosto** (33.000€+IVA, logo de cantera en pantalón delantero/pierna izquierda). Pendiente confirmar si se plantearon al club los riesgos detectados (contradicción de catering, cláusula de incumplimiento asimétrica, entidad firmante Murcia Promises C.F.) antes de firmar. Hércules ya confirmado en importe — pendiente seguir el calendario de ejecución del resto del gasto a lo largo del año. En paralelo, esperar movimiento de Manuel en Nueva Condomina.
+**Firma completada el 17 de agosto** (33.000€+IVA, logo de cantera en pantalón delantero/pierna izquierda). Pendiente confirmar si se plantearon al club los riesgos detectados (contradicción de catering, cláusula de incumplimiento asimétrica, entidad firmante Murcia Promises C.F.) antes de firmar. Hércules ya confirmado en importe — pendiente seguir el calendario de ejecución del resto del gasto a lo largo del año. Confirmar si se mandó la oferta de socios a Juanjo (ver arriba). En paralelo, esperar movimiento de Manuel en Nueva Condomina.
 
 ## Contenido de marca para el LED del Real Murcia (13 ago 2026)
 Guion de 20 segundos (3 pases por hora, confirmado en el contrato) para Aura Condomina — usa la cercanía real al estadio (2 min andando) como gancho de cierre. Detalle completo en `~/bruce/knowledge/mpc-group/aura-condomina-campanas-julio-2026.md` (sección 4). Pendiente: producir el vídeo (falta imagen/vídeo de gimnasio o Aura Bar para la escena 2) y decidir quién lo produce (Jonathan o agencia externa).
