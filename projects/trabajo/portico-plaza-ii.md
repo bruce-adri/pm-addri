@@ -2,7 +2,7 @@
 area: trabajo
 status: 🟢 activo
 priority: crítica
-updated: 2026-08-07
+updated: 2026-08-21
 ---
 
 # Pórtico Plaza II (53 viv., Bulevar del Pla, Alicante)
@@ -31,6 +31,13 @@ updated: 2026-08-07
 Informe de 2 páginas para Manuel: `~/bruce/knowledge/mpc-group/reports-comerciales/2026-08-07-portico-plaza-ii-posicionamiento-precio-manuel.pdf` (también en `~/Desktop/Bruce/`). Conclusión: Pórtico Plaza II (3.739€/m²) está prácticamente igualado con la media real de su barrio, Paus/Garbinet (3.730€/m², 7 testigos verificados uno a uno en Idealista) — sin sobreprecio. Página 2 con contexto de fuentes oficiales (INE, Registradores, Notariado), no solo Idealista.
 
 **Cadencia decidida por Adrián:** repetir este estudio cada mes, o cada 15 días si hay parón de ventas — no es un informe puntual. Mismo tratamiento para Aura Condomina, pendiente para el lunes 10 ago (ver `aura-condomina.md`).
+
+## Seguimiento semanal — Informe comercial (21 ago 2026)
+- Power BI acumulado: 2.810 clientes potenciales, 40 visitas, 3 oportunidades abiertas, **10 ventas**. Ratio visita/venta 4 — el mejor de los dos proyectos con Aura junto a este.
+- Sigue **a 2 ventas del umbral de 31/53** que desbloquea el préstamo promotor de CaixaBank (sin novedad de unidades vendidas esta semana respecto al dato del 20/07).
+- Pipeline en seguimiento cercano (estimación de Adrián para el informe al socio inversor de Manuel, sin desglose por comercial): 2 HOT, 4 en seguimiento activo, 23 en fase inicial.
+- Adrián confirma que en Pórtico también se aplica un filtro de cualificación activa de leads, pero **sin porcentaje de descarte confirmado** (a diferencia del 30% que sí se tiene para Aura).
+- Incluido en el informe de tracción combinado para el socio inversor de Manuel: `knowledge/mpc-group/reports-comerciales/2026-08-21-informe-inversor-aura-portico.html/.pdf` (repo de Bruce).
 
 ## Notas
 - Reactivado el 26 jun 2026 — estaban paradas, ahora de nuevo en marcha.

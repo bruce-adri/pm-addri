@@ -2,7 +2,7 @@
 area: trabajo
 status: 🟢 activo
 priority: crítica
-updated: 2026-08-14
+updated: 2026-08-21
 ---
 
 # Aura Condomina — Fase 1 (250 viv., Nueva Condomina, Murcia)
@@ -75,6 +75,15 @@ Tres frentes nuevos, detalle completo en `knowledge/mpc-group/aura-condomina-cam
 ## Tracker de RRSS (nuevo, 31 jul 2026)
 
 Manu (marketing, hijo de Manuel) prepara ahora un informe mensual de Instagram/Facebook. Sistema de seguimiento en `knowledge/mpc-group/reports-rrss/` + skill `/informe-rrss`. Alerta de julio: solo 4 clics a la web en todo el mes pese a porcentajes de crecimiento altos (base de seguidores muy pequeña: 550 IG, 764 FB). Pendiente: correr `/informe-rrss` cuando llegue el informe de agosto.
+
+## Seguimiento semanal — Informe comercial (21 ago 2026)
+- **8 ventas reales según Adrián, aunque Power BI solo tiene 4 dadas de alta** (dato verbal, sin verificar en el CRM todavía — regularizar). Power BI acumulado desde el lanzamiento: 2.931 clientes potenciales, 50 visitas.
+- **30% de los leads de Aura ya descartados** (filtro activo, no leads sin trabajar) — dato agregado de Adrián.
+- Primer reporte con los tres comerciales de Aura a la vez (Jonathan, Oskar, Oliver). Pipeline en seguimiento cercano (agregado Jonathan+Oskar, sin contar descartados): 3 HOT, 9 en seguimiento activo, 28 en fase inicial.
+- **Dato sin reconciliar:** Oliver reporta un funnel sobre base de "900 leads" que no cuadra con el resto de fuentes (Jonathan tiene 201 asignados; Power BI marca 2.931 CP totales) — aclarar qué representa ese lote antes de reutilizar la cifra.
+- **10 de las 18 ventas combinadas de Aura+Pórtico son a clientes internacionales**, pese a que Aura todavía no se ha lanzado a nivel internacional (solo una campaña de prueba en RRSS dirigida a Bélgica, 10 días, sin leads de calidad todavía) — potencial claro sin explotar.
+- Detalle completo: `knowledge/mpc-group/reports-comerciales/2026-08-21.md` (repo de Bruce). Generado también un informe de tracción para que Manuel comparte con su socio inversor (`2026-08-21-informe-inversor-aura-portico.html/.pdf`), sin nombres de clientes.
+- **Contexto de fondo (21 ago):** Adrián envió recomendación a Manuel/María Jesús de prescindir de Oliver — ver `contratacion-comercial-murcia.md`. Sin resolver a cierre de esta sesión.
 
 ## Seguimiento semanal — Informe comercial (27 jul 2026)
 - **6/54 sin movimiento desde el 21/07** (2 ventas + 4 reservas de Manuel) pese a 21 visitas registradas por el equipo esa semana — confirma que el cuello de botella es cierre, no captación.

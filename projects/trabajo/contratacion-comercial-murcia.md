@@ -2,7 +2,7 @@
 area: trabajo
 status: 🟡 en marcha
 priority: alta
-updated: 2026-07-29
+updated: 2026-08-21
 ---
 
 # Contratación — Comercial senior de Murcia (refuerzo Aura Condomina)
@@ -48,9 +48,20 @@ Sin decidir a 29/07. Bruce propuso un piloto pequeño primero (apoyo en leads/vi
 ## Actitud de Oliver — refuerza la necesidad del comercial senior (11 ago 2026)
 Adrián señaló en comité que lo que no le convence de Oliver es más la **actitud** que el rendimiento (aunque el rendimiento tampoco es el punto fuerte) — mientras cubre Nature Views durante las vacaciones de María. Confirma que la vía externa (comercial senior de Murcia) sigue siendo necesaria, Jonathan no la sustituye.
 
+## Decisión sobre Oliver — recomendación enviada a Manuel/María Jesús (21 ago 2026)
+Adrián envió un email a Manuel y María Jesús recomendando prescindir de Oliver: en muy poco tiempo ha ido de más a menos (motivación y capacidad a la baja), sin margen de mejora real esperado. Se ofreció dar algo más de tiempo, aunque Adrián duda que cambie algo.
+
+**Explícitamente desligado del piloto de Jonathan** (ver abajo) — Adrián quiso dejar claro en el email que la salida de Oliver no depende de que Jonathan pueda sustituirle, son decisiones independientes.
+
+**Logística:** Adrián adelantó su vuelta de vacaciones al 1 de septiembre (en vez del 2) para poder organizar una reunión en Benejúzar y proceder con el despido rápido si esa es la decisión conjunta de Manuel/María Jesús. **Sin respuesta de Manuel/María Jesús todavía a la hora de cerrar esta sesión — preguntar al retomar.**
+
+## Piloto de Jonathan — funcionando bien (21 ago 2026)
+Después de una semana de trabajo y una conversación de una hora el 21/08, Adrián valora que el piloto de combinar marketing y comercial **le hace feliz a Jonathan** y que tiene capacidad real para el puesto. El feedback de Oskar sobre Jonathan a nivel comercial es "muy bueno". Sigue sin haber una decisión formal de reparto fijo de agenda — de momento es el piloto ya en marcha desde el 17 ago (ver arriba).
+
 ## Próxima acción
+- Preguntar a Manuel/María Jesús si han decidido sobre Oliver, y si hace falta organizar la reunión en Benejúzar.
 - Preguntar a Adrián a cuáles de los 5 candidatos de LinkedIn quiere que se profundice, o si seguir revisando las 8 páginas restantes.
-- Decidir cómo seguir con Jonathan (piloto pequeño vs. reparto fijo vs. esperar a hablar con María Jesús/Manuel).
+- Si Oliver sale del equipo, revisar el reparto de leads de Aura Condomina (Oliver llevaba los leads extranjeros no polacos) y quién lo cubre.
 
 ## Acciones / Tareas
 - [ ] Elegir con Adrián qué candidatos de la shortlist profundizar
