@@ -39,8 +39,13 @@ Comparación original (Torre + Tussauds + London Eye): suelto ≈£331, pack de 
 ## Documento del viaje
 PDF "ficha de embarque" (semana de un vistazo + día a día) regenerado el 15 de agosto con todas las reservas confirmadas + Peaky Blinders. Guardado como `~/Desktop/Londres · 24-28 agosto 2026 (act. 15 ago).pdf`, sin sustituir el original de julio — pendiente que Adrián confirme si lo reemplaza.
 
+## Calendario del iPhone — 23 agosto 2026
+Los 26 puntos del itinerario (24-28 ago) están creados como eventos en el calendario **Familia** (compartido, visible en el iPhone de todos) — ubicación con geolocalización automática de Calendar + enlace de Apple Maps en el campo URL de cada evento, para pulsar y ver cómo ir desde donde estén.
+
+**Hallazgo al revisar el correo antes de agendar:** el London Eye **sí tiene reserva confirmada** (email Go City, 16 ago) — miércoles 26 agosto, 16:30, 2 adultos + 2 niños. Esto contradice la nota del itinerario que decía que se había descartado "por cansancio de las niñas". Se ha agendado igualmente a las 16:30 (dato real de la reserva) — **pendiente que Adrián confirme si se mantiene o se cancela** (cancelable hasta 15 min antes del slot).
+
 ## Próxima acción
-1. Reintentar en la app de Go City la reserva de franja horaria para **London Eye** conforme se acerque el 25 agosto.
+1. Confirmar si el London Eye del miércoles 26, 16:30 se mantiene o se cancela.
 2. Decidir transfer aeropuerto (tren £63 vs. Uber).
 3. Decidir si el PDF actualizado del 15 ago sustituye al original en el Escritorio.
 
