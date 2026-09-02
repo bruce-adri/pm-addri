@@ -2,7 +2,7 @@
 area: trabajo
 status: 🟡 en marcha
 priority: media
-updated: 2026-08-07
+updated: 2026-09-02
 ---
 
 # Patrocinios y acciones de marca — Real Murcia CF, Nueva Condomina, tranvía
@@ -39,12 +39,17 @@ Adrián decide no seguir esta vía: Real Murcia avanza a cierre y se centra ahí
 - Fundador/patrocinador de la futura Ciudad Deportiva del Real Murcia (227.000 m², proyecto en fase temprana).
 - Intervención urbana propia — adoptar/mejorar una plaza o zona verde cerca de Nueva Condomina.
 
+## Inauguración 4ª planta (2 sep 2026)
+Evento de inauguración de la nueva 4ª planta del Real Murcia CF, con los 4 asientos VIP del patrocinio (subidos de 2 a 4 en el cierre del 6 ago) usados por primera vez para un evento de este tipo. Sin más detalle registrado — Adrián lo mencionó de pasada, valorar en próxima sesión si hay contenido/relación a explotar (invitar a cliente/agencia clave, RRSS).
+
 ## Oferta de socios — Real Murcia × Aura Condomina (18-21 ago 2026)
 Documento "Oferta Exclusiva Socios Real Murcia CF — Aura Condomina" (pack de 3 viviendas, 2% descuento, 25%/75% de pago, amueblado) ya construido el 18 ago. **20 ago:** Adrián pidió prepararlo para enviar a **Juanjo** (vicepresidente/DG del club) — PDF copiado a `~/Desktop/Bruce/`, texto de WhatsApp redactado por Bruce. **Adrián dijo "ok" pero no confirmó el envío — sigue pendiente de confirmar.**
 
 **21 ago — rediseño + revisión de Manuel.** Jonathan maquetó una versión más elaborada del PDF (banner diagonal con las tres marcas — MPC/Aura/Real Murcia — tarjetas numeradas, motivo geométrico de marca). Bruce replicó ese estilo directamente en CSS (sin depender de Jonathan para la próxima vez) y lo aplicó al documento, añadiendo un **4º beneficio con el mismo peso visual que los otros tres: gestión de alquiler incluida (rentabilidad estimada desde el 5% anual)**. Guardado en `~/bruce/knowledge/mpc-group/reports-comerciales/2026-08-21-oferta-socios-real-murcia-aura-condomina.html/.pdf`, documentado como plantilla reutilizable para futuros documentos co-marca con partners.
 
-Manuel revisó el texto y pidió **más "profesionalidad"**, dado que es una operación que exige inversión, transparencia y seguridad, sin perder cercanía. Bruce reescribió el texto completo (introducción, los 4 beneficios, condiciones y cierre) en un registro más formal, incluyendo mención a las garantías legales de cantidades a cuenta (Ley 20/2015) — **dato genérico/legal, sin confirmar el avalista concreto de Aura, pendiente de que Adrián lo confirme antes de publicarlo así**. Se dieron también 2 alternativas de redacción solo para el bloque de gestión de alquiler. **Textos enviados a Manuel para su valoración — sin respuesta a cierre de esta sesión.** Cuando Manuel elija/ajuste versión, aplicar el texto final al HTML y regenerar el PDF (todavía no actualizado con la nueva redacción).
+Manuel revisó el texto y pidió **más "profesionalidad"**, dado que es una operación que exige inversión, transparencia y seguridad, sin perder cercanía. Bruce reescribió el texto completo (introducción, los 4 beneficios, condiciones y cierre) en un registro más formal, incluyendo mención a las garantías legales de cantidades a cuenta (Ley 20/2015) — **dato genérico/legal, sin confirmar el avalista concreto de Aura, pendiente de que Adrián lo confirme antes de publicarlo así**. Se dieron también 2 alternativas de redacción solo para el bloque de gestión de alquiler. Textos enviados a Manuel para su valoración.
+
+**Confirmado (2 sep 2026): el WhatsApp a Juanjo con la oferta de socios se mandó.** Sigue pendiente aplicar la redacción final (si Manuel la ajustó) al HTML/PDF antes de reutilizarlo.
 
 ## Próxima acción
 **Firma completada el 17 de agosto** (33.000€+IVA, logo de cantera en pantalón delantero/pierna izquierda). Pendiente confirmar si se plantearon al club los riesgos detectados (contradicción de catering, cláusula de incumplimiento asimétrica, entidad firmante Murcia Promises C.F.) antes de firmar. Hércules ya confirmado en importe — pendiente seguir el calendario de ejecución del resto del gasto a lo largo del año. Confirmar si se mandó la oferta de socios a Juanjo (ver arriba). **Esperar respuesta de Manuel sobre el texto de la oferta (21 ago) y aplicar la versión final al PDF antes de reenviarla.** En paralelo, esperar movimiento de Manuel en Nueva Condomina.

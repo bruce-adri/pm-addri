@@ -2,7 +2,7 @@
 area: trabajo
 status: 🟡 en marcha
 priority: alta
-updated: 2026-08-21
+updated: 2026-09-02
 ---
 
 # Contratación — Comercial senior de Murcia (refuerzo Aura Condomina)
@@ -53,7 +53,9 @@ Adrián envió un email a Manuel y María Jesús recomendando prescindir de Oliv
 
 **Explícitamente desligado del piloto de Jonathan** (ver abajo) — Adrián quiso dejar claro en el email que la salida de Oliver no depende de que Jonathan pueda sustituirle, son decisiones independientes.
 
-**Logística:** Adrián adelantó su vuelta de vacaciones al 1 de septiembre (en vez del 2) para poder organizar una reunión en Benejúzar y proceder con el despido rápido si esa es la decisión conjunta de Manuel/María Jesús. **Sin respuesta de Manuel/María Jesús todavía a la hora de cerrar esta sesión — preguntar al retomar.**
+**Logística:** Adrián adelantó su vuelta de vacaciones al 1 de septiembre (en vez del 2) para poder organizar una reunión en Benejúzar y proceder con el despido rápido si esa es la decisión conjunta de Manuel/María Jesús.
+
+**Actualización (1-2 sep 2026):** el despido **no se ejecuta todavía** — queda condicionado a tener sustituta/o. No es que se haya descartado, es que la vía externa (shortlist LinkedIn, ver arriba) pasa a ser el bloqueante real antes de mover a Oliver. Próxima acción prioritaria: avanzar el sourcing/entrevistas para poder cerrar ambas cosas juntas.
 
 ## Piloto de Jonathan — funcionando bien (21 ago 2026)
 Después de una semana de trabajo y una conversación de una hora el 21/08, Adrián valora que el piloto de combinar marketing y comercial **le hace feliz a Jonathan** y que tiene capacidad real para el puesto. El feedback de Oskar sobre Jonathan a nivel comercial es "muy bueno". Sigue sin haber una decisión formal de reparto fijo de agenda — de momento es el piloto ya en marcha desde el 17 ago (ver arriba).

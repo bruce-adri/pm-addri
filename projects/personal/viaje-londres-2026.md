@@ -1,8 +1,8 @@
 ---
 area: personal
-status: 🟢 activo
+status: ✅ completado
 priority: media
-updated: 2026-08-15
+updated: 2026-09-02
 ---
 
 # Viaje a Londres (24-28 agosto 2026)
@@ -44,10 +44,11 @@ Los 26 puntos del itinerario (24-28 ago) están creados como eventos en el calen
 
 **Hallazgo al revisar el correo antes de agendar:** el London Eye **sí tiene reserva confirmada** (email Go City, 16 ago) — miércoles 26 agosto, 16:30, 2 adultos + 2 niños. Esto contradice la nota del itinerario que decía que se había descartado "por cansancio de las niñas". Se ha agendado igualmente a las 16:30 (dato real de la reserva) — **pendiente que Adrián confirme si se mantiene o se cancela** (cancelable hasta 15 min antes del slot).
 
+## Viaje completado (2 sep 2026)
+Adrián lo resume como "una pasada" — hicieron más cosas de las planeadas, las niñas se portaron de maravilla, media de 25.000 pasos/día. Sin detalle de cómo se resolvieron el London Eye del miércoles ni el transfer del aeropuerto (quedan sin cerrar más abajo, pero ya sin relevancia práctica).
+
 ## Próxima acción
-1. Confirmar si el London Eye del miércoles 26, 16:30 se mantiene o se cancela.
-2. Decidir transfer aeropuerto (tren £63 vs. Uber).
-3. Decidir si el PDF actualizado del 15 ago sustituye al original en el Escritorio.
+Ninguna — proyecto cerrado.
 
 ## Pendiente
 - Ciclismo con las niñas: Santander Cycles descartado (mínimo 14 años, Adriana tiene 13). Hyde Park recomendado como zona segura para alquiler familiar aparte — encajaría el viernes 28 por la mañana. Sin buscar tienda todavía.

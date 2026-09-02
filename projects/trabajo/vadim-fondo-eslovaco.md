@@ -2,7 +2,7 @@
 area: trabajo
 status: 🟢 activo
 priority: crítica
-updated: 2026-08-19
+updated: 2026-09-02
 ---
 
 # Inversión Vadim / fondo eslovaco (~10M€) — Arbitas SICAV
@@ -70,6 +70,9 @@ PDF final + el interno de escenarios de descuento copiados a `~/Desktop/Eslovaqu
 Primera señal desde el desencuentro del 19 ago, tono cálido — no es una respuesta formal todavía. Vadim: agradece el día organizado en La Nucia y la comida con Manuel, dice que está en Eslovaquia, que ha visto los emails y que **lo hablará con sus colegas el lunes (24 ago)** para dar respuesta después. Cierra con "we are ready to work with you, Manuel, and your company 🤝👍". Adrián respondió en el mismo tono, cercano, sin entrar en contenido ("aquí listos para empezar").
 
 **Lectura:** buena señal de continuidad tras el desencuentro de financiar vs. comprar en NV2 — no confirma nada en firme todavía, pero descarta que el 19 ago fuera una ruptura. Cubre ambos frentes abiertos (NV2 y apertura Eslovaquia/Chequia), sin distinguir cuál responde primero. Respuesta formal esperada a partir del lunes 24 ago, quizá con el plazo del 2-3 sep todavía como referencia para NV2.
+
+## Estado (2 sep 2026)
+Adrián lo describe como "muy bien" — pero sigue en pausa técnica esperando a que **Peter Heriban vuelva de viaje** para arrancar con fuerza (tanto NV2 como la apertura Eslovaquia/Chequia). No es enfriamiento, es disponibilidad de la persona clave del lado de Arbitas. Sin novedad sobre el plazo del 2-3 sep para NV2 ni sobre el webinar.
 
 ## Próxima acción
 1. Esperar respuesta de Vadim/Peter — tanto al email de NV2 (plazo 2-3 sep) como a este segundo email sobre la apertura de mercado, webinar y corner. Si no hay señales antes, valorar recordatorio.

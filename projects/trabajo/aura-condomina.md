@@ -2,7 +2,7 @@
 area: trabajo
 status: 🟢 activo
 priority: crítica
-updated: 2026-08-21
+updated: 2026-09-02
 ---
 
 # Aura Condomina — Fase 1 (250 viv., Nueva Condomina, Murcia)
@@ -76,8 +76,11 @@ Tres frentes nuevos, detalle completo en `knowledge/mpc-group/aura-condomina-cam
 
 Manu (marketing, hijo de Manuel) prepara ahora un informe mensual de Instagram/Facebook. Sistema de seguimiento en `knowledge/mpc-group/reports-rrss/` + skill `/informe-rrss`. Alerta de julio: solo 4 clics a la web en todo el mes pese a porcentajes de crecimiento altos (base de seguidores muy pequeña: 550 IG, 764 FB). Pendiente: correr `/informe-rrss` cuando llegue el informe de agosto.
 
+## Venta perdida (2 sep 2026)
+**Marta** (una de las 8 ventas reales reportadas el 21 ago) finalmente no compra — **compró su vivienda directamente a su vecino**, fuera de mercado comercializado. Aura pasa de 8 a **7 ventas reales**. Sin campaña que compita contra una oferta directa de vecino, pero queda como patrón a vigilar: cuánta demanda de la zona se resuelve fuera del circuito de comercializadoras.
+
 ## Seguimiento semanal — Informe comercial (21 ago 2026)
-- **8 ventas reales según Adrián, aunque Power BI solo tiene 4 dadas de alta** (dato verbal, sin verificar en el CRM todavía — regularizar). Power BI acumulado desde el lanzamiento: 2.931 clientes potenciales, 50 visitas.
+- **8 ventas reales según Adrián, aunque Power BI solo tiene 4 dadas de alta** (dato verbal). **Confirmado (2 sep 2026): las 4 ventas se regularizaron en Dynamics.** Power BI acumulado desde el lanzamiento: 2.931 clientes potenciales, 50 visitas. **Actualizado 2 sep: 7 ventas reales** tras la pérdida de Marta (ver arriba) — pendiente reflejar también esta baja en CRM.
 - **30% de los leads de Aura ya descartados** (filtro activo, no leads sin trabajar) — dato agregado de Adrián.
 - Primer reporte con los tres comerciales de Aura a la vez (Jonathan, Oskar, Oliver). Pipeline en seguimiento cercano (agregado Jonathan+Oskar, sin contar descartados): 3 HOT, 9 en seguimiento activo, 28 en fase inicial.
 - **Dato sin reconciliar:** Oliver reporta un funnel sobre base de "900 leads" que no cuadra con el resto de fuentes (Jonathan tiene 201 asignados; Power BI marca 2.931 CP totales) — aclarar qué representa ese lote antes de reutilizar la cifra.

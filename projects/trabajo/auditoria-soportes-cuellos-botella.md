@@ -1,8 +1,8 @@
 ---
 area: trabajo
-status: 🔴 no iniciado
+status: 🟡 en marcha
 priority: alta
-updated: 2026-08-20
+updated: 2026-09-02
 ---
 
 # Auditoría continua de soportes + cuellos de botella operativos
@@ -16,9 +16,9 @@ Bruce redactó una respuesta para Adrián:
 - Conecta explícitamente con la sistemática de proceso comercial ya construida con Cris (`~/bruce/knowledge/mpc-group/reports-comerciales/2026-07-24-sistematica-proceso-comercial.html`), que ya define responsable por fase — propone extender esa misma lógica a los cuellos de botella que señala Manuel.
 - Propone reunión el **martes 25 de agosto** en la oficina de Alicante para hacer el listado y asignar responsables/fechas.
 
-**Sin confirmar:** Adrián no confirmó haber enviado esta respuesta a Manuel (solo dijo "gracias" a Bruce). Dos datos puestos como propuesta, no reales: frecuencia de revisión de soportes ("mensual", inventado por Bruce a falta de dato) y la fecha de reunión (25 ago, propuesta no confirmada por Manuel).
+**Confirmado (2 sep 2026): Adrián envió la respuesta a Manuel.** Sin detalle todavía de si Manuel confirmó la reunión del 25 ago ni de si se celebró — preguntar al retomar.
 
 ## Próxima acción
-1. Confirmar con Adrián si mandó la respuesta a Manuel.
-2. Si Manuel confirma el 25 ago, preparar el listado de soportes/procesos con responsables antes de la reunión.
+1. Confirmar si la reunión propuesta del 25 ago con Manuel se celebró y qué salió de ella.
+2. Si sí, preparar/revisar el listado de soportes/procesos con responsables.
 3. Definir frecuencia real de revisión de soportes (Adrián a decidir, no asumir "mensual").
