@@ -39,8 +39,8 @@ Adrián decide no seguir esta vía: Real Murcia avanza a cierre y se centra ahí
 - Fundador/patrocinador de la futura Ciudad Deportiva del Real Murcia (227.000 m², proyecto en fase temprana).
 - Intervención urbana propia — adoptar/mejorar una plaza o zona verde cerca de Nueva Condomina.
 
-## Inauguración 4ª planta (2 sep 2026)
-Evento de inauguración de la nueva 4ª planta del Real Murcia CF, con los 4 asientos VIP del patrocinio (subidos de 2 a 4 en el cierre del 6 ago) usados por primera vez para un evento de este tipo. Sin más detalle registrado — Adrián lo mencionó de pasada, valorar en próxima sesión si hay contenido/relación a explotar (invitar a cliente/agencia clave, RRSS).
+## Inauguración 4ª planta (1 sep 2026)
+Evento de inauguración de la nueva 4ª planta del Real Murcia CF, el **1 de septiembre** (corregido — se registró primero como 2 sep por error), con los 4 asientos VIP del patrocinio (subidos de 2 a 4 en el cierre del 6 ago) usados por primera vez para un evento de este tipo. **Adrián confirma que fue muy bien.** Sin plan de contenido/relación todavía — aparcado, no descartado, valorar si hay algo que explotar (invitar a cliente/agencia clave, RRSS).
 
 ## Oferta de socios — Real Murcia × Aura Condomina (18-21 ago 2026)
 Documento "Oferta Exclusiva Socios Real Murcia CF — Aura Condomina" (pack de 3 viviendas, 2% descuento, 25%/75% de pago, amueblado) ya construido el 18 ago. **20 ago:** Adrián pidió prepararlo para enviar a **Juanjo** (vicepresidente/DG del club) — PDF copiado a `~/Desktop/Bruce/`, texto de WhatsApp redactado por Bruce. **Adrián dijo "ok" pero no confirmó el envío — sigue pendiente de confirmar.**
@@ -49,10 +49,12 @@ Documento "Oferta Exclusiva Socios Real Murcia CF — Aura Condomina" (pack de 3
 
 Manuel revisó el texto y pidió **más "profesionalidad"**, dado que es una operación que exige inversión, transparencia y seguridad, sin perder cercanía. Bruce reescribió el texto completo (introducción, los 4 beneficios, condiciones y cierre) en un registro más formal, incluyendo mención a las garantías legales de cantidades a cuenta (Ley 20/2015) — **dato genérico/legal, sin confirmar el avalista concreto de Aura, pendiente de que Adrián lo confirme antes de publicarlo así**. Se dieron también 2 alternativas de redacción solo para el bloque de gestión de alquiler. Textos enviados a Manuel para su valoración.
 
-**Confirmado (2 sep 2026): el WhatsApp a Juanjo con la oferta de socios se mandó.** Sigue pendiente aplicar la redacción final (si Manuel la ajustó) al HTML/PDF antes de reutilizarlo.
+**Confirmado (2 sep 2026): el WhatsApp a Juanjo con la oferta de socios se mandó.**
+
+**Cerrado (2 sep 2026): Manuel dio el ok al texto formal, y el dato del aval/garantía legal de Aura (Ley 20/2015) queda confirmado por Adrián.** Jonathan aplicó la versión final directamente al documento (fuera del repo de Bruce) — sin más acción pendiente sobre este documento. Nota: la versión formal del texto que Bruce reescribió el 21 ago nunca quedó guardada como archivo (solo se pasó en chat) — si hace falta de referencia en el futuro, pedir la versión final a Jonathan.
 
 ## Próxima acción
-**Firma completada el 17 de agosto** (33.000€+IVA, logo de cantera en pantalón delantero/pierna izquierda). Pendiente confirmar si se plantearon al club los riesgos detectados (contradicción de catering, cláusula de incumplimiento asimétrica, entidad firmante Murcia Promises C.F.) antes de firmar. Hércules ya confirmado en importe — pendiente seguir el calendario de ejecución del resto del gasto a lo largo del año. Confirmar si se mandó la oferta de socios a Juanjo (ver arriba). **Esperar respuesta de Manuel sobre el texto de la oferta (21 ago) y aplicar la versión final al PDF antes de reenviarla.** En paralelo, esperar movimiento de Manuel en Nueva Condomina.
+**Firma completada el 17 de agosto** (33.000€+IVA, logo de cantera en pantalón delantero/pierna izquierda). Pendiente confirmar si se plantearon al club los riesgos detectados (contradicción de catering, cláusula de incumplimiento asimétrica, entidad firmante Murcia Promises C.F.) antes de firmar. Hércules ya confirmado en importe — pendiente seguir el calendario de ejecución del resto del gasto a lo largo del año. En paralelo, esperar movimiento de Manuel en Nueva Condomina.
 
 ## Contenido de marca para el LED del Real Murcia (13 ago 2026)
 Guion de 20 segundos (3 pases por hora, confirmado en el contrato) para Aura Condomina — usa la cercanía real al estadio (2 min andando) como gancho de cierre. Detalle completo en `~/bruce/knowledge/mpc-group/aura-condomina-campanas-julio-2026.md` (sección 4). Pendiente: producir el vídeo (falta imagen/vídeo de gimnasio o Aura Bar para la escena 2) y decidir quién lo produce (Jonathan o agencia externa).

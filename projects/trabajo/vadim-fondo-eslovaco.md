@@ -72,7 +72,7 @@ Primera señal desde el desencuentro del 19 ago, tono cálido — no es una resp
 **Lectura:** buena señal de continuidad tras el desencuentro de financiar vs. comprar en NV2 — no confirma nada en firme todavía, pero descarta que el 19 ago fuera una ruptura. Cubre ambos frentes abiertos (NV2 y apertura Eslovaquia/Chequia), sin distinguir cuál responde primero. Respuesta formal esperada a partir del lunes 24 ago, quizá con el plazo del 2-3 sep todavía como referencia para NV2.
 
 ## Estado (2 sep 2026)
-Adrián lo describe como "muy bien" — pero sigue en pausa técnica esperando a que **Peter Heriban vuelva de viaje** para arrancar con fuerza (tanto NV2 como la apertura Eslovaquia/Chequia). No es enfriamiento, es disponibilidad de la persona clave del lado de Arbitas. Sin novedad sobre el plazo del 2-3 sep para NV2 ni sobre el webinar.
+Adrián lo describe como "muy bien" — pero sigue en pausa técnica esperando a que **Peter Heriban vuelva de su viaje por Asia** para arrancar con fuerza (tanto NV2 como la apertura Eslovaquia/Chequia). No es enfriamiento, es disponibilidad de la persona clave del lado de Arbitas. Sin novedad sobre el plazo del 2-3 sep para NV2 ni sobre el webinar.
 
 ## Próxima acción
 1. Esperar respuesta de Vadim/Peter — tanto al email de NV2 (plazo 2-3 sep) como a este segundo email sobre la apertura de mercado, webinar y corner. Si no hay señales antes, valorar recordatorio.

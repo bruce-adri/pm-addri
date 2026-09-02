@@ -60,9 +60,16 @@ Adrián envió un email a Manuel y María Jesús recomendando prescindir de Oliv
 ## Piloto de Jonathan — funcionando bien (21 ago 2026)
 Después de una semana de trabajo y una conversación de una hora el 21/08, Adrián valora que el piloto de combinar marketing y comercial **le hace feliz a Jonathan** y que tiene capacidad real para el puesto. El feedback de Oskar sobre Jonathan a nivel comercial es "muy bueno". Sigue sin haber una decisión formal de reparto fijo de agenda — de momento es el piloto ya en marcha desde el 17 ago (ver arriba).
 
+## Primera entrevista agendada — Isabel Soriano (2 sep 2026)
+
+Adrián entrevista la semana del 7 sep a **Isabel Soriano** (Murcia). CV: actualmente (2026) puerta fría en inmobiliaria; antes agente de ventas en empresa de marketing (2022-2024), parafarmacia DRUNI (2021-2022), hostelería/comercio (2015-2021). Formación dispersa (Diseño Gráfico, Comercio Exterior, Dietética y Nutrición, Bellas Artes, Máster en Formación del Profesorado — no está claro cuáles completó). Inglés e italiano a nivel intermedio. **No es ninguno de los 5 de la shortlist de LinkedIn del 27/07** — llegó por otra vía (confirmar cuál si hace falta rastrear el canal). Tiene experiencia de puerta fría inmobiliaria actual, pero no cierre de venta de producto de la gama de Aura — valorar en la entrevista si el perfil da el nivel que se busca (senior, con experiencia real de cierre).
+
+**El tiempo para Oliver se agota** (palabras de Adrián, 2 sep) — la entrevista a Isabel es un paso, pero **sigue haciendo falta encontrar más candidatos** en paralelo; no depende de un único perfil.
+
 ## Próxima acción
+- Entrevista a Isabel Soriano la semana del 7 sep — preparar con Adrián si hace falta guion/preguntas.
+- Seguir ampliando el pipeline de candidatos — retomar la shortlist de LinkedIn (5 nombres, ninguno contactado) y/o abrir otros canales.
 - Preguntar a Manuel/María Jesús si han decidido sobre Oliver, y si hace falta organizar la reunión en Benejúzar.
-- Preguntar a Adrián a cuáles de los 5 candidatos de LinkedIn quiere que se profundice, o si seguir revisando las 8 páginas restantes.
 - Si Oliver sale del equipo, revisar el reparto de leads de Aura Condomina (Oliver llevaba los leads extranjeros no polacos) y quién lo cubre.
 
 ## Acciones / Tareas

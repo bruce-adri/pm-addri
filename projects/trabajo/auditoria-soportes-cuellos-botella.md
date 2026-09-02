@@ -1,6 +1,6 @@
 ---
 area: trabajo
-status: 🟡 en marcha
+status: ⚪ sin seguimiento
 priority: alta
 updated: 2026-09-02
 ---
@@ -16,9 +16,9 @@ Bruce redactó una respuesta para Adrián:
 - Conecta explícitamente con la sistemática de proceso comercial ya construida con Cris (`~/bruce/knowledge/mpc-group/reports-comerciales/2026-07-24-sistematica-proceso-comercial.html`), que ya define responsable por fase — propone extender esa misma lógica a los cuellos de botella que señala Manuel.
 - Propone reunión el **martes 25 de agosto** en la oficina de Alicante para hacer el listado y asignar responsables/fechas.
 
-**Confirmado (2 sep 2026): Adrián envió la respuesta a Manuel.** Sin detalle todavía de si Manuel confirmó la reunión del 25 ago ni de si se celebró — preguntar al retomar.
+**Confirmado (2 sep 2026): Adrián envió la respuesta a Manuel.** La reunión del 25 ago no llegó a hacer falta prepararla (confirmado por Adrián el 2 sep) — la iniciativa queda sin seguimiento activo por ahora, no descartada.
 
 ## Próxima acción
-1. Confirmar si la reunión propuesta del 25 ago con Manuel se celebró y qué salió de ella.
-2. Si sí, preparar/revisar el listado de soportes/procesos con responsables.
+1. Sin acción por ahora — vigilar si Manuel retoma la iniciativa.
+2. Si se retoma, preparar/revisar el listado de soportes/procesos con responsables.
 3. Definir frecuencia real de revisión de soportes (Adrián a decidir, no asumir "mensual").
