@@ -160,4 +160,24 @@ Funnel RRSS de 4 fases (primer contacto → consulta de precio → lista prefere
 ## Notas
 - Que el lanzamiento no sea un éxito está en la lista de "lo que no puede salir mal".
 - Precios "desde" válidos: 179.900 € / 243.900 € / 354.900 € (los del Excel de precios están desactualizados).
-- Inversión total del proyecto: 57M€ (dato para la nota de prensa).
+- **Dos cifras distintas, no confundir (aclarado 3 sep 2026):** inversión total del proyecto = **57M€** (dato para la nota de prensa); facturación esperada por ventas = **70-73M€**. Usar la que corresponda según el contexto del documento.
+
+## Plan de Lanzamiento — empujón sep-dic 2026 (3 sep 2026)
+Adrián planteó que el ritmo de ventas (7/54) no está a la altura de un proyecto de este tamaño — mercado murciano más lento para decidir + sector en general más lento, pero insuficiente inversión de momento. Documento completo (plan + presupuesto + calendario): `knowledge/mpc-group/reports-comerciales/2026-09-03-aura-condomina-presupuesto-lanzamiento.html`.
+
+**5 ejes de acción:** 1) captación digital (Meta reforzado), 2) presencia física en Murcia (Nueva Condomina + feria ResideMurcia), 3) contenido/PR (La Opinión de Murcia, avatar Persuadis, radio, **nuevo: entrevista a clientes Natalia/Andrés con Envy + gancho Real Murcia, idea de sumar a Pedro León** — presidente del club), 4) relación con agencias (evento privado fin de año), 5) influencer local — **aparcado por decisión de Adrián (3 sep)**, a la espera de que alguien del equipo traiga un presupuesto orientativo (4 candidatas ya identificadas en `knowledge/mpc-group/aura-condomina-influencer-murcia.md`).
+
+**3 escenarios de inversión (cerrados 3 sep 2026, quinta vuelta), a elegir por Adrián:** sin vallas/OOH en ningún escenario ("no es top"). Sin línea de medio regional (La 7/Élite Murcia descartadas — "no vamos a conseguir nada" con 500€).
+- **Escenario 1 — 27.900€:** Nueva Condomina (15.000€), feria (2.000€), Opinión de Murcia (3.000€), entrevista a Natalia (400€), **evento de lanzamiento 24 sep en La Terraza del Murcia + foto de primera piedra (3.500€)** — sin evento de agencias, Meta fijado por Adrián en 4.000€ (sube el total de 25.000€ a 27.900€, cifra real, no forzada).
+- **Escenario 2 — 45.000€ (recomendado por Bruce):** + evento de agencias en La Terraza del Murcia (3.000€), entrevista a Pedro León (500€), **2 eventos de cliente final de 3.000€ cada uno** — con AJE Región de Murcia (jóvenes empresarios) y con el Círculo de Economía de la Región de Murcia (Terraza del Real Casino, sede real de esa institución) —, producción/distribución revisada a la baja (2.500€: vídeo Envy ≤500€ + boost RRSS ≤2.000€), Meta reforzado (9.100€).
+- **Escenario 3 — 60.000€:** igual que Escenario 2 pero con Meta llevado a su tope (24.100€) — solo recomendable si la contratación comercial de Murcia está resuelta.
+
+Confirmado 3 sep: Nueva Condomina (corner+2 azafatas) ≤15.000€; ResideMurcia 3.100€ total, MPC paga la mitad (1.550€), **fecha confirmada: fin de semana del 6 de noviembre**; La Opinión de Murcia 2 artículos a 1.500€ (3.000€ total); entrevista a Natalia ≤400€ (Envy). **Medio regional descartado** (Élite Murcia y Murcia Conecta por 500€, ambos rechazados por Adrián). El evento del 24 sep resuelve el hilo aparcado de la inauguración de la 4ª planta del Enrique Roca (1 sep).
+
+**Eventos regionales a valorar (investigación de Bruce, 3 sep):** FECONS (feria de construcción, IFEPA, 22-24 oct, [ifepa.es/fecons](https://ifepa.es/fecons/) — prioridad alta para autoridad de sector, no para leads de vivienda), CEO Congress Murcia (**confirmado: 18 nov 2026**, [ceocongressmurcia.com](https://ceocongressmurcia.com/), 1.300+ directivos — coincide con la ventana del evento cliente final #2), Feria de Murcia (3-15 sep, ya en marcha — fiestas patronales Virgen de la Fuensanta, solo contexto).
+
+**Ideas de expansión internacional, fuera del presupuesto (investigación de Bruce, 3 sep):** para dar empuje también a Pórtico Plaza II y Nature Views II, no solo a Aura — **Eslovaquia** (evento privado con Arbitas SICAV en Bratislava, presentando los 3 proyectos juntos; bloqueado hasta que vuelva Peter Heriban), **Tampa Bay** (aprovechar el viaje de noviembre ya confirmado con Provia; contactos encontrados: NAHREP Tampa Bay y precedente de la Cámara España-EEUU en Miami), **Países Bajos** (evento privado para compradores holandeses, sin partner identificado todavía — idea a desarrollar desde cero). Detalle en `knowledge/mpc-group/aura-condomina-campanas-julio-2026.md`.
+
+Detalle completo: `knowledge/mpc-group/aura-condomina-campanas-julio-2026.md` (secciones 4b/4c).
+
+**Aviso de Bruce (riesgo crítico del plan):** el salto de Meta del Escenario 3 solo tiene sentido si se resuelve antes la contratación del comercial senior de Murcia (ver `contratacion-comercial-murcia.md`) — si no, genera más leads de los que el equipo puede cerrar a tiempo.

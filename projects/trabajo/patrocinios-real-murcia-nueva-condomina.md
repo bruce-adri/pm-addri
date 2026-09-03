@@ -2,7 +2,7 @@
 area: trabajo
 status: 🟡 en marcha
 priority: media
-updated: 2026-09-02
+updated: 2026-09-03
 ---
 
 # Patrocinios y acciones de marca — Real Murcia CF, Nueva Condomina, tranvía
@@ -30,7 +30,14 @@ Varias vías de patrocinio/publicidad en Murcia en exploración, ninguna cerrada
 - Documento marco entregado (Word) para Manuel, aprobado por Adrián el 15 jul 2026.
 - Análisis completo: `~/bruce/knowledge/mpc-group/patrocinio-nueva-condomina.md`
 - Siguiente paso: pedir a la gestión del centro datos de afluencia y referencias de precio antes de cerrar.
+- **3 sep 2026 — orientación de Adrián para el lanzamiento de Aura:** descartar el parking (demasiado caro), quedarse con cartelería + un corner atendido por 1-2 azafatas. Pendiente pedir a la gestión del centro una cotización específica solo de este alcance reducido (no del paquete de 45.000€ completo).
 - Sin decidir.
+
+## Feria ResideMurcia — nuevo (3 sep 2026)
+- Feria inmobiliaria [residemurcia.es](https://www.residemurcia.es/), asistencia en colaboración con el agente colaborador **Inmo Home Spain**.
+- Coste del stand compartido: **3.100 € en total** — confirmado (3 sep 2026): MPC paga la mitad (**1.550 €**), más folletos/merchandising propios del stand (estimado 300-800 €, sin definir todavía qué se produce).
+- Pendiente de decidir: rotulación del stand — Adrián baraja dejar una pared para Aura y que Inmo Home Spain use el resto para sus otras promociones (para atraer más visitantes al stand). Ver recomendación de Bruce en la sesión del 3 sep (favorecer presencia dominante de Aura dado el volumen de inversión que se está poniendo detrás del lanzamiento, no diluirla).
+- Fecha de la feria: pendiente de confirmar (consultar residemurcia.es).
 
 ## Tranvía de Murcia — descartado del seguimiento (18 jul 2026)
 Adrián decide no seguir esta vía: Real Murcia avanza a cierre y se centra ahí. Investigación queda archivada en `~/bruce/knowledge/mpc-group/patrocinio-tranvia-murcia.md` por si se retoma en el futuro.
@@ -40,7 +47,9 @@ Adrián decide no seguir esta vía: Real Murcia avanza a cierre y se centra ahí
 - Intervención urbana propia — adoptar/mejorar una plaza o zona verde cerca de Nueva Condomina.
 
 ## Inauguración 4ª planta (1 sep 2026)
-Evento de inauguración de la nueva 4ª planta del Real Murcia CF, el **1 de septiembre** (corregido — se registró primero como 2 sep por error), con los 4 asientos VIP del patrocinio (subidos de 2 a 4 en el cierre del 6 ago) usados por primera vez para un evento de este tipo. **Adrián confirma que fue muy bien.** Sin plan de contenido/relación todavía — aparcado, no descartado, valorar si hay algo que explotar (invitar a cliente/agencia clave, RRSS).
+Evento de inauguración de la nueva 4ª planta del Real Murcia CF, el **1 de septiembre** (corregido — se registró primero como 2 sep por error), con los 4 asientos VIP del patrocinio (subidos de 2 a 4 en el cierre del 6 ago) usados por primera vez para un evento de este tipo. **Adrián confirma que fue muy bien.**
+
+**Retomado (3 sep 2026):** el espacio de esa inauguración, La Terraza del Murcia, se propone como sede del **evento de cliente final #1** del plan de lanzamiento de Aura Condomina (sep-dic 2026) — cóctel para leads cualificados, combinado con la grabación de una entrevista a Pedro León (presidente del club) sobre la calidad de vida en Murcia y vivir junto al estadio. Detalle en `knowledge/mpc-group/aura-condomina-campanas-julio-2026.md` (sección 4c) y `reports-comerciales/2026-09-03-aura-condomina-presupuesto-lanzamiento.html`. Pendiente confirmar con el club (Juanjo) disponibilidad del espacio y de Pedro León.
 
 ## Oferta de socios — Real Murcia × Aura Condomina (18-21 ago 2026)
 Documento "Oferta Exclusiva Socios Real Murcia CF — Aura Condomina" (pack de 3 viviendas, 2% descuento, 25%/75% de pago, amueblado) ya construido el 18 ago. **20 ago:** Adrián pidió prepararlo para enviar a **Juanjo** (vicepresidente/DG del club) — PDF copiado a `~/Desktop/Bruce/`, texto de WhatsApp redactado por Bruce. **Adrián dijo "ok" pero no confirmó el envío — sigue pendiente de confirmar.**
