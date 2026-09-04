@@ -2,7 +2,7 @@
 area: trabajo
 status: 🟡 en marcha
 priority: alta
-updated: 2026-09-02
+updated: 2026-09-04
 ---
 
 # Contratación — Comercial senior de Murcia (refuerzo Aura Condomina)
@@ -66,8 +66,12 @@ Adrián entrevista la semana del 7 sep a **Isabel Soriano** (Murcia). CV: actual
 
 **El tiempo para Oliver se agota** (palabras de Adrián, 2 sep) — la entrevista a Isabel es un paso, pero **sigue haciendo falta encontrar más candidatos** en paralelo; no depende de un único perfil.
 
+## Entrevista confirmada (4 sep 2026)
+Fecha y hora cerradas: **entrevista martes 8 sep, 9:00**. Preparación conjunta con Adrián el **lunes 7 sep, 9:00** (ambos eventos ya en el Calendario de Apple de Adrián con alerta 15 min antes).
+
 ## Próxima acción
-- Entrevista a Isabel Soriano la semana del 7 sep — preparar con Adrián si hace falta guion/preguntas.
+- Lunes 7 sep, 9:00: preparar con Adrián el guion/preguntas de la entrevista a Isabel Soriano.
+- Martes 8 sep, 9:00: entrevista a Isabel Soriano.
 - Seguir ampliando el pipeline de candidatos — retomar la shortlist de LinkedIn (5 nombres, ninguno contactado) y/o abrir otros canales.
 - Preguntar a Manuel/María Jesús si han decidido sobre Oliver, y si hace falta organizar la reunión en Benejúzar.
 - Si Oliver sale del equipo, revisar el reparto de leads de Aura Condomina (Oliver llevaba los leads extranjeros no polacos) y quién lo cubre.

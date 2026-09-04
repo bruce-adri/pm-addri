@@ -2,7 +2,7 @@
 area: trabajo
 status: 🟢 activo
 priority: crítica
-updated: 2026-09-02
+updated: 2026-09-04
 ---
 
 # Aura Condomina — Fase 1 (250 viv., Nueva Condomina, Murcia)
@@ -194,3 +194,11 @@ Detalle completo: `knowledge/mpc-group/aura-condomina-campanas-julio-2026.md` (s
 **Documento para Manuel y María Jesús (3 sep 2026, 3ª revisión):** ajustes de diseño (título de "Propuesta — 3 escenarios" ya no pegado al borde superior de página, "Calendario de acciones" movido a su propia página) y de contenido (quitado el bloque de KPIs de CPL/55,6%/2.931 leads — se queda solo el bloque "Lo que dicen las 7 ventas"; añadida la fecha de la entrevista a Natalia y Andrés en el calendario). versión pulida sin menciones a Bruce, en `knowledge/mpc-group/reports-comerciales/2026-09-03-aura-condomina-plan-lanzamiento-manuel-mj.html/.pdf` (copia también en `~/Desktop/MPC Group/Comité dirección/`). Título+tabla de los 3 escenarios en el mismo folio, con KPIs reales añadidos (CPL 0,67€, 55,6% ventas internacionales, 2.931 CP acumulados) + box "Lo que dicen las 7 ventas" (ver perfil arriba). Evento con agencias movido a octubre. CEO Congress reformulado sin mención a marca personal (documento para Manuel). Entrevista institucional renombrada a Pedro León explícitamente (no "Real Murcia CF" genérico). Añadido punto de atención sobre landing/maqueta virtual. Arreglado en esta revisión: ningún título de sección queda separado de su contenido entre páginas (fix de CSS `break-after: avoid` en los h2, a mantener en futuras plantillas de este tipo). Propuestas internacionales con los partners reales, en orden de prioridad: **1) Eslovaquia** (Arbitas SICAV), **2) Países Bajos** (con Manon — contacto de Adrián, sin más detalle registrado), **opción a valorar) EEUU** (viaje confirmado con Provia es a **Nueva Orleans**; Tampa Bay con contactos/amigos de Adrián queda como extensión opcional, no como plan cerrado).
 
 **Aviso de Bruce (riesgo crítico del plan):** el salto de Meta del Escenario 3 solo tiene sentido si se resuelve antes la contratación del comercial senior de Murcia (ver `contratacion-comercial-murcia.md`) — si no, genera más leads de los que el equipo puede cerrar a tiempo.
+
+## Sesión 4 sep 2026 — seguimiento del plan + campaña Bektor + evento institucional
+
+- **Escenario elegido:** María Jesús ya contestó que le gusta el **Escenario 2 (45.000€)**, el recomendado. A la espera de que Manuel diga lo mismo.
+- **La Terraza del Murcia:** Adrián no llama al club para confirmar disponibilidad (24 sep + evento agencias oct) hasta tener el ok de Manuel al presupuesto.
+- **Entrevista Natalia y Andrés — guion cerrado.** 6 preguntas con arco narrativo (quiénes son → el reto de comprar joven → trato recibido por MPC → por qué Aura → cómo se imaginan viviendo allí → mensaje a otros jóvenes), cierre en el Enrique Roca con camiseta del Real Murcia. Documento: `knowledge/mpc-group/aura-condomina-entrevista-natalia-andres.md` (repo Bruce). **Confirmado: el coste ≤400€ con Envy cubre a Natalia y Andrés juntos** (duda que llevaba abierta desde el 3 sep, resuelta).
+- **Evento 24 sep — gira hacia formato más institucional, aforo reducido.** Novedad: **el Consejero de Empresa, Empleo y Economía Social de la Región de Murcia, Luis Alberto Marín, confirmado** — aparecerá en la foto plantando un árbol y enterrando una cápsula del tiempo (versión moderna de "primera piedra"). Carta de invitación ya redactada (`knowledge/mpc-group/2026-09-04-carta-invitacion-luis-alberto-marin.docx`), en nombre de MPC Group y su mercantil **Nueva Condomina Desarrollos Urbanísticos, S.L.**, mencionando a **ETOSA** como constructora colaboradora, firmada por Manuel como CEO. **Pendiente:** Adrián todavía tiene que confirmar con Manuel cómo encaja este formato institucional reducido con el evento grande ya presupuestado en La Terraza — hasta entonces la carta tiene huecos sin rellenar (hora/lugar exacto del acto, apellidos de Manuel, contacto de confirmación).
+- **Campaña Bektor (llamadas con IA a leads) — construida de cero.** Ver `leads-contenido.md` para el detalle completo.
