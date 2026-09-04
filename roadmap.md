@@ -1,6 +1,6 @@
 # Roadmap — Adrián Barbudo
 
-**Última actualización:** 2026-09-02
+**Última actualización:** 2026-09-03
 
 Vista agregada de todos los proyectos, por área. Detalle de cada proyecto en `projects/<área>/<nombre>.md`.
 
@@ -10,7 +10,7 @@ Vista agregada de todos los proyectos, por área. Detalle de cada proyecto en `p
 
 | Proyecto | Estado | Prioridad | Próxima acción |
 |----------|--------|-----------|----------------|
-| [Aura Condomina — Fase 1](projects/trabajo/aura-condomina.md) | 🟢 Activo | Crítica | **2 sep: 4 ventas regularizadas en Dynamics, pero se pierde Marta (compró a su vecino) — de 8 a 7 ventas reales.** 30% de leads ya descartados. 10 de las 18 ventas combinadas con Pórtico son internacionales, sin que Aura se haya lanzado fuera todavía. Sigue pendiente el estudio de posicionamiento de precio (arrastrado desde el 10 ago, sin hacer) |
+| [Aura Condomina — Fase 1](projects/trabajo/aura-condomina.md) | 🟢 Activo | Crítica | **3 sep: Plan de Lanzamiento sep-dic cerrado** (7/54 ventas, ritmo insuficiente) — 3 escenarios de inversión (25-28k/45k/60k), documento pulido para Manuel/María Jesús listo. Evento de lanzamiento 24 sep (La Terraza del Murcia + primera piedra), entrevista Natalia/Andrés (11→16 sep), eventos con AJE y Círculo de Economía, FECONS/CEO Congress a valorar. Propuestas internacionales: Eslovaquia (Arbitas) y Países Bajos (Manon) prioritarias, Tampa Bay como opción. Sigue pendiente el estudio de posicionamiento de precio (arrastrado desde el 10 ago, sin hacer) |
 | [Contratación comercial senior Murcia (Aura)](projects/trabajo/contratacion-comercial-murcia.md) | 🟡 En marcha | Alta | **2 sep: "el tiempo para Oliver se agota" (Adrián).** Primera entrevista agendada semana del 7 sep a Isabel Soriano (no es de la shortlist LinkedIn) — sigue haciendo falta ampliar el pipeline, shortlist LinkedIn (5 nombres) sin contactar todavía |
 | [Calas Blancas (Torrevieja) — ~100 viviendas](projects/trabajo/calas-blancas-torrevieja.md) | 🟡 En marcha | Baja | **Aparcado (27/07)** — sin margen de acción, no tocar salvo reactivación |
 | [Nature Views](projects/trabajo/nature-views.md) | 🟢 Activo (cierre) | Crítica | Ático (línea roja del trimestre): 3 visitas en menos de una semana (Patricia no era este ático, ver Pórtico abajo — corregido 11 ago; visita 10 ago + otra con agencia 11 ago). Villa 12: Vanesa (irlandesa) sigue decidiendo. Oliver cubre el proyecto durante las vacaciones de María |

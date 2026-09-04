@@ -18,6 +18,15 @@ Lanzamiento oficial: 2 de julio de 2026. 54 ventas en el año (Fase 1), de las c
 ## Precios desde
 **169.900 €** (lista oficial de lanzamiento, 16 jul 2026 — sustituye la referencia anterior de 179.900€)
 
+## Perfil de las 7 ventas (dato de Adrián, 3 sep 2026)
+- Tipología más demandada con diferencia: vivienda de **1 habitación**.
+- Las 7 ventas se han cerrado con **cliente directo**, sin intermediación de agencias.
+- Perfil emergente a vigilar: **clientes jóvenes** buscando su primera vivienda.
+- De las 3 ventas a clientes externos, **1 se ha cerrado completamente online**.
+
+## Materiales de venta — landing y maqueta virtual (3 sep 2026)
+La landing de Aura Condomina necesita mejorar sus renders — ya en marcha. El salto real llegará con la **maqueta virtual**, que debería estar lista antes del evento de lanzamiento del 24 de septiembre, aunque el plazo depende de cuándo el propio equipo entregue al proveedor toda la información que necesita para producirla.
+
 ## Estado de Ventas (3 ago 2026)
 **7 de 54 unidades de Fase 1** fuera de disponible: 2 vendidas (con dinero) + 4 reservas verbales + **1 depósito nuevo (3 ago)** — rompe el estancamiento en 6/54 que llevaba desde el 21/07. Comprador: **Alejandro Cano**, murciano, trabaja en Amazon Alemania — vivienda **A10B, 195.900 €**, captado a través de **Persuadis** vía la web de Aura Condomina (canal por el que se derivan los leads de esa campaña) — primera venta real del canal, antes incluso de su lanzamiento a pleno rendimiento (ver nota de renders pendientes más abajo). Dato verbal de Adrián para el informe de Comité de Dirección del 3 ago; Power BI (corte semanal) no refleja esta operación (depósito no entra en Dynamics hasta contrato + señal formal). **Pago confirmado hoy, 3 ago, entre las 18:00 y las 19:00.**
 
@@ -179,5 +188,9 @@ Confirmado 3 sep: Nueva Condomina (corner+2 azafatas) ≤15.000€; ResideMurcia
 **Ideas de expansión internacional, fuera del presupuesto (investigación de Bruce, 3 sep):** para dar empuje también a Pórtico Plaza II y Nature Views II, no solo a Aura — **Eslovaquia** (evento privado con Arbitas SICAV en Bratislava, presentando los 3 proyectos juntos; bloqueado hasta que vuelva Peter Heriban), **Tampa Bay** (aprovechar el viaje de noviembre ya confirmado con Provia; contactos encontrados: NAHREP Tampa Bay y precedente de la Cámara España-EEUU en Miami), **Países Bajos** (evento privado para compradores holandeses, sin partner identificado todavía — idea a desarrollar desde cero). Detalle en `knowledge/mpc-group/aura-condomina-campanas-julio-2026.md`.
 
 Detalle completo: `knowledge/mpc-group/aura-condomina-campanas-julio-2026.md` (secciones 4b/4c).
+
+**Fechas de la entrevista a Natalia y Andrés (3 sep 2026):** grabación el 11 de septiembre, lista para RRSS/donde haga falta el 16 de septiembre.
+
+**Documento para Manuel y María Jesús (3 sep 2026, 3ª revisión):** ajustes de diseño (título de "Propuesta — 3 escenarios" ya no pegado al borde superior de página, "Calendario de acciones" movido a su propia página) y de contenido (quitado el bloque de KPIs de CPL/55,6%/2.931 leads — se queda solo el bloque "Lo que dicen las 7 ventas"; añadida la fecha de la entrevista a Natalia y Andrés en el calendario). versión pulida sin menciones a Bruce, en `knowledge/mpc-group/reports-comerciales/2026-09-03-aura-condomina-plan-lanzamiento-manuel-mj.html/.pdf` (copia también en `~/Desktop/MPC Group/Comité dirección/`). Título+tabla de los 3 escenarios en el mismo folio, con KPIs reales añadidos (CPL 0,67€, 55,6% ventas internacionales, 2.931 CP acumulados) + box "Lo que dicen las 7 ventas" (ver perfil arriba). Evento con agencias movido a octubre. CEO Congress reformulado sin mención a marca personal (documento para Manuel). Entrevista institucional renombrada a Pedro León explícitamente (no "Real Murcia CF" genérico). Añadido punto de atención sobre landing/maqueta virtual. Arreglado en esta revisión: ningún título de sección queda separado de su contenido entre páginas (fix de CSS `break-after: avoid` en los h2, a mantener en futuras plantillas de este tipo). Propuestas internacionales con los partners reales, en orden de prioridad: **1) Eslovaquia** (Arbitas SICAV), **2) Países Bajos** (con Manon — contacto de Adrián, sin más detalle registrado), **opción a valorar) EEUU** (viaje confirmado con Provia es a **Nueva Orleans**; Tampa Bay con contactos/amigos de Adrián queda como extensión opcional, no como plan cerrado).
 
 **Aviso de Bruce (riesgo crítico del plan):** el salto de Meta del Escenario 3 solo tiene sentido si se resuelve antes la contratación del comercial senior de Murcia (ver `contratacion-comercial-murcia.md`) — si no, genera más leads de los que el equipo puede cerrar a tiempo.
