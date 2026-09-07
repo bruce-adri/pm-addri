@@ -80,8 +80,16 @@ La reunión con Manuel y Cris del 30/07 sí tuvo resultado (contradice el regist
 ## Mejoras de CRM del equipo comercial (5 ago 2026, extra fuera de las 3 acciones de Adrián)
 Adrián grabó una reunión con Óscar y Oliver (4/08) recorriendo el CRM campo a campo. Condensado en `knowledge/mpc-group/reports-comerciales/2026-08-05-mejoras-crm-equipo-comercial.html/.pdf`: qué eliminar de la ficha de contacto (puesto, aniversario, 3 teléfonos, competidores...), qué falta/arreglar (desplegable cerrado de promoción, arrastrar datos Lead→Contacto, registrar llamadas/WhatsApp, ambos compradores en la misma ficha), qué mantener (contexto cualitativo, dormitorios/baños mínimo, financiación), automatizaciones a construir (conecta con #9) y dashboards de comercial/dirección. Enlaza directamente con la **acción 6 de las 12 del 30/07** (revisar automatismos y notificaciones internas, responsable Eduardo) — es el input directo del equipo comercial para esa revisión. Documento validado por Adrián y sin ninguna mención a Bruce, listo para compartir.
 
+## Manual de Comunicación con Cliente — cerrado 7 sep 2026
+
+Adrián decidió arrancar la comunicación real con cliente esta semana, sin esperar más al cotejo con Administración/Postventa. Se construyó `knowledge/mpc-group/reports-comerciales/2026-09-07-manual-comunicacion-cliente.html/.pdf` (+ `~/Desktop/Bruce/`): sustituye al inventario del 4/08 (#9), con los 6 textos que estaban "revisar" pasados a **vigentes** por decisión de Adrián, más una sección nueva de **tono de voz** (6 principios: tuteo siempre, sin jerga, puerta abierta, firma con persona real, malas noticias sin alarmar, cierre según el momento) extraída del estilo ya usado en #9/#10.
+
+**Condición explícita en el documento:** si Administración/Postventa ya tienen un texto real distinto en uso para alguno de los 9 puntos, ese manda — hay que actualizarlo, no hay que descartarlo en silencio.
+
+**Siguiente paso, no es de Bruce:** Eduardo tiene que cargar estos textos/momentos como plantillas activas en Dynamics/WhatsApp (acción 6 de las 12 del 30/07).
+
 ## Próxima acción
-**Reunión del jueves 6 de agosto por la mañana con Cris.** Las 3 acciones de Adrián (#8, #9, #10) están cerradas, más el documento adicional de mejoras de CRM. Pendiente sin hacer: cotejar los 6 textos "revisar" del inventario de notificaciones (#9) con lo que ya existe en Administración/Postventa.
+Seguir arrastrando: cotejar formalmente los 6 textos (ahora vigentes) con lo que exista en Administración/Postventa, si aparece alguna versión real distinta. Reunión de seguimiento con Cris sin fecha nueva confirmada.
 
 Pendiente sin resolver de sesiones anteriores: mover el PDF del informe desde `~/bruce/data/informe-proceso-comercial-cris/` a `~/Desktop/Bruce/` (arrastrado desde el 17/07).
 
