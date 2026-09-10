@@ -1,6 +1,6 @@
 # Roadmap — Adrián Barbudo
 
-**Última actualización:** 2026-09-04
+**Última actualización:** 2026-09-10
 
 Vista agregada de todos los proyectos, por área. Detalle de cada proyecto en `projects/<área>/<nombre>.md`.
 
@@ -26,7 +26,7 @@ Vista agregada de todos los proyectos, por área. Detalle de cada proyecto en `p
 | [WhatsApp API — equipo comercial bloqueado](projects/trabajo/whatsapp-api-equipo-comercial.md) | 🟡 En marcha | Alta | Comparativa de proveedores lista (Saysimple/360dialog/Wati/Respond.io + Inogic para Dynamics) — pendiente que Eduardo traiga cotización real y respuesta sobre integración con Dynamics |
 | Estudio de mercado — Murcia y Torrevieja (estilo Alicante) | 🟡 En marcha (Torrevieja) | Media | Decidido en Comité de Dirección (11 ago 2026): replicar el nivel de profundidad del estudio de Alicante en `murcia.md` y `costa-blanca-sur.md`. **14 ago: `costa-blanca-sur.md` arrancado** — competencia de obra nueva en Los Balcones/Laguna Rosa (metainmo, resales-online, idealista), 12 promociones mapeadas. Falta el nivel de detalle de testigos INE/Registradores/Notariado que sí tiene Alicante, y `murcia.md` sigue sin empezar. |
 | [Auditoría continua de soportes + cuellos de botella](projects/trabajo/auditoria-soportes-cuellos-botella.md) | ⚪ Sin seguimiento | Alta | Iniciativa de Manuel (20 ago, por email): auditoría periódica de landing/web/textos + resolver cuellos de botella de personas concretas (menciona a Eduardo). **2 sep: la reunión propuesta del 25 ago no hizo falta prepararla** (confirmado por Adrián) — sin más acción por ahora, vigilar si Manuel la retoma |
-| Marca personal LinkedIn — Adrián | 🟢 Activo | Media | Arrancado 11 ago: auditoría hecha, "Open to Work" quitado, "Acerca de" reescrito. Cadencia real: 1 post/semana (miércoles) + compartir MPC Group — Adrián prefiere ritmo lento y sostenible a un plan agresivo. Primer post (Pórtico Plaza II) listo para el 12 ago. Detalle en `agents/marketing.md` (repo Bruce) |
+| Marca personal LinkedIn — Adrián | 🟢 Activo | Media | **10 sep: cadencia retomada tras ~3 semanas paradas.** Primer post real publicado (liderazgo: diferencias Torrevieja/Alicante/Murcia, con imagen). **Recalibración de fase:** nada de contenido de autoridad regulatoria todavía — foco en liderazgo de personas + mercado vivido, para headhunters/agencias/comerciales. Calendario hasta 15 oct cerrado en `knowledge/mpc-group/linkedin-calendario-adrian.md` (repo Bruce): 17 sep (contratación), 29 sep martes (evento Aura, tras publicación de Manuel), 1 oct (comprador internacional). Plan de ritmo: 1 post/semana hasta finales de oct, 2/semana nov-dic. Regla nueva: nunca publicar sobre eventos MPC antes que Manuel. Detalle en `agents/marketing.md` (repo Bruce) |
 
 ## Personal
 
@@ -43,7 +43,7 @@ Vista agregada de todos los proyectos, por área. Detalle de cada proyecto en `p
 
 | Proyecto | Estado | Prioridad | Próxima acción |
 |----------|--------|-----------|----------------|
-| [Bruce — Fase 1 (codificar los agentes)](projects/bruce/fase-1.md) | 🟡 En marcha | Alta | Adrián elige empezar por `personas.md` (27/07) — capas de equipo enriquecidas con CVs reales, faltan clientes clave y competidores |
+| [Bruce — Fase 1 (codificar los agentes)](projects/bruce/fase-1.md) | 🟡 En marcha | Alta | **10 sep: próxima sesión dedicada entera a `personas.md`.** Equipo (8 perfiles) y competidores ya cerrados — quedan clientes clave (solo Vadim) y red de contactos (solo Open Club + WTG) |
 | [Bruce — Fase 2 (3-6 meses)](projects/bruce/fase-2.md) | 🔴 No iniciado | Alta | Priorizar cuál de las 5 capacidades abordar primero |
 | [Bruce — Fase 3 (12 meses)](projects/bruce/fase-3.md) | 🔴 No iniciado | Media | Revisar cuando Fase 2 esté avanzada |
 
