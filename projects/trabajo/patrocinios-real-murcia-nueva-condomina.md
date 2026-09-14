@@ -48,6 +48,9 @@ Adrián decide no seguir esta vía: Real Murcia avanza a cierre y se centra ahí
 - Fundador/patrocinador de la futura Ciudad Deportiva del Real Murcia (227.000 m², proyecto en fase temprana).
 - Intervención urbana propia — adoptar/mejorar una plaza o zona verde cerca de Nueva Condomina.
 
+## Premios Alfonso Décimo de la Región de Murcia — nuevo (14 sep 2026)
+Mecenazgo cultural, distinto de los patrocinios deportivos de arriba. Contacto entrante: **José Manuel Jiménez**, director de los premios, referenciado por **Juan Acosta** (director comercial de Atikalia, partner del pack de amueblamiento de Aura) y mencionando a **Víctor Pertusa** (probable familiar de Manuel) — referido cálido, no contacto frío. Propone presentar en persona una propuesta de presencia de MPC en la edición 2027. **Reunión confirmada: jueves 17 sep por la mañana, en la oficina de ventas de Aura Condomina** (email de respuesta ya enviado por Adrián). Categoría más relevante para MPC: **Mecenazgo** (premio a patrocinadores), aparte de Arquitectura. Sin coste ni condiciones conocidas todavía — se sabrá en la reunión.
+
 ## Inauguración 4ª planta (1 sep 2026)
 Evento de inauguración de la nueva 4ª planta del Real Murcia CF, el **1 de septiembre** (corregido — se registró primero como 2 sep por error), con los 4 asientos VIP del patrocinio (subidos de 2 a 4 en el cierre del 6 ago) usados por primera vez para un evento de este tipo. **Adrián confirma que fue muy bien.**
 
