@@ -88,6 +88,8 @@ Adrián decidió arrancar la comunicación real con cliente esta semana, sin esp
 
 **Siguiente paso, no es de Bruce:** Eduardo tiene que cargar estos textos/momentos como plantillas activas en Dynamics/WhatsApp (acción 6 de las 12 del 30/07).
 
+**Cuenta de email para comunicación comercial (decidido 10 sep 2026): `hola@mpc-group.es`.** Adrián quería una cuenta única desde la que salgan los emails comerciales a cliente (en vez de la bandeja personal de cada comercial), coherente con el tono de voz ya cerrado en el manual (cercano pero profesional, "asesor" no "vendedor"). Descartadas por Bruce: "ventas@" (contradice el posicionamiento de asesor, no vendedor) y "club@" (esa palabra ya se había retirado del vocabulario de marca en la coletilla de radio y el guion del avatar de Aura, 13-14 ago). Pendiente de crear la cuenta real y decidir quién la gestiona/monitoriza.
+
 ## Próxima acción
 Seguir arrastrando: cotejar formalmente los 6 textos (ahora vigentes) con lo que exista en Administración/Postventa, si aparece alguna versión real distinta. Reunión de seguimiento con Cris sin fecha nueva confirmada.
 
