@@ -24,6 +24,7 @@ Varias vías de patrocinio/publicidad en Murcia en exploración, ninguna cerrada
 ## Hércules CF — nuevo (24 jul 2026)
 - Patrocinio confirmado por **15.000€ IVA incluido** — sustituye al precedente de ~10.000€ de la temporada anterior. Todavía no reflejado en la ejecución de marketing del primer semestre.
 - Sin análisis propio todavía — mención registrada en `~/bruce/knowledge/mpc-group/patrocinio-real-murcia.md` (sección de actualización).
+- **14 sep 2026:** a diferencia de Real Murcia (firmado el 17 ago), **la firma formal del Hércules sigue sin cerrarse** pese a tener el importe confirmado. Contacto para proponer el cierre: **Germán**. Pendiente que Adrián valore cuándo proponérselo. Reflejado en el informe de Comité de Dirección del 14 sep.
 
 ## Centro Comercial Nueva Condomina
 - 45.000€/año en negociación: rotulación parking + naming, 2 banderolas, stand 6-7 fines de semana.
@@ -31,6 +32,7 @@ Varias vías de patrocinio/publicidad en Murcia en exploración, ninguna cerrada
 - Análisis completo: `~/bruce/knowledge/mpc-group/patrocinio-nueva-condomina.md`
 - Siguiente paso: pedir a la gestión del centro datos de afluencia y referencias de precio antes de cerrar.
 - **3 sep 2026 — orientación de Adrián para el lanzamiento de Aura:** descartar el parking (demasiado caro), quedarse con cartelería + un corner atendido por 1-2 azafatas. Pendiente pedir a la gestión del centro una cotización específica solo de este alcance reducido (no del paquete de 45.000€ completo).
+- **14 sep 2026:** interlocutor identificado — **Roberto Méndez, director del centro comercial**. Previsión del centro: **16 millones de visitantes en 2026**. Pendiente preparar una oferta para él y cerrar el formato del corner — Adrián se inclina por **azafatas en vez de comerciales propios** para atenderlo. Reflejado en el informe de Comité de Dirección del 14 sep (`knowledge/mpc-group/reports-comerciales/2026-09-14-comite-direccion.html`).
 - Sin decidir.
 
 ## Feria ResideMurcia — nuevo (3 sep 2026)
