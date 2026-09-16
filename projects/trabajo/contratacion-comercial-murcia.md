@@ -83,3 +83,22 @@ Fecha y hora cerradas: **entrevista martes 8 sep, 9:00**. Preparación conjunta 
 - [ ] Decidir cómo seguir con Jonathan — piloto acotado, reparto de agenda, o esperar confirmación de María Jesús
 - [ ] Decidir si/cuándo arrancar el workstream de marca personal en LinkedIn (`agents/marketing.md`)
 - [ ] Primeras entrevistas
+
+## Sourcing LinkedIn — segunda pasada (16 sep 2026)
+
+Adrián pidió específicamente perfiles de empresas que trabajan con comerciales autónomos (RE/MAX, Redpiso) y, si es posible, **una candidata murciana**. Búsqueda vía `claude-in-chrome` sobre la sesión de Adrián, filtrada a Región de Murcia — mismo mecanismo y misma norma que la pasada del 27/07 (solo sourcing supervisado, sin mensajería masiva). RE/MAX Murcia apenas dio mujeres activas en el sector ahora mismo. Redpiso sí. Shortlist, sin contactar a nadie todavía:
+
+1. **Hellen Quevedo Palma** — Asesora en **Redpiso Condomina** (actual). Mejor pista: trabaja ya en la zona de Nueva Condomina, el barrio de Aura.
+2. **Bárbara Martín** — Franquiciada / Responsable de ventas en Redpiso Oficial Murcia. La más senior — dirige su propia operación, posiblemente sobrecualificada para un puesto de comercial raso, pero vale la pena tantear si le interesaría un salto a un puesto interno.
+3. **Jenny Zuluaga** — Agente inmobiliario en Redpiso Oficial, Murcia capital. Activa ahora mismo en el sector.
+4. **Mayte Gutierrez** — Agente comercial en Redpiso Oficial, Cartagena (Región de Murcia, algo más lejos de Nueva Condomina).
+
+Descartadas por no estar activas en el sector ahora mismo o no ser Murcia: Miryam Gomez y Alicia Valera (RE/MAX, ambas han pasado a otra cosa), Ana Maria Burgos/Débora Sánchez Sanz/Anastasia Lutsiv (Redpiso, perfiles administrativos o ya fuera del sector).
+
+**Corrección de Adrián (mismo día):** no centrarse en Redpiso — según él, son perfiles de gente que lleva muchos años y apenas usa LinkedIn (canal poco fiable para esa cantera). Redirigido a una búsqueda general de "comercial inmobiliaria" en Región de Murcia, sin atarse a una agencia concreta. Shortlist ampliada, tampoco contactada todavía:
+
+~~5. Marien Lag Sánchez~~ — **Ya entrevistada, no vale** (confirmado por Adrián, 16 sep 2026). Descartada.
+~~6. Cecilia Garres Arques~~ — **Descartada** (Adrián, 16 sep 2026): es dueña de su propia inmobiliaria (Domus Now Murcia) y MPC ya tiene contrato de colaboración con ella como agencia — no es candidata a empleo, ya es partner.
+7. **Noelia Lorca** — Dirección comercial en MAISONQUALITE.com / My House Inmobiliaria. La más senior de esta segunda tanda — ya dirige equipo comercial, valorar si encaja en un puesto de comercial o sería mejor perfil de refuerzo de liderazgo.
+8. **Alicia Férez Bernal** — Gestora de Patrimonio y Agente Inmobiliaria, activa en Murcia capital.
+9. **Karima Laamiri** — Propietaria de KariHomeProperties, Cartagena. Perfil emprendedor — puede que prefiera seguir independiente, tantear igualmente.
