@@ -1,6 +1,6 @@
 # Roadmap — Adrián Barbudo
 
-**Última actualización:** 2026-09-16
+**Última actualización:** 2026-09-17
 
 Vista agregada de todos los proyectos, por área. Detalle de cada proyecto en `projects/<área>/<nombre>.md`.
 
@@ -26,7 +26,7 @@ Vista agregada de todos los proyectos, por área. Detalle de cada proyecto en `p
 | [WhatsApp API — equipo comercial bloqueado](projects/trabajo/whatsapp-api-equipo-comercial.md) | 🟡 En marcha | Alta | Comparativa de proveedores lista (Saysimple/360dialog/Wati/Respond.io + Inogic para Dynamics) — pendiente que Eduardo traiga cotización real y respuesta sobre integración con Dynamics |
 | Estudio de mercado — Murcia y Torrevieja (estilo Alicante) | 🟡 En marcha (Torrevieja) | Media | Decidido en Comité de Dirección (11 ago 2026): replicar el nivel de profundidad del estudio de Alicante en `murcia.md` y `costa-blanca-sur.md`. **14 ago: `costa-blanca-sur.md` arrancado** — competencia de obra nueva en Los Balcones/Laguna Rosa (metainmo, resales-online, idealista), 12 promociones mapeadas. Falta el nivel de detalle de testigos INE/Registradores/Notariado que sí tiene Alicante, y `murcia.md` sigue sin empezar. |
 | [Auditoría continua de soportes + cuellos de botella](projects/trabajo/auditoria-soportes-cuellos-botella.md) | ⚪ Sin seguimiento | Alta | Iniciativa de Manuel (20 ago, por email): auditoría periódica de landing/web/textos + resolver cuellos de botella de personas concretas (menciona a Eduardo). **2 sep: la reunión propuesta del 25 ago no hizo falta prepararla** (confirmado por Adrián) — sin más acción por ahora, vigilar si Manuel la retoma |
-| Marca personal LinkedIn — Adrián | 🟢 Activo | Media | **16 sep: post de la semana publicado** — "qué busco al contratar a un comercial" (ganas/esfuerzo + ayudar a comprar sin empujar, redirigido por Adrián sobre el primer borrador), cierra con pregunta. Respondido comentario de Alba Castellet en el post del 10 sep (lo hizo Adrián directamente). **Contenido en espera:** experiencia de una compradora de Aura con Real Murcia (foto+vídeos en Downloads, esquema aprobado) — no publicar hasta que MPC/Real Murcia lo hagan público primero. Calendario en `knowledge/mpc-group/linkedin-calendario-adrian.md` (repo Bruce): 29 sep martes (evento Aura, tras publicación de Manuel), 1 oct (comprador internacional). Regla: nunca publicar sobre hitos de MPC antes que Manuel |
+| Marca personal LinkedIn — Adrián | 🟢 Activo | Media | **17 sep: el post del 16 sep ("qué busco al contratar a un comercial") se convierte en el mejor hasta la fecha** — 37.309 impresiones, 93 reacciones, 12 comentarios, 208 visitas de perfil, 23 seguidores nuevos a 1 día (x14 el alcance del post de mercado del 10 sep), con varios headhunters entre las visitas de perfil. Aprendizaje: el ángulo de liderazgo/criterio funciona mucho mejor que el de mercado puro en esta fase — priorizarlo. Comentarios pendientes de responder por Adrián la noche del 17 sep. **Contenido en espera:** experiencia de una compradora de Aura con Real Murcia (foto+vídeos en Downloads, esquema aprobado) — no publicar hasta que MPC/Real Murcia lo hagan público primero. Calendario en `knowledge/mpc-group/linkedin-calendario-adrian.md` (repo Bruce): 29 sep martes (evento Aura, tras publicación de Manuel), 1 oct (comprador internacional). Regla: nunca publicar sobre hitos de MPC antes que Manuel |
 
 ## Personal
 
