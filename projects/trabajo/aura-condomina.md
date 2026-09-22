@@ -2,7 +2,7 @@
 area: trabajo
 status: 🟢 activo
 priority: crítica
-updated: 2026-09-04
+updated: 2026-09-22
 ---
 
 # Aura Condomina — Fase 1 (250 viv., Nueva Condomina, Murcia)
@@ -216,3 +216,12 @@ Adrián trajo un borrador propio de 9 preguntas en registro coloquial; se corrig
 - **Intermundo (contacto de prensa) confirmó que convocan medios entre lunes y martes de la semana del evento**, y pide **el dato de % vendido de Fase 1 para el titular** (ejemplo que dieron: "Arrancan las obras de Aura Condomina con un 20% de la promoción vendida"). **Bruce no ha dado esa cifra** — el último dato real es 7/54 (≈13%) del 2 sep 2026, ya desactualizado (12+ días). **Pendiente crítico: Adrián tiene que confirmar el número de ventas real de Fase 1 hoy/estos días** para poder responder a Intermundo con un dato verdadero, y también está pendiente el listado de fotos que Intermundo va a pedir para los medios.
 - **Informe de Comité de Dirección de la semana 06-12 sep generado** (`knowledge/mpc-group/reports-comerciales/2026-09-14-comite-direccion.html` + PDF en `~/Desktop/MPC Group/Comité dirección/`): semana con solo 2 visitas pese a 335 clientes potenciales (mínimo histórico) pero 1 venta en Aura. Incluye bloque de decisiones pendientes de Nueva Condomina y Hércules CF — detalle en `patrocinios-real-murcia-nueva-condomina.md`.
 - **Grabación de Natalia y Andrés (11 sep) hecha.** Adrián llevó a los clientes al Real Murcia — visita al campo + la entrevista en sí — y tiene fotos del día. Contenido con mucho potencial (ya identificado como tal el 7 sep). **Pendiente decidir:** ¿va al LinkedIn personal de Adrián (23 sep, siguiente hueco libre — el 16 sep ya tiene tema) o a la página de MPC Group/Instagram (más natural para un testimonio de cliente)? También sin aclarar si estas fotos son la misma pieza que el vídeo editado por Envy (que estaba previsto listo el 16 sep) o un contenido aparte.
+
+## Sesión 22 sep 2026 — 10 reservas, canal agencia, expansión internacional, informe a Alex actualizado
+
+- **10 reservas** (subió de 9 el 21 sep a 10 hoy), 100% venta directa hasta la fecha, 4 clientes muy cerca de cierre. 18,5% del objetivo de 54 de Fase 1.
+- **Canal agencia (local + colaboradores) ya activo** — no es una activación nueva, es el mismo canal de siempre; el foco ahora es que empiece a generar ventas (hasta hoy, 0 reservas por esta vía).
+- **Expansión internacional — primeros pasos concretos:** **Bélgica** como primer país. **Eslovaquia y República Checa**, con **contratos ya firmados con colaboradores locales** — presentación del proyecto prevista en **octubre**, de la mano de **Vadim** (fondo Arbitas SICAV, ver `vadim-fondo-eslovaco.md`), salvo cambios. Siguiente ola prevista: **Holanda, Suiza y probablemente Alemania**. (Nota: en el informe externo a Alex no se nombra a Vadim — solo "equipo colaborador en la zona".)
+- **Funnel de leads:** de los 3.825 CP acumulados, 65% (~2.490) sigue activo sin descartar el proyecto; dentro de ese grupo hay un núcleo de ~300 leads sin lanzarse, por tres motivos confirmados por Adrián con su equipo comercial: obra sin arrancar todavía (grúa instalada, inicio real octubre), ciclo de decisión largo de la plaza (varias visitas antes de comprometerse), percepción de zona todavía no consolidada (20 años sin movimiento en Nueva Condomina).
+- **Informe de tracción para Alex actualizado** (`knowledge/mpc-group/reports-comerciales/2026-09-21-informe-inversor-aura.html/.pdf` en el repo de Bruce) con todo lo anterior + nueva sección "Expansión internacional" + bloque "Estado del funnel de leads" (motivos en bullets). Se quitó el cierre "Lectura de fondo" y se sustituyó por un bloque sobre la labor de marketing/comunicación en Murcia. Maquetación corregida: "Cartera en negociación avanzada" ya no queda partida entre la penúltima y la última página — ahora toda la sección va junta en la última página (fix: `class="page-break"` en el h2, CSS ya tenía `break-inside: avoid` en cajas/tablas).
+- **Corte de datos del informe actualizado a 22 sep 2026** (antes 21 sep).

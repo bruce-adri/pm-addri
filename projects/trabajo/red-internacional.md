@@ -23,3 +23,6 @@ Decidir si se abre Alemania como próximo país con canal dedicado (convierte 6 
 - Relacionado con la ambición de ser referencia para compradores internacionales en Costa Blanca.
 - Calendario de ferias 2026 ya definido (Amberes feb, Poznań/Varsovia mar-abr, Utrecht mar, Den Bosch sept, Gante oct) — ver detalle en `knowledge/mpc-group/red-internacional-agencias.md`.
 - Eslovaquia (Bratislava, mar y may 2026) no es prospección de agencias — está ligada a la relación con el fondo eslovaco de Vadim, no mezclar objetivos.
+
+## Actualización 22 sep 2026 — Aura Condomina abre expansión internacional propia
+Distinto del diagnóstico de arriba (que es sobre la red orgánica general de MPC): Aura Condomina arranca su propia estrategia de internacionalización. **Bélgica** como primer país. **Eslovaquia y República Checa** con **contratos ya firmados con colaboradores locales** — presentación del proyecto prevista en octubre, de la mano de Vadim (Arbitas SICAV), salvo cambios. Siguiente ola prevista: Holanda, Suiza y probablemente Alemania — encajaría con la decisión pendiente de abrir Alemania de arriba. Detalle: `knowledge/mpc-group/reports-comerciales/2026-09-21-informe-inversor-aura.html` (repo Bruce) y `aura-condomina.md` (sesión 22 sep).
