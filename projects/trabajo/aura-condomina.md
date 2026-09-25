@@ -235,3 +235,8 @@ Adrián trajo un borrador propio de 9 preguntas en registro coloquial; se corrig
 - **23 sep, corrección final:** Javier Rollán **NO asiste**. Única autoridad: Ana María López Oña (Secretaria General, Consejería de Empresa) — no habla, corta la cinta y planta. Solo habla Manuel. Guion y discurso actualizados.
 - **23 sep, noche:** Ana María López Oña **sí interviene** — cierra el turno de palabra tras Manuel. Horario vuelve al de la escaleta (plantación 11:56, cierre 12:25).
 - **23 sep, noche:** el discurso de Manuel pasa a ser una **conversación Manuel–Adrián** (idea de Manuel: transmitir pasión y equipo; «residencial con alma de resort»). Documento: `knowledge/mpc-group/2026-09-24-dialogo-manuel-adrian-aura.html`. Falta el recuerdo personal de Manuel para el arranque.
+
+## 25 sep 2026 — balance del acto de inicio (24 sep)
+- Según Adrián **salió muy bien**; las bromas funcionaron. Puede salir alguna venta a raíz del acto (sin concretar).
+- No fue prensa al acto, pero la nota de prensa se publicó el 24 sep en **El Nuevo Digital Murcia** y **EmpresasdeMurcia** (con sus ediciones de Cartagena y Lorca), con citas de Manuel y de López Oña. Nada en La Verdad, La Opinión, Europa Press, la CARM ni la web de MPC. Detalle en `knowledge/mpc-group/aura-condomina-prensa.md` (repo Bruce).
+- ⚠️ Titular "20% de la promoción vendida" = ~18% de la Fase 1 (10/54), ~4% del total. Plazo de la Fase 1 publicado: 22 meses (en julio eran 20) — confirmar cuál es el oficial.
