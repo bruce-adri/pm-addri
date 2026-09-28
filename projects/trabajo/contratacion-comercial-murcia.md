@@ -106,3 +106,4 @@ Descartadas por no estar activas en el sector ahora mismo o no ser Murcia: Mirya
 ## 28 sep 2026
 - Entrevista con **Encarna Pérez** el martes 29/09 a las 18:30 (videollamada).
 - Adrián cambia de criterio: propone **quitar a Oliver ya, aunque no haya sustituto** ("resta más que suma", no sigue indicaciones, no se esfuerza). Llevado al Comité de Dirección del 28/09.
+- **Actualización 28 sep (tarde): decidido, Oliver sale esta semana.**

@@ -245,3 +245,4 @@ Adrián trajo un borrador propio de 9 preguntas en registro coloquial; se corrig
 - **11 ventas.** Viernes 25: A3G (235.900 €, María, Idealista, comprador Olger, colombiano; comisión 5%, podría ir al 7%) y A5C (397.900 €, Oskar, oficina; es la 5-C de María Pilar Larrocha, que pagó el viernes y no el lunes 21). Ambas directas y sin dar de alta en Dynamics. 11/54 Fase 1 = 20,4%.
 - A5D (181.900 €) bloqueada para Samuel (Aliseda) hasta el martes 29/09.
 - El acto también salió en Murcia Plaza. El post de MPC en LinkedIn dice "20% de la promoción vendida" sobre 250 viviendas: no repetirlo.
+- Actualización 28 sep (tarde): Samuel no compra la A5D (vuelve a estar disponible). Comisión de la A3G confirmada al 5%.
