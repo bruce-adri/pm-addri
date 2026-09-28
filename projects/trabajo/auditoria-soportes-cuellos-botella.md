@@ -1,8 +1,8 @@
 ---
 area: trabajo
-status: ⚪ sin seguimiento
+status: 🟡 en marcha
 priority: alta
-updated: 2026-09-02
+updated: 2026-09-28
 ---
 
 # Auditoría continua de soportes + cuellos de botella operativos
@@ -22,3 +22,16 @@ Bruce redactó una respuesta para Adrián:
 1. Sin acción por ahora — vigilar si Manuel retoma la iniciativa.
 2. Si se retoma, preparar/revisar el listado de soportes/procesos con responsables.
 3. Definir frecuencia real de revisión de soportes (Adrián a decidir, no asumir "mensual").
+
+## 28 sep 2026: retomado
+- Manuel vuelve a sacar el email. Calidad = **Pascual**. Revisión **mensual**.
+- Bruce hace una primera auditoría real de las 4 webs: 12 incidencias, 4 graves (contadores "0 % vendido" en Nature Views y Pórtico, entrega de Pórtico mal indicada, textos antiguos ocultos en Nature Views). Detalle en `~/bruce/knowledge/mpc-group/auditoria-soportes-2026-09.md`.
+- Plan de acción de 1 página para Manuel: `~/Desktop/Bruce/Auditoría de soportes — Plan de acción 28 sep.pdf`.
+- Idiomas prioritarios aprobados: EN, NL, FR, DE (después PL y SK/CZ).
+- Aclaraciones de Adrián: El Hormiguero no sigue (se sorteó allí una casa de Nature Views); Ludovic ya no está; Oihana es la secretaria de Manuel; la web de Aura se puede tocar.
+
+## Próximos pasos
+1. Adrián envía el email + PDF a Manuel.
+2. Bruce: textos corregidos listos para Jonathan (Fase 2).
+3. Bruce: revisar portales, RRSS, dossiers y campañas.
+4. Checklist mensual + guías para los suplentes de Eduardo/Jonathan (Fase 3).
