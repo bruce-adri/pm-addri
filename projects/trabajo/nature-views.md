@@ -25,3 +25,7 @@ Cierre del proyecto. Quedan 1 ático y 1 villa (villa 12), key ready.
 ## Notas
 - No vender el ático este trimestre es un fracaso explícito según Adrián.
 - 3 ago 2026: cambio de comprador en villa 12 (suizo cae, irlandeses entran en el pipeline) — ver `knowledge/mpc-group/reports-comerciales/2026-08-03-comite-direccion.md` en el repo de Bruce.
+
+## 28 sep 2026
+- Villa: posible venta con agencia colaboradora; clientes españoles buscando cómo encajar la forma de pago propuesta.
+- Visita hoy de María con clientes holandeses directos.

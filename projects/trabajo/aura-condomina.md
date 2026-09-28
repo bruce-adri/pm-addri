@@ -240,3 +240,8 @@ Adrián trajo un borrador propio de 9 preguntas en registro coloquial; se corrig
 - Según Adrián **salió muy bien**; las bromas funcionaron. Puede salir alguna venta a raíz del acto (sin concretar).
 - No fue prensa al acto, pero la nota de prensa se publicó el 24 sep en **El Nuevo Digital Murcia** y **EmpresasdeMurcia** (con sus ediciones de Cartagena y Lorca), con citas de Manuel y de López Oña. Nada en La Verdad, La Opinión, Europa Press, la CARM ni la web de MPC. Detalle en `knowledge/mpc-group/aura-condomina-prensa.md` (repo Bruce).
 - ⚠️ Titular "20% de la promoción vendida" = ~18% de la Fase 1 (10/54), ~4% del total. Plazo de la Fase 1 publicado: 22 meses (en julio eran 20) — confirmar cuál es el oficial.
+
+## 28 sep 2026
+- **11 ventas.** Viernes 25: A3G (235.900 €, María, Idealista, comprador Olger, colombiano; comisión 5%, podría ir al 7%) y A5C (397.900 €, Oskar, oficina; es la 5-C de María Pilar Larrocha, que pagó el viernes y no el lunes 21). Ambas directas y sin dar de alta en Dynamics. 11/54 Fase 1 = 20,4%.
+- A5D (181.900 €) bloqueada para Samuel (Aliseda) hasta el martes 29/09.
+- El acto también salió en Murcia Plaza. El post de MPC en LinkedIn dice "20% de la promoción vendida" sobre 250 viviendas: no repetirlo.

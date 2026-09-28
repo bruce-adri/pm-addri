@@ -102,3 +102,7 @@ Descartadas por no estar activas en el sector ahora mismo o no ser Murcia: Mirya
 7. **Noelia Lorca** — Dirección comercial en MAISONQUALITE.com / My House Inmobiliaria. La más senior de esta segunda tanda — ya dirige equipo comercial, valorar si encaja en un puesto de comercial o sería mejor perfil de refuerzo de liderazgo.
 8. **Alicia Férez Bernal** — Gestora de Patrimonio y Agente Inmobiliaria, activa en Murcia capital.
 9. **Karima Laamiri** — Propietaria de KariHomeProperties, Cartagena. Perfil emprendedor — puede que prefiera seguir independiente, tantear igualmente.
+
+## 28 sep 2026
+- Entrevista con **Encarna Pérez** el martes 29/09 a las 18:30 (videollamada).
+- Adrián cambia de criterio: propone **quitar a Oliver ya, aunque no haya sustituto** ("resta más que suma", no sigue indicaciones, no se esfuerza). Llevado al Comité de Dirección del 28/09.
