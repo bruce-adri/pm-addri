@@ -17,5 +17,13 @@ Observatorio inmobiliario **anual** de la provincia de Alicante, hecho por MPC G
 - 7 preguntas para Víctor (quién redacta/control editorial, marcas, tirada impresa, distribución, reutilización, exclusividad, fechas).
 - Riesgos: percepción de publicidad, carga de trabajo del equipo, exactitud de los datos.
 
+## 29 sep (noche): la reunión del 30 es de DATOS
+Adrián aclara que la reunión con Víctor es para poner en común **qué datos deben figurar**, no para abrir el tema. Briefing nuevo (enviado a Manuel): `~/bruce/knowledge/mpc-group/reports-comerciales/2026-09-30-observatorio-informacion-datos-briefing.pdf`.
+- Tesis: «la vivienda nueva de hoy es otra vivienda». Costes de construcción +26% en 5 años (Ministerio), CTE 2019 de consumo casi nulo desde el 24/09/2020, 90% A/B en vivienda reciente frente a <1% en usada (Tinsa), caso Pórtico Plaza I clase A (Blower Door).
+- Ideas del artículo «efecto julio» (Información, 14/07/2026) convertidas en indicadores.
+- Índice en 6 capítulos: mercado, comprador internacional, construir hoy, vivienda del futuro, financiación y accesibilidad, pulso de la demanda.
+- Datos en `~/bruce/knowledge/real-estate/costes-construccion-eficiencia.md`.
+- Decisiones de Adrián y Manuel: coste propio en índice, Pórtico Plaza I como caso práctico, datos comerciales agregados.
+
 ## Siguiente paso
-- Tras la reunión del 30 sep: fechas, quién elabora los datos, estructura. Bruce propone índice y fuentes (base en `knowledge/real-estate/`).
+- Resultado de la reunión del 30 sep: qué datos se aceptan, quién redacta y fechas. Después, desarrollar los capítulos 3 y 4.

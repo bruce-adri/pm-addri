@@ -88,3 +88,23 @@ Housing and Real Estate Fair de Incheba Bratislava, **1-3 oct 2026**, 92 exposit
 ## Notas
 - Adrián planea arrancar con esto el 4 de agosto, antes de la preparación de la reunión del jueves con Cris.
 - Es el precedente más cercano al canal de family offices/inversores institucionales (`knowledge/mpc-group/family-offices-inversores.md`) — vale la pena documentar cómo se originó este contacto una vez se sepa, por si el patrón se repite.
+
+## Presentación a agencias en Eslovaquia — 21 oct 2026, 10:00 (29 sep)
+Vadim propone que Adrián viaje a Eslovaquia para presentar MPC Group y sus promociones a **agencias y colaboradores** (no a cliente final) el **miércoles 21/10/2026 a las 10:00**. **Los colaboradores NO están firmados todavía** (corrige el dato del 22 sep). Producto: **Aura, Pórtico y Nature Views (villa y ático, si siguen disponibles)** — Nature Views entra ahora, a diferencia de la presentación institucional de agosto. Interlocutor operativo: **Peter Baláž**. Llamada de preparación con él el **30/09**. Manuel pide una estrategia y objetivos.
+
+**Construido (29 sep):**
+- Briefing de la llamada con Peter Baláž (interno): `~/bruce/knowledge/mpc-group/reports-comerciales/2026-09-30-eslovaquia-briefing-llamada-peter-balaz.pdf` — 7 preguntas (asistentes, formato, idioma, invitación, **papel/retribución de Arbitas**, qué necesitan de MPC, viaje/vuelos), oferta (protocolo 4% + bonus 0,5%, materiales EN, viaje de familiarización, interlocutor único) y líneas rojas (sin comisiones extra ni exclusividad sin Manuel, no mezclar con NV2, umbral mínimo de 8-10 agencias).
+- Estrategia y objetivos para Manuel: `...2026-09-30-eslovaquia-chequia-estrategia-objetivos-manuel.pdf` — objetivo base a 12 meses: **8 agencias homologadas, 4 activas, 40 leads, 10 visitas, 3-4 ventas (~0,9 M€)**; prudente 1-2 ventas (~0,4 M€), ambicioso 6 (~1,6 M€). Referencia: Bélgica 10 y Polonia 9 ventas acumuladas desde 2024. Supuestos a validar: ticket medio ~260k, 1 venta de cada 3 visitas.
+- Copias en `~/Desktop/Eslovaquia/`.
+- Datos de mercado: obra nueva Bratislava ~5.400 €/m² (Investropa 2026, orientativo), Praga ~171.700 CZK/m² (Deloitte Develop Index Q3 2025) frente a Aura 2.194 y Pórtico 3.739 €/m². Salario medio bruto eslovaco 1.447 €/mes (T1 2024) → el público objetivo es renta media-alta/inversor. Conexión aérea débil (2024: Bratislava solo con Lanzarote y Palma; alternativa Viena).
+
+**Pendiente:** resultado de la llamada con Baláž (30/09) → actualizar asistentes y papel de Arbitas en la estrategia antes de dársela a Manuel; presentación corporativa en inglés para el 21/10; confirmar si la villa y el ático de Nature Views siguen en venta y a qué precio.
+
+**Revisión de Adrián (29 sep, tarde) — estrategia rehecha:**
+- **Objetivo fijado por Adrián: 10 agencias activas de verdad y al menos 10 ventas en 12 meses** (1 venta por agencia, ~2,6 M€). Hitos: dic 26 (3 activas, 0 ventas), mar 27 (6, 2), jun 27 (8, 5), oct 27 (10, 10). "Activa de verdad" = ≥1 cliente cualificado/mes y ≥1 visita/trimestre.
+- **Sin porcentajes de comisión** en el documento para Manuel (solo "protocolo de agencias vigente").
+- **No comparar con Bélgica/Polonia** de momento en este mercado.
+- **Kristina** (mujer de Vadim, vive en Alicante) añadida como punto de contacto local para agentes y clientes — por validar formato y retribución, con acuerdo por escrito y separada de la negociación de NV2.
+- Hoja de ruta rehecha por fases (arranque oct → red nov-dic con Praga → primeras ventas ene-mar → escala abr-jun con evento a cliente final → objetivo jul-oct 27), revisión mensual con Manuel.
+- Riesgo añadido: objetivo exigente (~30 visitas y ~100 leads cualificados para 10 ventas, partiendo de 0 colaboradores).
+- Kristina habla eslovaco, checo, rumano, inglés y español (confirmado por Adrián 29 sep). Porcentajes de comisión quitados también del briefing de la llamada.
