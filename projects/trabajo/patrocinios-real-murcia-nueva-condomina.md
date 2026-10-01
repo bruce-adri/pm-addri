@@ -72,3 +72,6 @@ Manuel revisó el texto y pidió **más "profesionalidad"**, dado que es una ope
 
 ## Contenido de marca para el LED del Real Murcia (13 ago 2026)
 Guion de 20 segundos (3 pases por hora, confirmado en el contrato) para Aura Condomina — usa la cercanía real al estadio (2 min andando) como gancho de cierre. Detalle completo en `~/bruce/knowledge/mpc-group/aura-condomina-campanas-julio-2026.md` (sección 4). Pendiente: producir el vídeo (falta imagen/vídeo de gimnasio o Aura Bar para la escena 2) y decidir quién lo produce (Jonathan o agencia externa).
+
+## Stand / corner en el C.C. Nueva Condomina (1 oct 2026)
+Concepto "La piscina llegó antes": proyección de agua interactiva en el suelo, tumbonas y fotomatón que capta leads sin personal. Lámina en `bruce/knowledge/mpc-group/aura-condomina-stand-nueva-condomina.html`. Aparcado por Adrián. El estudio de Atlas recomienda un corner de oct 2026 a mar 2027 (una sola venta amortiza 6 meses). Pendiente: tarifa (Roberto Méndez) y medidas.

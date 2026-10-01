@@ -246,3 +246,9 @@ Adrián trajo un borrador propio de 9 preguntas en registro coloquial; se corrig
 - A5D (181.900 €) bloqueada para Samuel (Aliseda) hasta el martes 29/09.
 - El acto también salió en Murcia Plaza. El post de MPC en LinkedIn dice "20% de la promoción vendida" sobre 250 viviendas: no repetirlo.
 - Actualización 28 sep (tarde): Samuel no compra la A5D (vuelve a estar disponible). Comisión de la A3G confirmada al 5%.
+
+## Estudio de mercado de Atlas (1 oct 2026)
+Recomendación: **1D +5%** (6 libres, +56.000 €), **2D mantener** + 5 palancas (equipar el coworking, separar promesa de entrega, corner en el C.C. Nueva Condomina de oct a mar, argumentario frente a Satia, canal inversor), **3D −8,2%** (mínimo de 338.900 a 310.900 €). Total −367.000 € (−2,9%), bloque A vendido en ago 2028 frente a nov 2030 manteniendo precios.
+- Atlas trabaja con 9 reservas (son 11: faltan la A3G y la A5C). Propuesta de Adrián a Manuel: bajar solo las 12 3D sin solárium (−357.000 €).
+- Riesgo: lo que se promete frente a lo que se entrega. La Fase 1 solo entrega la piscina, el coworking sin equipar y la seguridad; los materiales venden el programa completo.
+- Detalle: `bruce/knowledge/mpc-group/aura-condomina-estudio-atlas-2026-10.md`. Página para Manuel: `bruce/knowledge/mpc-group/reports-comerciales/2026-10-01-aura-estudio-atlas-decisiones-manuel.pdf`.

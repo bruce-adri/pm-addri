@@ -107,3 +107,8 @@ Descartadas por no estar activas en el sector ahora mismo o no ser Murcia: Mirya
 - Entrevista con **Encarna Pérez** el martes 29/09 a las 18:30 (videollamada).
 - Adrián cambia de criterio: propone **quitar a Oliver ya, aunque no haya sustituto** ("resta más que suma", no sigue indicaciones, no se esfuerza). Llevado al Comité de Dirección del 28/09.
 - **Actualización 28 sep (tarde): decidido, Oliver sale esta semana.**
+
+## Contratación confirmada (1 oct 2026)
+**Isabel Soriano entra en el equipo y sustituye a Oliver.** Adrián: "tiene muchas ganas e ilusión". Análisis externo (COMPETEA) recibido: buena para acompañamiento y cierre, más floja en captación pura, riesgo de abandono medio, pide tutela intensa. Ficha completa en `bruce/knowledge/personas/equipo/isabel.md`.
+- Pendiente: fecha de incorporación, promoción asignada, nivel real de inglés (cubre los leads extranjeros de Oliver), plan de onboarding.
+- **Actualización (1 oct 2026):** empieza el **lunes 5 oct** en **AURA Condomina**. Adrián ya ha enviado el email de bienvenida con RRHH en copia para la documentación del contrato. Pendiente: confirmar con RRHH que el alta llega a tiempo y preparar el onboarding.
