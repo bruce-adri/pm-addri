@@ -252,3 +252,9 @@ Recomendación: **1D +5%** (6 libres, +56.000 €), **2D mantener** + 5 palancas
 - Atlas trabaja con 9 reservas (son 11: faltan la A3G y la A5C). Propuesta de Adrián a Manuel: bajar solo las 12 3D sin solárium (−357.000 €).
 - Riesgo: lo que se promete frente a lo que se entrega. La Fase 1 solo entrega la piscina, el coworking sin equipar y la seguridad; los materiales venden el programa completo.
 - Detalle: `bruce/knowledge/mpc-group/aura-condomina-estudio-atlas-2026-10.md`. Página para Manuel: `bruce/knowledge/mpc-group/reports-comerciales/2026-10-01-aura-estudio-atlas-decisiones-manuel.pdf`.
+
+### Actualización 2 oct 2026
+- **Coworking: se equipa completamente** (decidido).
+- Ventas reales enviadas a Atlas (1/10) para que recalculen.
+- Iberdrola confirma que Íkono tendrá precios similares a los de Aura (en teoría) y que **sigue sin licencia de obras**. Aura será la única promoción con oficina de ventas en la propia obra.
+- Valoración para Manuel (posición de Adrián): el informe es una foto fija que no recoge el crecimiento de precios (CP 30110 +107% desde 2020; obra nueva regional +6,6% al año, con lo que el 9% de "sobreprecio" del 3D ≈ 16 meses, lo que falta para la entrega). **1D +5% ya; 3D no se baja ahora**, revisión en marzo de 2027 (4 ventas). PDF: `bruce/knowledge/mpc-group/reports-comerciales/2026-10-02-aura-valoracion-estudio-atlas-manuel.pdf`.
