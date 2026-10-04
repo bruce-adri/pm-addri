@@ -29,3 +29,6 @@ Cierre del proyecto. Quedan 1 ático y 1 villa (villa 12), key ready.
 ## 28 sep 2026
 - Villa: posible venta con agencia colaboradora; clientes españoles buscando cómo encajar la forma de pago propuesta.
 - Visita hoy de María con clientes holandeses directos.
+
+## 4 oct 2026
+- Villa: un polaco y un holandés interesados, ambos directos. Ático enseñado con agencia colaboradora.

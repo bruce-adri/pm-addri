@@ -50,3 +50,7 @@ Informe de 2 páginas para Manuel: `~/bruce/knowledge/mpc-group/reports-comercia
 - Clienta holandesa (Idealista, la lleva María) paga hoy la reserva de una vivienda de 299k → **venta 32**. Sin confirmar si ya se superó el umbral de 31/53 del préstamo CaixaBank (Adrián no lo aclaró).
 - Interesados: inversor de Guadalajara y pareja joven residente en Alemania.
 - Dossier de mejoras sin enviar. Power BI 20-26/09: 101 CP, 0 visitas.
+
+## 4 oct 2026
+- **Venta 32 confirmada** (holandesa, 299.000 €, María, Idealista, cerrada 100% online), dentro de las 4 ventas de septiembre. Umbral CaixaBank (31/53) previsiblemente superado: sin confirmar.
+- Pipeline: **Fernando** (ya cliente) ofrece 340.000 € por el 3D de 360.000 € → cerrar esta semana (margen a decidir en el comité del 5/10). **Cliente argelino** interesado en 2 viviendas (3D + 4D).

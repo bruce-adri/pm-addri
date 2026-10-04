@@ -38,3 +38,6 @@ Manuel pidió por email una evaluación detallada de leads, visitas, ventas, inv
 - El tracker semanal es el input para este report — se guarda un archivo por semana con datos manuales del equipo + Power BI, y una tabla resumen para ver evolución sin reconstruir nada.
 - Las "visitas programadas" (ej. 15 para la semana del 8 jul) son un dato que reporta el equipo directamente, no algo que se pueda cruzar con Power BI.
 - Colores de marca MPC Group (muestreados del logo real, no aproximados): navy `#0E3C89`, azul `#43BBED`, ámbar `#FFB71C`. Reutilizables en cualquier otro documento corporativo.
+
+## Comité de Dirección 5 oct 2026 — cierre de septiembre
+PDF en la carpeta del Comité (2 págs.) + valoración de Atlas actualizada (1 pág.) + comparativa de Edu (docx). 4 ventas (1,10 M€, todas directas, comisión 5% = 55.135 €), ratio visita-venta 17%. Criterio: en el comité no se contrapone Power BI con las ventas "reales".

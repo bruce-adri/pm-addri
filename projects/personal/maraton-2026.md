@@ -1,8 +1,8 @@
 ---
 area: personal
-status: 🟢 activo
+status: ✅ completado
 priority: media
-updated: 2026-07-18
+updated: 2026-10-04
 ---
 
 # Maratón Mula → Caravaca de la Cruz (42K)
@@ -13,7 +13,10 @@ Completar el 42K el 3 de octubre de 2026, con un ritmo objetivo de 9:00-9:30 min
 ## Punto de partida (dato de referencia, primavera 2026)
 44 años, 83 kg, ritmo actual 10:30 min/km (7h21 si hiciera los 42km hoy sin parar).
 
-## Próxima acción
+## Resultado (3 oct 2026) ✅
+41,75 km en 7:40:07 en movimiento (8:02:29 en total), 11:01/km, 529 m de desnivel positivo, FC media 140. Sin lluvia, con mucha humedad. Terminó muy bien y lo disfrutó mucho; dos ampollas (una en cada pie). Detalle en `~/bruce/knowledge/salud/maraton-2026-plan.md`. Ha tirado las Hoka; sustituta propuesta: Nike Vomero 18, talla 42 (92,63 € en Top4Running, código C1M5).
+
+## Próxima acción (histórico)
 La meta del 30 de junio (15 km seguidos) ya pasó de fecha — pendiente de que Adrián cuente en qué punto real está para recalcular. Semana tipo ajustada el 18 jul: martes caminata, jueves libre (pádel), domingo tirada larga. Fuerza cubierta por la calistenia (martes/miércoles/sábado 19:00, ver `~/pm/projects/personal/calistenia.md`).
 
 ## Plan completo
