@@ -41,3 +41,4 @@ Manuel pidió por email una evaluación detallada de leads, visitas, ventas, inv
 
 ## Comité de Dirección 5 oct 2026 — cierre de septiembre
 PDF en la carpeta del Comité (2 págs.) + valoración de Atlas actualizada (1 pág.) + comparativa de Edu (docx). 4 ventas (1,10 M€, todas directas, comisión 5% = 55.135 €), ratio visita-venta 17%. Criterio: en el comité no se contrapone Power BI con las ventas "reales".
+- **Resultado (5 oct):** "todo bien". Precios de Aura se mantienen; precio de lanzamiento también tras la venta 25; Fernando con margen hasta 350k.

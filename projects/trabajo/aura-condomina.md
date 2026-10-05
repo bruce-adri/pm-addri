@@ -263,3 +263,8 @@ Recomendación: **1D +5%** (6 libres, +56.000 €), **2D mantener** + 5 palancas
 - Septiembre: 3 ventas en Aura (1D 169.900 € 7/09 Oskar/Idealista; A5C; A3G). Total 11/54.
 - Atlas actualizado (2 oct): 3D estándar −5,8% (≈ −250k), A5B mantener, 1D +5%, 2D mantener. Comparativa de Edu: valor a favor del informe interno, ritmo a favor de Atlas; fin de la oferta de lanzamiento en la venta 25 (quedan 14).
 - **Decisión de Adrián: no tocar precios. 3D estándar → revisión a final de diciembre (3 reservas o más → mantener). 1D → decidir con las ventas de octubre (2 o más → +5%).** Valoración nueva en la carpeta del Comité (sustituye a la del 2 oct). Detalle: `~/bruce/knowledge/mpc-group/aura-condomina-estudio-atlas-2026-10.md`.
+
+## 5 oct 2026 — Resultado del Comité de Dirección
+- **Precios: se quedan como están por ahora** (aprobado el planteamiento de Adrián: 3D → revisión a final de diciembre; 1D → según ventas de octubre).
+- **Precio de lanzamiento: se mantiene también después de la venta 25**, a la espera de coger velocidad. Sin corte automático.
+- Isabel Soriano empieza hoy en AURA. **Inglés insuficiente** (impresión de Adrián) → no lleva los leads extranjeros de Oliver. Propuesta de Bruce, sin decidir: María hace el primer contacto/cualificación en inglés y la visita la hace Isabel u Oskar (fijar antes el reparto de comisión).

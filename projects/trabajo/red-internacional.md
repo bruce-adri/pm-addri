@@ -2,7 +2,7 @@
 area: trabajo
 status: 🟡 en marcha
 priority: alta
-updated: 2026-07-12
+updated: 2026-10-05
 ---
 
 # Red comercial internacional (Europa)
@@ -29,3 +29,8 @@ Todavía **no hay colaboradores firmados**. Arbitas SICAV (Vadim) propone una **
 
 ## Actualización 22 sep 2026 — Aura Condomina abre expansión internacional propia
 Distinto del diagnóstico de arriba (que es sobre la red orgánica general de MPC): Aura Condomina arranca su propia estrategia de internacionalización. **Bélgica** como primer país. **Eslovaquia y República Checa** con **contratos ya firmados con colaboradores locales **[CORREGIDO 29 sep: los colaboradores NO están firmados — el dato del 22 sep era erróneo]**** — presentación del proyecto prevista en octubre, de la mano de Vadim (Arbitas SICAV), salvo cambios. Siguiente ola prevista: Holanda, Suiza y probablemente Alemania — encajaría con la decisión pendiente de abrir Alemania de arriba. Detalle: `knowledge/mpc-group/reports-comerciales/2026-09-21-informe-inversor-aura.html` (repo Bruce) y `aura-condomina.md` (sesión 22 sep).
+
+## Actualización 5 oct 2026 — Eslovaquia: agencias y viaje
+- Peter Baláž envía la lista de **10 agencias** contactadas tras la primera selección (Christie's/Svoboda and Viliams, Zenith Luxury, DAHLEH, Remax Realty, Maxxreality, Alpia, New Living, Casa-partners, Lestero, 5starsreality). Lista en `~/bruce/knowledge/mpc-group/eslovaquia-agencias-peter-2026-10.md`.
+- Respuesta enviada por Adrián: lista muy prometedora, **llegada lun 19 oct por la noche**; mañana confirma vuelos.
+- **Adrián viaja solo.** Pendiente 6 oct: contestar a Peter con vuelos + que va solo.

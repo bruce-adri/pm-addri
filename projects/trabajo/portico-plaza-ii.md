@@ -54,3 +54,6 @@ Informe de 2 páginas para Manuel: `~/bruce/knowledge/mpc-group/reports-comercia
 ## 4 oct 2026
 - **Venta 32 confirmada** (holandesa, 299.000 €, María, Idealista, cerrada 100% online), dentro de las 4 ventas de septiembre. Umbral CaixaBank (31/53) previsiblemente superado: sin confirmar.
 - Pipeline: **Fernando** (ya cliente) ofrece 340.000 € por el 3D de 360.000 € → cerrar esta semana (margen a decidir en el comité del 5/10). **Cliente argelino** interesado en 2 viviendas (3D + 4D).
+
+## 5 oct 2026
+- Comité: margen para **Fernando hasta 350.000 €** (ofrecía 340k por el 3D de 360k). Lo cierra **Oskar con apoyo de Adrián**. Táctica sugerida: los 10k a cambio de reserva firmada esta semana; subir primero a 345k y dejar 350k como cierre.
