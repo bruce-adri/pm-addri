@@ -75,3 +75,7 @@ Guion de 20 segundos (3 pases por hora, confirmado en el contrato) para Aura Con
 
 ## Stand / corner en el C.C. Nueva Condomina (1 oct 2026)
 Concepto "La piscina llegó antes": proyección de agua interactiva en el suelo, tumbonas y fotomatón que capta leads sin personal. Lámina en `bruce/knowledge/mpc-group/aura-condomina-stand-nueva-condomina.html`. Aparcado por Adrián. El estudio de Atlas recomienda un corner de oct 2026 a mar 2027 (una sola venta amortiza 6 meses). Pendiente: tarifa (Roberto Méndez) y medidas.
+
+
+## Actualización 7 oct 2026 — Hércules CF
+La comida con Germán del 30 sep salió muy bien. **La firma del patrocinio (15.000 € IVA incluido) es la semana del 12 oct.** Ficha: `~/bruce/knowledge/personas/red/hercules-cf.md`.
