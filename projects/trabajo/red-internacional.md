@@ -34,3 +34,8 @@ Distinto del diagnóstico de arriba (que es sobre la red orgánica general de MP
 - Peter Baláž envía la lista de **10 agencias** contactadas tras la primera selección (Christie's/Svoboda and Viliams, Zenith Luxury, DAHLEH, Remax Realty, Maxxreality, Alpia, New Living, Casa-partners, Lestero, 5starsreality). Lista en `~/bruce/knowledge/mpc-group/eslovaquia-agencias-peter-2026-10.md`.
 - Respuesta enviada por Adrián: lista muy prometedora, **llegada lun 19 oct por la noche**; mañana confirma vuelos.
 - **Adrián viaja solo.** Pendiente 6 oct: contestar a Peter con vuelos + que va solo.
+
+## Actualización 7 oct 2026 — Valoración de agencias y materiales en inglés
+- 8 de las 10 agencias de Peter revisadas: **Lestero, CASA & Partners y Svoboda & Williams** con encaje; Stars, Zenith y Alpia para derivación; DAHLEH y New Living, baja. Ninguna vende España. Informe en `~/bruce/knowledge/mpc-group/reports-comerciales/2026-10-07-eslovaquia-agencias-valoracion.*`.
+- Materiales: **Investor Pack** (cliente final) + **Partner Agent Brief** (agentes) en inglés, en `~/Desktop/Bruce/`. Pendiente de que Adrián confirme los datos antes de enviarlos.
+- Para el 21 oct: intentar reuniones aparte con las 3 agencias prioritarias. De momento no se pide nada a Peter.
