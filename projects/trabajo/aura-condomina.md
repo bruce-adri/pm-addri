@@ -2,7 +2,7 @@
 area: trabajo
 status: 🟢 activo
 priority: crítica
-updated: 2026-09-22
+updated: 2026-10-07
 ---
 
 # Aura Condomina — Fase 1 (250 viv., Nueva Condomina, Murcia)
@@ -268,3 +268,7 @@ Recomendación: **1D +5%** (6 libres, +56.000 €), **2D mantener** + 5 palancas
 - **Precios: se quedan como están por ahora** (aprobado el planteamiento de Adrián: 3D → revisión a final de diciembre; 1D → según ventas de octubre).
 - **Precio de lanzamiento: se mantiene también después de la venta 25**, a la espera de coger velocidad. Sin corte automático.
 - Isabel Soriano empieza hoy en AURA. **Inglés insuficiente** (impresión de Adrián) → no lleva los leads extranjeros de Oliver. Propuesta de Bruce, sin decidir: María hace el primer contacto/cualificación en inglés y la visita la hace Isabel u Oskar (fijar antes el reparto de comisión).
+
+
+## Estudio de Atlas v3 (7 oct 2026)
+No cambia cifras respecto a la del 2 oct. Incorpora las terrazas (Aura dobla a la zona; contándolas, por debajo del mercado por m² útil en las tres tipologías) y acepta mantener el 3D estándar con revisión en enero de 2027. Valida la decisión del 4 oct (revisión del 3D a final de diciembre). Nota enviada a Manuel el 7 oct. Detalle en `~/bruce/knowledge/mpc-group/aura-condomina-estudio-atlas-2026-10.md`.
