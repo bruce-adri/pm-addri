@@ -16,7 +16,9 @@ Lanzamiento oficial: 2 de julio de 2026. 54 ventas en el año (Fase 1), de las c
 - 3 habitaciones + 3 baños
 
 ## Precios desde
-**169.900 €** (lista oficial de lanzamiento, 16 jul 2026 — sustituye la referencia anterior de 179.900€)
+**Actualizado 8 oct 2026 (web, disponibles):** 1D desde **175.900 €** · 2D desde **228.900 €** · 3D desde **338.900 €** · terraza de más de 80 m² desde **304.900 €**. 42/54 disponibles. (Antes: 169.900 € en la lista de lanzamiento del 16 jul.)
+
+**Materiales para Reside Murcia (8 oct):** ficha A4 + flyer A5 en `~/Desktop/Nueva Condomina/` (fuente en `~/bruce/knowledge/mpc-group/reports-comerciales/2026-10-08-*`). Reglas comerciales: 1D = 2 baños, 3D = 3 baños, sin áticos, de serie cocina equipada y amueblada + climatización + iluminación + preinstalación de aire en la terraza, pack de acristalamiento.
 
 ## Perfil de las 7 ventas (dato de Adrián, 3 sep 2026)
 - Tipología más demandada con diferencia: vivienda de **1 habitación**.
