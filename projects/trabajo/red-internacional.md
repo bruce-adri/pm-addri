@@ -45,3 +45,8 @@ Distinto del diagnóstico de arriba (que es sobre la red orgánica general de MP
 - **Revisión del borrador de presentación** (`~/Downloads/BORR1 Diapos PPT MPC Group.pdf`, 22 diapositivas): es un folleto de destino; falta "por qué España frente a Dubái", producto con precios, proceso y costes, rentabilidad realista, cómo se trabaja con agencias y próximos pasos. Datos a corregir: 7% + 4% de rentabilidad sin fuente (choca con el 4,1-4,9% del Agent Brief), 40% de 2022, OMS del año 2000. Estructura propuesta de ~14 diapositivas. Detalle en `~/bruce/knowledge/mpc-group/eslovaquia-agencias-peter-2026-10.md`.
 - **Entregables propuestos:** Agent Brief + Investor Pack (7 confirmaciones pendientes), lista de precios en inglés, acuerdo de colaboración en inglés (¿existe?), invitación a viaje de familiarización con fechas, presentación en PDF ligero.
 - Siguiente paso: las 7 confirmaciones o los textos en inglés de la nueva estructura para Jonathan.
+
+## Actualización 13 oct 2026 (tarde) — Kit v2 y presentación
+- Kit cerrado: Agent Brief conjunto (Aura 175.900 € / Pórtico 311.500 € / Nature Views 330.000 € sin IVA) + Investor Pack de Aura (4,7-5,1%) y de Pórtico II (4,6-5,4%; reserva 6.000 € + IVA / 15% / 15% / 70%). PDFs en `~/Desktop/Bruce/`.
+- Presentación de 14 diapositivas (16:9) hecha por Bruce; a Adrián le encanta. Pendiente: cifras de MPC, ruta de vuelos, fechas del viaje de familiarización, acuerdo en inglés, Kristina, render del coworking.
+- Comprador alemán interesado en Pórtico II (comité 14 oct).

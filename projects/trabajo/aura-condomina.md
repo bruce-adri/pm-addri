@@ -279,3 +279,8 @@ No cambia cifras respecto a la del 2 oct. Incorpora las terrazas (Aura dobla a l
 - **Coworking:** válido con retoques (quitar vinilos "Business time/Coffee break", personas casual, confirmar equipamiento antes de mostrar ordenadores, revisar que la copa del árbol en la vista corresponda a la altura real).
 - **Gimnasio:** no va en la Fase 1, pero Adrián necesita render. El actual parece un gimnasio comercial (eslóganes, amarillo/gris, sin luz natural, fondo tipo centro comercial) → rehacer con estética AURA, sin textos.
 - Email con los comentarios redactado para **Virginia** (que lo traslade a los arquitectos); pide fecha, idealmente coworking antes del 21 oct.
+
+## Comité de Dirección del 14 oct 2026
+- Semana 04-10/10: 476 clientes potenciales (Aura 260), 2 visitas. Marta muy interesada tras su visita del mar 13/10; 4 citas confirmadas.
+- **Propuesta de María Jesús y Adrián:** cobrar la reserva de 3.300 € en el momento y firmar el contrato a los dos días, para cerrar antes de que el cliente salga de la oficina (a raíz del feedback de Marta). Requiere el contrato listo en 48 h. Pendiente de la decisión del comité.
+- Investor Pack en inglés: 1D·2B, 3D·3B, 4,7-5,1% bruto + rentabilidad total (3 años ~39-57%, 5 años ~56-81%).
