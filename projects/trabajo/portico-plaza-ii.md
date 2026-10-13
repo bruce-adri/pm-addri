@@ -57,3 +57,7 @@ Informe de 2 páginas para Manuel: `~/bruce/knowledge/mpc-group/reports-comercia
 
 ## 5 oct 2026
 - Comité: margen para **Fernando hasta 350.000 €** (ofrecía 340k por el 3D de 360k). Lo cierra **Oskar con apoyo de Adrián**. Táctica sugerida: los 10k a cambio de reserva firmada esta semana; subir primero a 345k y dejar 350k como cierre.
+
+## Mejoras de proyecto comunicadas a compradores (13 oct 2026)
+- Plano con 3 colores: fucsia = tabiques en los baños · amarillo = alineación oficial de la escalera 3 · verde = posición de los electrodomésticos.
+- WhatsApp de Adrián a Thierry (ES, los 3 cambios), Ronald (EN) y Yacine (FR) (solo fucsia y verde; el amarillo no les afecta). Recibirán email con el plano; reunión en persona si tienen dudas antes de firmar.
