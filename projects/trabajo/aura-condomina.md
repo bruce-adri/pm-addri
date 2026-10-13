@@ -274,3 +274,8 @@ Recomendación: **1D +5%** (6 libres, +56.000 €), **2D mantener** + 5 palancas
 
 ## Estudio de Atlas v3 (7 oct 2026)
 No cambia cifras respecto a la del 2 oct. Incorpora las terrazas (Aura dobla a la zona; contándolas, por debajo del mercado por m² útil en las tres tipologías) y acepta mantener el 3D estándar con revisión en enero de 2027. Valida la decisión del 4 oct (revisión del 3D a final de diciembre). Nota enviada a Manuel el 7 oct. Detalle en `~/bruce/knowledge/mpc-group/aura-condomina-estudio-atlas-2026-10.md`.
+
+## Renders de zonas comunes (13 oct 2026)
+- **Coworking:** válido con retoques (quitar vinilos "Business time/Coffee break", personas casual, confirmar equipamiento antes de mostrar ordenadores, revisar que la copa del árbol en la vista corresponda a la altura real).
+- **Gimnasio:** no va en la Fase 1, pero Adrián necesita render. El actual parece un gimnasio comercial (eslóganes, amarillo/gris, sin luz natural, fondo tipo centro comercial) → rehacer con estética AURA, sin textos.
+- Email con los comentarios redactado para **Virginia** (que lo traslade a los arquitectos); pide fecha, idealmente coworking antes del 21 oct.

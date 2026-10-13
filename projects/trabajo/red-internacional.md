@@ -39,3 +39,9 @@ Distinto del diagnóstico de arriba (que es sobre la red orgánica general de MP
 - 8 de las 10 agencias de Peter revisadas: **Lestero, CASA & Partners y Svoboda & Williams** con encaje; Stars, Zenith y Alpia para derivación; DAHLEH y New Living, baja. Ninguna vende España. Informe en `~/bruce/knowledge/mpc-group/reports-comerciales/2026-10-07-eslovaquia-agencias-valoracion.*`.
 - Materiales: **Investor Pack** (cliente final) + **Partner Agent Brief** (agentes) en inglés, en `~/Desktop/Bruce/`. Pendiente de que Adrián confirme los datos antes de enviarlos.
 - Para el 21 oct: intentar reuniones aparte con las 3 agencias prioritarias. De momento no se pide nada a Peter.
+
+## Actualización 13 oct 2026 — Presentación para agencias y email a Peter
+- **Email a Peter enviado** (por Adrián, desde su cuenta): pide la agenda de la visita y si hay nuevas agencias confirmadas; llegada lun 19 oct noche, va solo, se queda más días de lo hablado y no hace falta que le acompañen todo el tiempo.
+- **Revisión del borrador de presentación** (`~/Downloads/BORR1 Diapos PPT MPC Group.pdf`, 22 diapositivas): es un folleto de destino; falta "por qué España frente a Dubái", producto con precios, proceso y costes, rentabilidad realista, cómo se trabaja con agencias y próximos pasos. Datos a corregir: 7% + 4% de rentabilidad sin fuente (choca con el 4,1-4,9% del Agent Brief), 40% de 2022, OMS del año 2000. Estructura propuesta de ~14 diapositivas. Detalle en `~/bruce/knowledge/mpc-group/eslovaquia-agencias-peter-2026-10.md`.
+- **Entregables propuestos:** Agent Brief + Investor Pack (7 confirmaciones pendientes), lista de precios en inglés, acuerdo de colaboración en inglés (¿existe?), invitación a viaje de familiarización con fechas, presentación en PDF ligero.
+- Siguiente paso: las 7 confirmaciones o los textos en inglés de la nueva estructura para Jonathan.
