@@ -2,7 +2,7 @@
 area: trabajo
 status: 🟢 activo
 priority: crítica
-updated: 2026-08-21
+updated: 2026-10-14
 ---
 
 # Pórtico Plaza II (53 viv., Bulevar del Pla, Alicante)
@@ -61,3 +61,8 @@ Informe de 2 páginas para Manuel: `~/bruce/knowledge/mpc-group/reports-comercia
 ## Mejoras de proyecto comunicadas a compradores (13 oct 2026)
 - Plano con 3 colores: fucsia = tabiques en los baños · amarillo = alineación oficial de la escalera 3 · verde = posición de los electrodomésticos.
 - WhatsApp de Adrián a Thierry (ES, los 3 cambios), Ronald (EN) y Yacine (FR) (solo fucsia y verde; el amarillo no les afecta). Recibirán email con el plano; reunión en persona si tienen dudas antes de firmar.
+
+## 14 oct 2026
+- La clienta de Isabel **no va a reservar de momento** (no hay venta el vie 16).
+- Fernando sin novedades (340k por el 3D de 360k; margen hasta 350k). Propuesto: que Oskar lo llame con fecha límite.
+- Hakim desaparecido → frío salvo que reaparezca.

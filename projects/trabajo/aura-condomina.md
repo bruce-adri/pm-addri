@@ -2,7 +2,7 @@
 area: trabajo
 status: 🟢 activo
 priority: crítica
-updated: 2026-10-07
+updated: 2026-10-14
 ---
 
 # Aura Condomina — Fase 1 (250 viv., Nueva Condomina, Murcia)
@@ -284,3 +284,10 @@ No cambia cifras respecto a la del 2 oct. Incorpora las terrazas (Aura dobla a l
 - Semana 04-10/10: 476 clientes potenciales (Aura 260), 2 visitas. Marta muy interesada tras su visita del mar 13/10; 4 citas confirmadas.
 - **Propuesta de María Jesús y Adrián:** cobrar la reserva de 3.300 € en el momento y firmar el contrato a los dos días, para cerrar antes de que el cliente salga de la oficina (a raíz del feedback de Marta). Requiere el contrato listo en 48 h. Pendiente de la decisión del comité.
 - Investor Pack en inglés: 1D·2B, 3D·3B, 4,7-5,1% bruto + rentabilidad total (3 años ~39-57%, 5 años ~56-81%).
+
+## Memoria de calidades Fase 1 · Bloque A (14 oct 2026)
+- Original de MPC con la revisión del abogado (Leo): `~/Downloads/2026-10-14 AuraCondomina-MemCalidades- rev cambios AL-V.rtf`.
+- **v3 unificada (la buena):** texto completo reescrito + diseño AURA, 10 págs. → `~/Desktop/Bruce/AURA Condomina — Memoria de Calidades v3 14 oct.pdf` (fuente en `~/bruce/knowledge/mpc-group/reports-comerciales/2026-10-14-aura-condomina-memoria-calidades-v3.html`).
+- La cláusula de equivalencia de Leo y las notas legales van literales. Lo no confirmado (coworking equipado o no, lavabos, puerta del baño principal) se deja en ambiguo, por decisión de Adrián.
+- Pendiente: feedback de Adrián; OK de Leo a "Terraza XL" en vez de "solárium" y a fusionar las notas legales con su cláusula; posible cambio de la imagen del cierre (render de fachada).
+- Comité 14 oct: sin noticias del resultado de la propuesta de reserva de 3.300 € + contrato a 48 h.
