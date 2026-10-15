@@ -50,3 +50,8 @@ Distinto del diagnóstico de arriba (que es sobre la red orgánica general de MP
 - Kit cerrado: Agent Brief conjunto (Aura 175.900 € / Pórtico 311.500 € / Nature Views 330.000 € sin IVA) + Investor Pack de Aura (4,7-5,1%) y de Pórtico II (4,6-5,4%; reserva 6.000 € + IVA / 15% / 15% / 70%). PDFs en `~/Desktop/Bruce/`.
 - Presentación de 14 diapositivas (16:9) hecha por Bruce; a Adrián le encanta. Pendiente: cifras de MPC, ruta de vuelos, fechas del viaje de familiarización, acuerdo en inglés, Kristina, render del coworking.
 - Comprador alemán interesado en Pórtico II (comité 14 oct).
+
+## Actualización 15 oct 2026 — Vuelos para la presentación
+
+- Diapositiva 3: Ryanair confirma Bratislava–Alicante para el invierno 2026/27 (23 rutas desde BTS y un 4.º avión basado). Viena–Alicante con Ryanair y Austrian (2 h 45 min – 3 h). Sin frecuencias en la diapositiva (no hay dato fiable del invierno).
+- Faltan: cifras de MPC (diap. 6), fechas del viaje de familiarización, acuerdo de colaboración en inglés, Kristina y el render del coworking. Viaje el lun 19, presentación el mié 21 a las 10:00.

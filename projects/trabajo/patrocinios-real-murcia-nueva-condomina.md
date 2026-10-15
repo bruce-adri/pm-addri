@@ -79,3 +79,8 @@ Concepto "La piscina llegó antes": proyección de agua interactiva en el suelo,
 
 ## Actualización 7 oct 2026 — Hércules CF
 La comida con Germán del 30 sep salió muy bien. **La firma del patrocinio (15.000 € IVA incluido) es la semana del 12 oct.** Ficha: `~/bruce/knowledge/personas/red/hercules-cf.md`.
+
+## Actualización 15 oct 2026
+
+- **C.C. Nueva Condomina: corner CONTRATADO** para Navidad y rebajas; el diseño del stand está en la recta final (Adrián lo pasará a Bruce).
+- **Club de empresas del Real Murcia:** primer encuentro el 15 oct en el Balneario de Archena (Adrián y Manuel). Se usa como primer contacto con el inversor local de AURA (plan de marketing de la segunda ola).

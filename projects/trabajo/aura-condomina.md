@@ -291,3 +291,12 @@ No cambia cifras respecto a la del 2 oct. Incorpora las terrazas (Aura dobla a l
 - La cláusula de equivalencia de Leo y las notas legales van literales. Lo no confirmado (coworking equipado o no, lavabos, puerta del baño principal) se deja en ambiguo, por decisión de Adrián.
 - Pendiente: feedback de Adrián; OK de Leo a "Terraza XL" en vez de "solárium" y a fusionar las notas legales con su cláusula; posible cambio de la imagen del cierre (render de fachada).
 - Comité 14 oct: sin noticias del resultado de la propuesta de reserva de 3.300 € + contrato a 48 h.
+
+## Actualización 15 oct 2026 — Venta de la A2H, argumentario y plan de marketing
+
+- **A2H vendida (1D, 175.900 €):** reserva de 3.000 € + IVA (no reembolsable en ningún caso) cobrada el 14 oct en la oficina, al día siguiente de la visita. Lead de redes sociales del 10 jul (96 días). Clienta en nueva etapa (divorcio), un perfil que se repite en cartera. Contrato el 3 nov (no comunicarlo todavía).
+- El comité del 14 oct aprobó la reserva rápida "de momento". Report para Manuel: `~/bruce/knowledge/mpc-group/reports-comerciales/2026-10-15-aura-reserva-rapida-propuesta-manuel.pdf`.
+- Argumentario de venta (equipo y agencias) y plan de marketing de la segunda ola (19 oct – 31 ene; mínimo 3.000 € / recomendado 8.300 €), a partir de los datos de Atlas v3. En `~/Desktop/Bruce/`.
+- Artículo patrocinado en La Opinión de Murcia (15 oct): AURA como ejemplo de la zona norte.
+- Corner del C.C. Nueva Condomina contratado; diseño del stand en la recta final.
+- Pendiente: ¿otro 1D en octubre? (regla del +5 %) · tablero de decisiones · OK de Antonio Luis a la memoria v3.
