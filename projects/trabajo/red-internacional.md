@@ -55,3 +55,8 @@ Distinto del diagnóstico de arriba (que es sobre la red orgánica general de MP
 
 - Diapositiva 3: Ryanair confirma Bratislava–Alicante para el invierno 2026/27 (23 rutas desde BTS y un 4.º avión basado). Viena–Alicante con Ryanair y Austrian (2 h 45 min – 3 h). Sin frecuencias en la diapositiva (no hay dato fiable del invierno).
 - Faltan: cifras de MPC (diap. 6), fechas del viaje de familiarización, acuerdo de colaboración en inglés, Kristina y el render del coworking. Viaje el lun 19, presentación el mié 21 a las 10:00.
+
+## Actualización 15 oct 2026 (tarde) — Presentación final y kit de carpeta
+- Presentación de 15 diapositivas cerrada a falta de detalles (cifras de MPC, mercado y alquiler, Erasmus, Nature Views II off-market, equipo).
+- Kit en EN: Agent Brief, Investor Packs de AURA, Pórtico II y Nature Views, Price List, invitación al viaje de familiarización (principios de diciembre), registro de clientes. Sin QR (acceso a la extranet al firmar).
+- Contratos: el acuerdo de Leo lo pasa Oihana. Activos propios solo para Peter/Arbitas.
