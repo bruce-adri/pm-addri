@@ -60,3 +60,4 @@ Distinto del diagnóstico de arriba (que es sobre la red orgánica general de MP
 - Presentación de 15 diapositivas cerrada a falta de detalles (cifras de MPC, mercado y alquiler, Erasmus, Nature Views II off-market, equipo).
 - Kit en EN: Agent Brief, Investor Packs de AURA, Pórtico II y Nature Views, Price List, invitación al viaje de familiarización (principios de diciembre), registro de clientes. Sin QR (acceso a la extranet al firmar).
 - Contratos: el acuerdo de Leo lo pasa Oihana. Activos propios solo para Peter/Arbitas.
+- **16 oct 2026:** vídeo corporativo de MPC para Bratislava aprobado ("esto es lo que quería"): EN, 35 s, 16:9 y 9:16, cifras de MPC, Murcia/Alicante/Torrevieja, "Under 3 hours from Bratislava", cierre "Meet us in Bratislava · 21 October 2026" + "In collaboration with ARBITAS". Sin precios ni Nature Views II. Mensaje en inglés para que Vadim lo pase a las agencias el lunes 19.
