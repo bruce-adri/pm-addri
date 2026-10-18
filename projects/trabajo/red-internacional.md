@@ -62,3 +62,9 @@ Distinto del diagnóstico de arriba (que es sobre la red orgánica general de MP
 - Contratos: el acuerdo de Leo lo pasa Oihana. Activos propios solo para Peter/Arbitas.
 - **16 oct 2026:** vídeo corporativo de MPC para Bratislava aprobado ("esto es lo que quería"): EN, 35 s, 16:9 y 9:16, cifras de MPC, Murcia/Alicante/Torrevieja, "Under 3 hours from Bratislava", cierre "Meet us in Bratislava · 21 October 2026" + "In collaboration with ARBITAS". Sin precios ni Nature Views II. Mensaje en inglés para que Vadim lo pase a las agencias el lunes 19.
 - **16 oct 2026 (tarde):** Peter confirma 8 de 10 agencias; sala en el hotel de Adrián desde las 9:00, presentación a las 10:00 (~2 h, hasta 13:00), comida después. Respuesta de Adrián enviada (pide pantalla HDMI, nº de asistentes y lista). Vídeo corporativo enviado a Vadim por WhatsApp.
+
+## Actualización 18 oct 2026 — Hotel, Calendario y comisiones en Eslovaquia
+- Hotel de Adrián: **Sheraton Bratislava** (Pribinova 12, Eurovea). La presentación del mié 21 (10:00-13:00) es en la sala del hotel; evento creado en el Calendario.
+- **Comisiones de mercado en Eslovaquia:** 3-5 % + IVA del 23 % (Bratislava 2-4 %), la paga normalmente el vendedor y ninguna ley la fija. El protocolo internacional de MPC (4 % + 0,5 % retroactivo a partir de 5 ventas/año) es competitivo → no hace falta subirlo.
+- A confirmar antes o durante la presentación: (1) que el comprador no pague comisión (por escrito en el acuerdo); (2) IVA de la factura de una agencia eslovaca a MPC (inversión del sujeto pasivo, sin verificar → Oihana o asesor); (3) cuánto pagan los promotores de Dubái (preguntar a Peter).
+- Detalle y fuentes: `~/bruce/knowledge/mpc-group/eslovaquia-agencias-peter-2026-10.md`.
