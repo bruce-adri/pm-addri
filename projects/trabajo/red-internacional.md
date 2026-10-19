@@ -68,3 +68,5 @@ Distinto del diagnóstico de arriba (que es sobre la red orgánica general de MP
 - **Comisiones de mercado en Eslovaquia:** 3-5 % + IVA del 23 % (Bratislava 2-4 %), la paga normalmente el vendedor y ninguna ley la fija. El protocolo internacional de MPC (4 % + 0,5 % retroactivo a partir de 5 ventas/año) es competitivo → no hace falta subirlo.
 - A confirmar antes o durante la presentación: (1) que el comprador no pague comisión (por escrito en el acuerdo); (2) IVA de la factura de una agencia eslovaca a MPC (inversión del sujeto pasivo, sin verificar → Oihana o asesor); (3) cuánto pagan los promotores de Dubái (preguntar a Peter).
 - Detalle y fuentes: `~/bruce/knowledge/mpc-group/eslovaquia-agencias-peter-2026-10.md`.
+
+- **19 oct 2026:** kit final (versión del 19) + carpeta combinada para imprimir + guion del presentador. TIR bruta: AURA ~9-12 %, Pórtico ~8,5-11 % (neta ≈ 5-8 %). 12 agencias invitadas (8 confirmadas). Ver `~/bruce/knowledge/mpc-group/eslovaquia-agencias-peter-2026-10.md`.

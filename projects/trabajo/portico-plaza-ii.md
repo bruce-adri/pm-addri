@@ -66,3 +66,5 @@ Informe de 2 páginas para Manuel: `~/bruce/knowledge/mpc-group/reports-comercia
 - La clienta de Isabel **no va a reservar de momento** (no hay venta el vie 16).
 - Fernando sin novedades (340k por el 3D de 360k; margen hasta 350k). Propuesto: que Oskar lo llame con fecha límite.
 - Hakim desaparecido → frío salvo que reaparezca.
+
+- **19 oct 2026:** firma de contratos avanzando. Ronald (holandés): inducción frente a vitrocerámica → lo decide la dirección facultativa, él lo pide en el documento de personalización (esta semana). Lola y Julio: discrepancias con las superficies. Alquiler real en Pórtico I: 3D a 1.300-1.500 €/mes.

@@ -301,3 +301,5 @@ No cambia cifras respecto a la del 2 oct. Incorpora las terrazas (Aura dobla a l
 - Corner del C.C. Nueva Condomina contratado; diseño del stand en la recta final.
 - Pendiente: ¿otro 1D en octubre? (regla del +5 %) · tablero de decisiones · OK de Antonio Luis a la memoria v3.
 - **16 oct 2026:** guía de llamadas para Isabel (`reports-comerciales/2026-10-16-aura-guia-llamadas`); forma de pago "de momento" 10.000 € + IVA a cuenta junto a la reserva de 3.000 € + IVA (aclarar). Memoria del 15 oct en .docx para cambios. Web: "Ático con solárium" y "2 piscinas" a corregir.
+
+- **19 oct 2026:** comité del 20 → reserva de 3.000 € + IVA como estándar; oferta Reside (−3.000 € si compra antes del 12/11, condiciones por definir); valorar subir los 1D (quedan 5 de 12 en la Fase 1). 2 clientes a los que ya se ha dicho que cumplen el scoring. Corner del C.C. Nueva Condomina: contrato firmado por MPC. Reserva para el cliente internacional: 11.000 € (¿con IVA?).
