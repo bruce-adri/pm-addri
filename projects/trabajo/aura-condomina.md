@@ -2,7 +2,7 @@
 area: trabajo
 status: 🟢 activo
 priority: crítica
-updated: 2026-10-14
+updated: 2026-10-20
 ---
 
 # Aura Condomina — Fase 1 (250 viv., Nueva Condomina, Murcia)
@@ -303,3 +303,8 @@ No cambia cifras respecto a la del 2 oct. Incorpora las terrazas (Aura dobla a l
 - **16 oct 2026:** guía de llamadas para Isabel (`reports-comerciales/2026-10-16-aura-guia-llamadas`); forma de pago "de momento" 10.000 € + IVA a cuenta junto a la reserva de 3.000 € + IVA (aclarar). Memoria del 15 oct en .docx para cambios. Web: "Ático con solárium" y "2 piscinas" a corregir.
 
 - **19 oct 2026:** comité del 20 → reserva de 3.000 € + IVA como estándar; oferta Reside (−3.000 € si compra antes del 12/11, condiciones por definir); valorar subir los 1D (quedan 5 de 12 en la Fase 1). 2 clientes a los que ya se ha dicho que cumplen el scoring. Corner del C.C. Nueva Condomina: contrato firmado por MPC. Reserva para el cliente internacional: 11.000 € (¿con IVA?).
+
+## 20 oct 2026 — web
+- Living Experience: en móvil y tablet todavía "Ático con solarium" / "Zonas comúnes con 2 piscinas" (EN: "Penthouse with solarium", "2 swimming pools"). En ordenador ya está bien.
+- EN: "Habitual Residence" → "Main Home"; calculadora con etiquetas en español.
+- Enviado a Jonathan y Edu. Disponibles: 41, sin cambios desde el 15 oct.

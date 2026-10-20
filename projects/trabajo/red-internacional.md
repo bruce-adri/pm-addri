@@ -2,7 +2,7 @@
 area: trabajo
 status: 🟡 en marcha
 priority: alta
-updated: 2026-10-05
+updated: 2026-10-20
 ---
 
 # Red comercial internacional (Europa)
@@ -70,3 +70,9 @@ Distinto del diagnóstico de arriba (que es sobre la red orgánica general de MP
 - Detalle y fuentes: `~/bruce/knowledge/mpc-group/eslovaquia-agencias-peter-2026-10.md`.
 
 - **19 oct 2026:** kit final (versión del 19) + carpeta combinada para imprimir + guion del presentador. TIR bruta: AURA ~9-12 %, Pórtico ~8,5-11 % (neta ≈ 5-8 %). 12 agencias invitadas (8 confirmadas). Ver `~/bruce/knowledge/mpc-group/eslovaquia-agencias-peter-2026-10.md`.
+
+## Actualización 20 oct 2026 — presentación final de Bratislava
+- 17 slides: reseñas de Google (Piotr, Tatiana y Kees, Andrii), precio de Bratislava con **Bencont Q2 2026 (5.304 €/m² con IVA)**, estudiantes (UCAM 3.365 de 139 países; UA 1.953 de grado + ~850-900 de intercambio), **"Ready to sell now"** (AURA A5D/A1I/A3C, Pórtico E1-3A/E2-2A/E2-2B, NV ático/Villa 12), QR a auracondomina.es/en.
+- Se proyecta el **.key** (el mando funciona); PDF "(final)" y .pptx de reserva en `~/Desktop/Bruce/`.
+- Guion: plan B "Let's sell one together" y "Open your Investor Pack".
+- Antes de la sala: Villa 12 (María), ático PH C de Pórtico (Oskar).

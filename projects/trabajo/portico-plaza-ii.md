@@ -2,7 +2,7 @@
 area: trabajo
 status: 🟢 activo
 priority: crítica
-updated: 2026-10-14
+updated: 2026-10-20
 ---
 
 # Pórtico Plaza II (53 viv., Bulevar del Pla, Alicante)
@@ -68,3 +68,9 @@ Informe de 2 páginas para Manuel: `~/bruce/knowledge/mpc-group/reports-comercia
 - Hakim desaparecido → frío salvo que reaparezca.
 
 - **19 oct 2026:** firma de contratos avanzando. Ronald (holandés): inducción frente a vitrocerámica → lo decide la dirección facultativa, él lo pide en el documento de personalización (esta semana). Lola y Julio: discrepancias con las superficies. Alquiler real en Pórtico I: 3D a 1.300-1.500 €/mes.
+
+## 20 oct 2026
+- Web caída de 15:40 a 15:54 (error crítico de WordPress) → Edu la arregló.
+- El ático **E3-PH C (403.900 €) ya no aparece en la tabla de la web** → ¿vendido? Confirmar con Oskar. Si lo está, actualizar el Agent Brief, el Investor Pack y la Price List.
+- **Ricardo ya no está en MPC**: sus clientes (Ronald, holandeses) pasan a Oskar o María.
+- Web: quitar el testimonio de Ronald (entrega "finales de 2027" + nombra a Ricardo); traducir el menú EN ("Specifications", "Furniture packs"), la calculadora ("Principal & Interest") y el botón "Plano". A última hora no se veía aplicado (¿caché?).
