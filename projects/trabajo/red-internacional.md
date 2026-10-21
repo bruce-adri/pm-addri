@@ -2,7 +2,7 @@
 area: trabajo
 status: 🟡 en marcha
 priority: alta
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Red comercial internacional (Europa)
@@ -76,3 +76,10 @@ Distinto del diagnóstico de arriba (que es sobre la red orgánica general de MP
 - Se proyecta el **.key** (el mando funciona); PDF "(final)" y .pptx de reserva en `~/Desktop/Bruce/`.
 - Guion: plan B "Let's sell one together" y "Open your Investor Pack".
 - Antes de la sala: Villa 12 (María), ático PH C de Pórtico (Oskar).
+
+## Actualización 21 oct 2026 — presentación de Bratislava hecha
+- "Gustó mucho", pero **solo vinieron 5 agencias** (de 8 confirmadas); **ninguna de las 3 prioritarias** (Lestero, CASA & Partners, Svoboda & Williams).
+- Peter Baláž organiza visitas a esas tres el jue 22 por la mañana, antes del vuelo de las 17:00.
+- Email de agradecimiento de Peter a las 5 asistentes (Adrián en CC, solo el PDF). Adrián enviará su lista de documentación para el contrato de colaboración.
+- Pendiente: nombres de las 5 asistentes, resultado de las visitas del 22, cena con Vadim (NV2), por qué vinieron pocas (antes del viaje de diciembre).
+
