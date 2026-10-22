@@ -308,3 +308,8 @@ No cambia cifras respecto a la del 2 oct. Incorpora las terrazas (Aura dobla a l
 - Living Experience: en móvil y tablet todavía "Ático con solarium" / "Zonas comúnes con 2 piscinas" (EN: "Penthouse with solarium", "2 swimming pools"). En ordenador ya está bien.
 - EN: "Habitual Residence" → "Main Home"; calculadora con etiquetas en español.
 - Enviado a Jonathan y Edu. Disponibles: 41, sin cambios desde el 15 oct.
+
+## Actualización 22 oct 2026 — subida de los 1D de la Fase 1
+- Decisión de Adrián: **+10.000 € en cada 1D que queda (5 de 12)**. Nuevos precios: A5D 191.900 · A6D 193.900 · A7B 198.900 · A8B 200.900 · A9B 202.900 € (antes 181.900 / 183.900 / 188.900 / 190.900 / 192.900, según la web del 22 oct). "Desde" del 1D = **191.900 €**.
+- Email al equipo (María, Oskar, Isabel) + Jonathan para actualizar web, price list, Investor Pack, Agent Brief, presentaciones y portales: redactado; no consta si se envió.
+- Abierto: ¿se respeta el precio antiguo a los 2 clientes con el scoring aprobado? · A8B/A9B pasan de 200k (opción 199.900 €, sin respuesta) · fecha de entrada en vigor ("a partir de hoy").

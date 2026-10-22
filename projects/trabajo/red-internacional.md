@@ -83,3 +83,8 @@ Distinto del diagnóstico de arriba (que es sobre la red orgánica general de MP
 - Email de agradecimiento de Peter a las 5 asistentes (Adrián en CC, solo el PDF). Adrián enviará su lista de documentación para el contrato de colaboración.
 - Pendiente: nombres de las 5 asistentes, resultado de las visitas del 22, cena con Vadim (NV2), por qué vinieron pocas (antes del viaje de diciembre).
 
+
+## Actualización 22 oct 2026 — visitas en Bratislava y DAHLEH Realty
+- **Lestero, CASA & Partners y Svoboda & Williams: no están interesadas, por ahora, en vender vivienda en España.** Fuera del canal activo.
+- **DAHLEH Realty (Mustafa, Business Manager):** recogió a Adrián en el hotel, reunión en su oficina, comida y traslado al aeropuerto. Primera agencia que quiere venir a España. Visita propuesta a Alicante, Murcia y los proyectos en una de estas semanas: 9-13 nov, 16-20 nov o 30 nov-4 dic. Alojamiento a su cargo (MPC recomienda hoteles). Email de agradecimiento con Peter en CC enviado por Adrián desde el aeropuerto.
+- Email a Peter (Vadim en CC): DAHLEH es la primera; se le pide que contacte en persona con las 5 asistentes para saber si siguen en el proceso. Adrián prepara **la semana que viene un planning de próximos pasos** ("como hablamos ayer").
