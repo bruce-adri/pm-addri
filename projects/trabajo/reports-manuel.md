@@ -45,3 +45,6 @@ PDF en la carpeta del Comité (2 págs.) + valoración de Atlas actualizada (1 p
 
 - **19 oct 2026 — Comité del 20 oct:** PDF en la carpeta del Comité (2 págs.), lo envía Adrián (no asiste, está en Bratislava). Venta A2H, 3 decisiones (reserva 3k, Reside, precio de los 1D), Pórtico (Ronald, Lola y Julio).
 - **19 oct 2026 (tarde) — Visitas corregidas:** 5 reales (Aura 4 · Pórtico II 1) frente a 1 en Power BI. En el PDF van a secas (indicador, tabla y punto de atención); PDF sustituido con el mismo nombre.
+
+## 26 oct 2026
+- Propuesta de formato ágil del comité (PDF 2 págs. + plantilla Word por área) en ~/Desktop/MPC Group/Comité dirección/. Pendiente: visto bueno de Adrián (hora límite 14:00, prueba de 4 comités) y envío a Manuel.
