@@ -88,3 +88,8 @@ Distinto del diagnóstico de arriba (que es sobre la red orgánica general de MP
 - **Lestero, CASA & Partners y Svoboda & Williams: no están interesadas, por ahora, en vender vivienda en España.** Fuera del canal activo.
 - **DAHLEH Realty (Mustafa, Business Manager):** recogió a Adrián en el hotel, reunión en su oficina, comida y traslado al aeropuerto. Primera agencia que quiere venir a España. Visita propuesta a Alicante, Murcia y los proyectos en una de estas semanas: 9-13 nov, 16-20 nov o 30 nov-4 dic. Alojamiento a su cargo (MPC recomienda hoteles). Email de agradecimiento con Peter en CC enviado por Adrián desde el aeropuerto.
 - Email a Peter (Vadim en CC): DAHLEH es la primera; se le pide que contacte en persona con las 5 asistentes para saber si siguen en el proceso. Adrián prepara **la semana que viene un planning de próximos pasos** ("como hablamos ayer").
+
+## 26 oct 2026
+- Idea con Vadim y Arbitas: oficina conjunta en Bratislava. DAHLEH: pendiente de cerrar el primer viaje de inspección.
+- Post de MPC sin mencionar Bratislava (foto retocada).
+- Para el 27: programa de impulso a agencias (Murcia 75 % de comisión aunque el cliente esté registrado a nuestro nombre; Nature ¿hasta 10 %?).

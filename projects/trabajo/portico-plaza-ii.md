@@ -74,3 +74,8 @@ Informe de 2 páginas para Manuel: `~/bruce/knowledge/mpc-group/reports-comercia
 - El ático **E3-PH C (403.900 €) ya no aparece en la tabla de la web** → ¿vendido? Confirmar con Oskar. Si lo está, actualizar el Agent Brief, el Investor Pack y la Price List.
 - **Ricardo ya no está en MPC**: sus clientes (Ronald, holandeses) pasan a Oskar o María.
 - Web: quitar el testimonio de Ronald (entrega "finales de 2027" + nombra a Ricardo); traducir el menú EN ("Specifications", "Furniture packs"), la calculadora ("Principal & Interest") y el botón "Plano". A última hora no se veía aplicado (¿caché?).
+
+## 26 oct 2026
+- Lola y Julio: acuerdo → garaje 68 y trastero 20; preparar anexo nuevo.
+- Ruslans (clienta de Letonia), vivienda 4D: altura de suelo a techo + quitar tabique → dirección técnica.
+- Mailing de dossieres de cocina y personalización (formulario online, 15 días): texto en bruce/knowledge/mpc-group/portico-plaza-ii-comunicaciones-clientes.md §2.

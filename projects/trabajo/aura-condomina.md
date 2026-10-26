@@ -313,3 +313,8 @@ No cambia cifras respecto a la del 2 oct. Incorpora las terrazas (Aura dobla a l
 - Decisión de Adrián: **+10.000 € en cada 1D que queda (5 de 12)**. Nuevos precios: A5D 191.900 · A6D 193.900 · A7B 198.900 · A8B 200.900 · A9B 202.900 € (antes 181.900 / 183.900 / 188.900 / 190.900 / 192.900, según la web del 22 oct). "Desde" del 1D = **191.900 €**.
 - Email al equipo (María, Oskar, Isabel) + Jonathan para actualizar web, price list, Investor Pack, Agent Brief, presentaciones y portales: redactado; no consta si se envió.
 - Abierto: ¿se respeta el precio antiguo a los 2 clientes con el scoring aprobado? · A8B/A9B pasan de 200k (opción 199.900 €, sin respuesta) · fecha de entrada en vigor ("a partir de hoy").
+
+## 26 oct 2026
+- Venta A4G: Roger Daniel García, 239.900 € + IVA (solo vivienda), contrato 25 oct, reserva 5.000 € + IVA el 26, 10 % el 3 nov + 10 % en 16 cuotas descontando la reserva. Lead web/Facebook (campaña propia) del 30 sep → 25 días.
+- 2-3 interesados; uno responde el 26-27.
+- Feedback de la maqueta virtual a Persuadis; tour virtual integrable → buscar proveedor.
