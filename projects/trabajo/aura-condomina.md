@@ -319,3 +319,4 @@ No cambia cifras respecto a la del 2 oct. Incorpora las terrazas (Aura dobla a l
 - 2-3 interesados; uno responde el 26-27.
 - Feedback de la maqueta virtual a Persuadis; tour virtual integrable → buscar proveedor.
 - Tour virtual: lo hace MPC; se envía a Persuadis para integrarlo (preguntado formato y requisitos). Email de feedback con los enlaces nuevos de Jonathan.
+- Respuesta de Persuadis (26 oct): todo OK; menú limitado ("la base está programada"); tour virtual por URL; maqueta lista esta semana. Materiales/fratasados no se pidieron en el email enviado.
