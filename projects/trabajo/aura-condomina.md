@@ -318,3 +318,4 @@ No cambia cifras respecto a la del 2 oct. Incorpora las terrazas (Aura dobla a l
 - Venta A4G: Roger Daniel García, 239.900 € + IVA (solo vivienda), contrato 25 oct, reserva 5.000 € + IVA el 26, 10 % el 3 nov + 10 % en 16 cuotas descontando la reserva. Lead web/Facebook (campaña propia) del 30 sep → 25 días.
 - 2-3 interesados; uno responde el 26-27.
 - Feedback de la maqueta virtual a Persuadis; tour virtual integrable → buscar proveedor.
+- Tour virtual: lo hace MPC; se envía a Persuadis para integrarlo (preguntado formato y requisitos). Email de feedback con los enlaces nuevos de Jonathan.
