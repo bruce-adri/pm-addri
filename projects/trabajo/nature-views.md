@@ -32,3 +32,6 @@ Cierre del proyecto. Quedan 1 ático y 1 villa (villa 12), key ready.
 
 ## 4 oct 2026
 - Villa: un polaco y un holandés interesados, ambos directos. Ático enseñado con agencia colaboradora.
+
+## 27 oct 2026 — Programa de impulso a agencias
+Para reservas antes del 31/12/2026: comisión de agencia hasta el 10 % en las 2 últimas unidades (ático 330k → +19.800 €; Villa 12 499k → +29.940 € frente al 4 %). Excluidos los clientes ya en conversación directa (cliente español de la Villa 12, polaco y holandés). Pendiente de Manuel. Documento: `~/bruce/knowledge/mpc-group/reports-comerciales/2026-10-27-programa-impulso-agencias.html`.

@@ -93,3 +93,6 @@ Distinto del diagnóstico de arriba (que es sobre la red orgánica general de MP
 - Idea con Vadim y Arbitas: oficina conjunta en Bratislava. DAHLEH: pendiente de cerrar el primer viaje de inspección.
 - Post de MPC sin mencionar Bratislava (foto retocada).
 - Para el 27: programa de impulso a agencias (Murcia 75 % de comisión aunque el cliente esté registrado a nuestro nombre; Nature ¿hasta 10 %?).
+
+## 27 oct 2026 — DAHLEH confirma visita
+Mustafa (DAHLEH Realty) viene a Alicante del 30 nov al 4 dic, 3 personas (= viaje de familiarización). Hoteles enviados (Hospes Amérigo, Meliá Alicante, Eurostars Lucentum). Falta: días concretos y vuelos → agenda. Email de agradecimiento a las 5 agencias de Bratislava reescrito para que lo envíe Adrián; pendiente la lista de requisitos para el contrato.

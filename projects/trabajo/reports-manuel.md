@@ -48,3 +48,6 @@ PDF en la carpeta del Comité (2 págs.) + valoración de Atlas actualizada (1 p
 
 ## 26 oct 2026
 - Propuesta de formato ágil del comité (PDF 2 págs. + plantilla Word por área) en ~/Desktop/MPC Group/Comité dirección/. Pendiente: visto bueno de Adrián (hora límite 14:00, prueba de 4 comités) y envío a Manuel.
+
+## 27 oct 2026
+Entregables para Manuel: "La IA como jefe de gabinete del CEO" + anexo práctico, y "Programa de impulso a agencias" (carpeta del Comité). Siguiente: plan comercial 8-10 ventas/mes (canal de inversores y packs; presupuesto de marketing ~250k €/año).

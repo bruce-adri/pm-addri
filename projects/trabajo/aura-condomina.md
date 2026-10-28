@@ -320,3 +320,6 @@ No cambia cifras respecto a la del 2 oct. Incorpora las terrazas (Aura dobla a l
 - Feedback de la maqueta virtual a Persuadis; tour virtual integrable → buscar proveedor.
 - Tour virtual: lo hace MPC; se envía a Persuadis para integrarlo (preguntado formato y requisitos). Email de feedback con los enlaces nuevos de Jonathan.
 - Respuesta de Persuadis (26 oct): todo OK; menú limitado ("la base está programada"); tour virtual por URL; maqueta lista esta semana. Materiales/fratasados no se pidieron en el email enviado.
+
+## 27 oct 2026 — Programa de impulso a agencias
+Propuesta para Manuel: 75 % de la comisión (1,5 % nacional / 3 % internacional) aunque el cliente esté registrado por MPC. Escenarios A (solo leads fríos), B1 (1.500 € + 100 €/venta) y B2 recomendado (1.350 € + 600 € por cada venta de cualquier canal, al equipo). 1 nov – 31 dic.
