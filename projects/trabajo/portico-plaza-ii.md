@@ -2,7 +2,7 @@
 area: trabajo
 status: 🟢 activo
 priority: crítica
-updated: 2026-10-20
+updated: 2026-10-29
 ---
 
 # Pórtico Plaza II (53 viv., Bulevar del Pla, Alicante)
@@ -79,3 +79,15 @@ Informe de 2 páginas para Manuel: `~/bruce/knowledge/mpc-group/reports-comercia
 - Lola y Julio: acuerdo → garaje 68 y trastero 20; preparar anexo nuevo.
 - Ruslans (clienta de Letonia), vivienda 4D: altura de suelo a techo + quitar tabique → dirección técnica.
 - Mailing de dossieres de cocina y personalización (formulario online, 15 días): texto en bruce/knowledge/mpc-group/portico-plaza-ii-comunicaciones-clientes.md §2.
+
+## 29 oct 2026: local comercial (activo propio)
+- **Solo venta:** 950.000 € + IVA, con una plaza de garaje incluida. Entrega en junio de 2028 con el edificio. Calle principal: Av. Periodista Rodolfo Salazar. "No hay otro local de estas características en la zona."
+- Dossier para negocios (5 págs., con la portada de Jonathan) y plan de venta para Manuel (2 págs.) en el repo de Bruce: `knowledge/mpc-group/reports-comerciales/2026-10-29-local-portico-plaza-ii/`. El plan también está en `~/Desktop/Bruce/`.
+- **Conclusión:** los inversores y family offices son los compradores más probables ahora; los negocios, a partir de 2027.
+- **Arranque:** semana del 2 nov, con cuatro frentes: inversores (CBRE y Colliers), negocios con uso propio, red propia y escaparate (lona en la obra y portales).
+- **Pendiente:**
+  - Altura libre y potencia eléctrica.
+  - Nombre del comercial de Alicante.
+  - Confirmar que hay valla de obra para la lona.
+  - Decisiones de Manuel: margen de negociación, forma de pago, honorarios, presupuesto para lona y renders, dividir el local.
+
