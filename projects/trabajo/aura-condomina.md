@@ -323,3 +323,6 @@ No cambia cifras respecto a la del 2 oct. Incorpora las terrazas (Aura dobla a l
 
 ## 27 oct 2026 — Programa de impulso a agencias
 Propuesta para Manuel: 75 % de la comisión (1,5 % nacional / 3 % internacional) aunque el cliente esté registrado por MPC. Escenarios A (solo leads fríos), B1 (1.500 € + 100 €/venta) y B2 recomendado (1.350 € + 600 € por cada venta de cualquier canal, al equipo). 1 nov – 31 dic.
+
+## 29 oct 2026
+- Roberto Méndez (director del C.C. Nueva Condomina) quiere invertir en 3 o más viviendas de AURA con familia o amigos. Email con 3 opciones (recomendada: 3 × 2D de 105 m² = 712.700 €), estudio de octubre y "condiciones específicas para vuestro grupo" (sin concretar, a validar con Manuel).

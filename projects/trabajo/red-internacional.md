@@ -96,3 +96,6 @@ Distinto del diagnóstico de arriba (que es sobre la red orgánica general de MP
 
 ## 27 oct 2026 — DAHLEH confirma visita
 Mustafa (DAHLEH Realty) viene a Alicante del 30 nov al 4 dic, 3 personas (= viaje de familiarización). Hoteles enviados (Hospes Amérigo, Meliá Alicante, Eurostars Lucentum). Falta: días concretos y vuelos → agenda. Email de agradecimiento a las 5 agencias de Bratislava reescrito para que lo envíe Adrián; pendiente la lista de requisitos para el contrato.
+
+## 29 oct 2026
+- Petra (New Living) quiere anunciar en su web y en portales. Sin prohibiciones; siguiente paso: formulario + documentación adaptada a Eslovaquia (registro mercantil o de actividades, IČO/DIČ, DNI, seguro si lo tiene, certificados de Finančná správa y Sociálna poisťovňa, IBAN). Email genérico para las agencias con invitación a la semana del 30 nov (con DAHLEH) o a otra.
