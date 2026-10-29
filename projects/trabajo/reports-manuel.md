@@ -51,3 +51,6 @@ PDF en la carpeta del Comité (2 págs.) + valoración de Atlas actualizada (1 p
 
 ## 27 oct 2026
 Entregables para Manuel: "La IA como jefe de gabinete del CEO" + anexo práctico, y "Programa de impulso a agencias" (carpeta del Comité). Siguiente: plan comercial 8-10 ventas/mes (canal de inversores y packs; presupuesto de marketing ~250k €/año).
+
+## 29 oct 2026
+- Comité del lunes 2 nov: se prepara el viernes 30 y se envía ese día, con la plantilla de una página y la tabla de seguimiento de acuerdos. La propuesta de comité ágil (26 oct) todavía no se le ha entregado a Manuel: la idea es entregársela con el resumen y que este sea el primer comité de la prueba de 4.
