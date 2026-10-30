@@ -99,3 +99,10 @@ Mustafa (DAHLEH Realty) viene a Alicante del 30 nov al 4 dic, 3 personas (= viaj
 
 ## 29 oct 2026
 - Petra (New Living) quiere anunciar en su web y en portales. Sin prohibiciones; siguiente paso: formulario + documentación adaptada a Eslovaquia (registro mercantil o de actividades, IČO/DIČ, DNI, seguro si lo tiene, certificados de Finančná správa y Sociálna poisťovňa, IBAN). Email genérico para las agencias con invitación a la semana del 30 nov (con DAHLEH) o a otra.
+
+## 30 oct 2026 — DAHLEH: vuelos confirmados
+- Llegan el **lun 30 nov a las 9:00** y se van el **mié 2 dic a las 9:30**: 2 días completos, 3 personas. El hotel lo reservan ellos y lo confirmarán.
+- **Decisión:** los dos días en Alicante, sin Murcia, para que Adrián pueda ir a la comida de Hércules Populi (mar 1 dic, 13:30).
+- **Adrián los recoge en el aeropuerto.** Eventos en el Calendario con alerta.
+- Respuesta a Mustafa redactada: recogida, 2 días en Alicante, agenda la semana que viene y los nombres de los 3 que viajan.
+- Pendiente: agenda detallada (semana del 2 nov), nombres y hotel.

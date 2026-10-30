@@ -42,3 +42,8 @@ Campaña de prueba: **100 llamadas/mes**, solo español, alcance **Aura Condomin
 
 ## Notas
 - Idealista es la vía que sí funciona — mantener.
+
+## 30 oct 2026 — LinkedIn
+- El post "Del plano a la grúa" sale el **mar 3 nov a las 8:30, sin foto**. Esquema aceptado; falta la anécdota de Adrián.
+- Se aparca "reuniones que deciden" hasta que Manuel tenga la propuesta de comité ágil.
+- Detalle en `~/bruce/knowledge/mpc-group/linkedin-calendario-adrian.md`.
