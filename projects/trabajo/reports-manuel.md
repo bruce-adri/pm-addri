@@ -54,3 +54,8 @@ Entregables para Manuel: "La IA como jefe de gabinete del CEO" + anexo práctico
 
 ## 29 oct 2026
 - Comité del lunes 2 nov: se prepara el viernes 30 y se envía ese día, con la plantilla de una página y la tabla de seguimiento de acuerdos. La propuesta de comité ágil (26 oct) todavía no se le ha entregado a Manuel: la idea es entregársela con el resumen y que este sea el primer comité de la prueba de 4.
+
+## 30 oct 2026 — Comité del 2 nov preparado
+- Área de Comercial y Marketing en el formato ágil (para decidir, bloqueos, estado), con anexos de lonas y Linkasoft. Son 3 páginas.
+- PDF: `~/Desktop/MPC Group/Comité dirección/Comité de Dirección — Comercial y Marketing 2 nov.pdf`.
+- Siguiente: el report de leads de septiembre y octubre (Oskar y María), pendiente de saber si es para Manuel o interno.

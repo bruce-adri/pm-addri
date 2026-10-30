@@ -326,3 +326,8 @@ Propuesta para Manuel: 75 % de la comisión (1,5 % nacional / 3 % internacional)
 
 ## 29 oct 2026
 - Roberto Méndez (director del C.C. Nueva Condomina) quiere invertir en 3 o más viviendas de AURA con familia o amigos. Email con 3 opciones (recomendada: 3 × 2D de 105 m² = 712.700 €), estudio de octubre y "condiciones específicas para vuestro grupo" (sin concretar, a validar con Manuel).
+
+## 30 oct 2026
+- **Lonas del C.C. (2 de 10 × 5 m):** pareja complementaria propuesta (estilo de vida y producto). Las de Jonathan tienen errores: .com en vez de .es, "2 piscinas" (es una sola, con zona de adultos e infantil) y gimnasio y "17.000 m²", que son de fases futuras. Se decide en el comité del 2 nov y Jonathan monta el arte final.
+- **Tour virtual:** propuesta de 77 Render Studio, 3 tours 360° por 1.470 USD. Al comité.
+- **Leads de sep-oct (Oskar):** en Aura, la demanda es de 1 dormitorio (35 %) y solo quedan 4. Propone descalificar unos 350 leads.
