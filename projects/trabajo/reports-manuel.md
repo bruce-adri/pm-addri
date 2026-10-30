@@ -59,3 +59,7 @@ Entregables para Manuel: "La IA como jefe de gabinete del CEO" + anexo práctico
 - Área de Comercial y Marketing en el formato ágil (para decidir, bloqueos, estado), con anexos de lonas y Linkasoft. Son 3 páginas.
 - PDF: `~/Desktop/MPC Group/Comité dirección/Comité de Dirección — Comercial y Marketing 2 nov.pdf`.
 - Siguiente: el report de leads de septiembre y octubre (Oskar y María), pendiente de saber si es para Manuel o interno.
+- 30 oct (noche): **documento de leads de septiembre y octubre**, aparte y para hacerlo público: "Leads septiembre-octubre — Total, por promoción y por comercial 2 nov.pdf".
+  - ≈97 activos de 2.480.
+  - Conversión de visita a venta: Oskar 33 % (4 ventas con 12 visitas), María 14 %.
+  - El comité se queda en 3 páginas.
