@@ -47,6 +47,7 @@ Vista agregada de todos los proyectos, por área. Detalle de cada proyecto en `p
 | Proyecto | Estado | Prioridad | Próxima acción |
 |----------|--------|-----------|----------------|
 | [Bruce — Fase 1 (codificar los agentes)](projects/bruce/fase-1.md) | 🟡 En marcha | Alta | **10 sep: próxima sesión dedicada entera a `personas.md`.** Equipo (8 perfiles) y competidores ya cerrados — quedan clientes clave (solo Vadim) y red de contactos (solo Open Club + WTG) |
+| Bruce en el móvil y por voz | 🟡 En marcha | Media | **30 oct: guía de 3 modos (dictado, Remote Control, nube) en `~/Desktop/Bruce/`; dictado OK (Control dos veces); Bruce habla con Eddy (`/voz` y `/silencio`). Próximo: configurar juntos la app Claude para Mac, Remote Control en el iPhone y Bruce en la nube (GitHub), ~30 min.** |
 | [Bruce — Fase 2 (3-6 meses)](projects/bruce/fase-2.md) | 🔴 No iniciado | Alta | Priorizar cuál de las 5 capacidades abordar primero |
 | [Bruce — Fase 3 (12 meses)](projects/bruce/fase-3.md) | 🔴 No iniciado | Media | Revisar cuando Fase 2 esté avanzada |
 
