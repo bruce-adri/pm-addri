@@ -2,7 +2,7 @@
 area: trabajo
 status: 🟢 activo
 priority: crítica
-updated: 2026-10-20
+updated: 2026-11-01
 ---
 
 # Aura Condomina — Fase 1 (250 viv., Nueva Condomina, Murcia)
@@ -331,3 +331,9 @@ Propuesta para Manuel: 75 % de la comisión (1,5 % nacional / 3 % internacional)
 - **Lonas del C.C. (2 de 10 × 5 m):** pareja complementaria propuesta (estilo de vida y producto). Las de Jonathan tienen errores: .com en vez de .es, "2 piscinas" (es una sola, con zona de adultos e infantil) y gimnasio y "17.000 m²", que son de fases futuras. Se decide en el comité del 2 nov y Jonathan monta el arte final.
 - **Tour virtual:** propuesta de 77 Render Studio, 3 tours 360° por 1.470 USD. Al comité.
 - **Leads de sep-oct (Oskar):** en Aura, la demanda es de 1 dormitorio (35 %) y solo quedan 4. Propone descalificar unos 350 leads.
+
+## 1 nov 2026
+- **Reserva estándar: 11.000 € (10.000 € + IVA)**, según Adrián.
+- **Roberto Méndez (C.C. Nueva Condomina):** invierte con familiares, quiere una señal y pagos mensuales. Respuesta: pack o compra individual; A1I/A4G bloqueadas hasta el mar 3 (un cliente amigo se queda con una); alternativas A5E 243.900 · A6E 247.900 · A8C 255.900; contrato de compraventa a la semana de la reserva con el 10 % + IVA; pagos mensuales o trimestrales durante la obra (10-20 %). Condiciones de grupo: pendientes con Manuel.
+- Disponibles en la web el 1 nov: 35 viviendas (1D: A6D, A7B, A8B, A9B).
+
