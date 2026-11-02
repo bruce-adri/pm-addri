@@ -89,3 +89,6 @@ La comida con Germán del 30 sep salió muy bien. **La firma del patrocinio (15.
 - Pareja C1 (estilo de vida) y C2 (producto) revisadas con Jonathan. Adrián: el estilo está bien; sin cuadros; añadir "Obras iniciadas · Disfruta de tu casa en verano de 2028".
 - v2 en `~/Desktop/Bruce/lona-aura-ccnc-pareja-*-v2.png` (fuente en el repo de Bruce, `lonas/v2/`).
 - Pendiente: qué lona lleva más información; "Terraza XL" o "terrazas singulares"; confirmar el móvil de Oskar; arte final de Jonathan.
+
+## 2 nov 2026 — Hércules CF renovado
+- MPC Group anuncia en LinkedIn la renovación del patrocinio con el Hércules CF (foto con el presidente Carlos Parodi, Manuel y Adrián). Adrián comenta desde su perfil.
