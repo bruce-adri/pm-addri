@@ -91,3 +91,6 @@ Informe de 2 páginas para Manuel: `~/bruce/knowledge/mpc-group/reports-comercia
   - Confirmar que hay valla de obra para la lona.
   - Decisiones de Manuel: margen de negociación, forma de pago, honorarios, presupuesto para lona y renders, dividir el local.
 
+
+## 3 nov 2026 — Montero (compra en bloque)
+- Propuesta para Montero (family office, contacto Manuel): 3D en bloque. A: 10 viviendas con −7 % (3.529.350 €, −265.650 €). B: 5 con −3,5 % (1.794.900 €). PDF en ~/Desktop/Bruce. SIN ENVIAR: comprobar disponibilidad en el CRM, OK del CEO al 7 %, validez y forma de pago. Detalle en ~/bruce/knowledge/mpc-group/montero-portico-ii-compra-bloque-2026-11.md.

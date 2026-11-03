@@ -106,3 +106,6 @@ Mustafa (DAHLEH Realty) viene a Alicante del 30 nov al 4 dic, 3 personas (= viaj
 - **Adrián los recoge en el aeropuerto.** Eventos en el Calendario con alerta.
 - Respuesta a Mustafa redactada: recogida, 2 días en Alicante, agenda la semana que viene y los nombres de los 3 que viajan.
 - Pendiente: agenda detallada (semana del 2 nov), nombres y hotel.
+
+## 3 nov 2026 — Silvia (Reality pri mori / Reallio)
+- Respuesta enviada: documentación del acuerdo, visita a finales de nov o principios de dic (si es el 30 nov o el 1 dic, coincide con DAHLEH), condiciones de Reallio. Esperando respuesta.
