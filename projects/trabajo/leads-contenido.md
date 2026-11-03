@@ -47,3 +47,6 @@ Campaña de prueba: **100 llamadas/mes**, solo español, alcance **Aura Condomin
 - El post "Del plano a la grúa" sale el **mar 3 nov a las 8:30, sin foto**. Esquema aceptado; falta la anécdota de Adrián.
 - Se aparca "reuniones que deciden" hasta que Manuel tenga la propuesta de comité ágil.
 - Detalle en `~/bruce/knowledge/mpc-group/linkedin-calendario-adrian.md`.
+
+## 3 nov 2026 — LinkedIn
+- "Del plano a la grúa" PUBLICADO a las 8:33 (Bruce, con el OK de Adrián), sin foto. Abre con la cita "¿Seguro que esto se hace?" (prueba de arrancar con pregunta). Medir a 24 h (mié 4) y a 7 días (mar 10).
