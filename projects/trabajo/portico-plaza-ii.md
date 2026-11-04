@@ -94,3 +94,13 @@ Informe de 2 páginas para Manuel: `~/bruce/knowledge/mpc-group/reports-comercia
 
 ## 3 nov 2026 — Montero (compra en bloque)
 - Propuesta para Montero (family office, contacto Manuel): 3D en bloque. A: 10 viviendas con −7 % (3.529.350 €, −265.650 €). B: 5 con −3,5 % (1.794.900 €). PDF en ~/Desktop/Bruce. SIN ENVIAR: comprobar disponibilidad en el CRM, OK del CEO al 7 %, validez y forma de pago. Detalle en ~/bruce/knowledge/mpc-group/montero-portico-ii-compra-bloque-2026-11.md.
+
+## 4 nov 2026 — Montero v2
+- Pack 10 con −5 % (3.610.950 €) y pack 5 con −2,5 % (1.870.538 €). Primero las 4 de tipología D de la escalera 3.
+- Sin hablar de rentabilidad. Se deja caer el local de 530 m², sin precio y antes de que salga al mercado.
+- Sin enviar. Falta:
+  - CRM.
+  - OK de Manuel al 5 %.
+  - Forma de pago y validez.
+  - Sociedad.
+  - m² del local (530 / 551,70 / 560).

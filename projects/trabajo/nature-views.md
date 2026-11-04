@@ -35,3 +35,8 @@ Cierre del proyecto. Quedan 1 ático y 1 villa (villa 12), key ready.
 
 ## 27 oct 2026 — Programa de impulso a agencias
 Para reservas antes del 31/12/2026: comisión de agencia hasta el 10 % en las 2 últimas unidades (ático 330k → +19.800 €; Villa 12 499k → +29.940 € frente al 4 %). Excluidos los clientes ya en conversación directa (cliente español de la Villa 12, polaco y holandés). Pendiente de Manuel. Documento: `~/bruce/knowledge/mpc-group/reports-comerciales/2026-10-27-programa-impulso-agencias.html`.
+
+## 4 nov 2026
+- **Último ático VENDIDO** por María: cliente holandés que entró el 30 oct por Idealista. 330.000 € sin negociar y sin amueblar.
+- Solo queda la villa (499.000 €). La promoción tiene 84 casas en total.
+- Email enviado a Manuel y María Jesús proponiendo un mailing a agencias: "última villa y última de las 84 casas", con el 8 % de comisión. Esperando su OK.

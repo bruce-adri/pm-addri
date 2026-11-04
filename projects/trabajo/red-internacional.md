@@ -109,3 +109,6 @@ Mustafa (DAHLEH Realty) viene a Alicante del 30 nov al 4 dic, 3 personas (= viaj
 
 ## 3 nov 2026 — Silvia (Reality pri mori / Reallio)
 - Respuesta enviada: documentación del acuerdo, visita a finales de nov o principios de dic (si es el 30 nov o el 1 dic, coincide con DAHLEH), condiciones de Reallio. Esperando respuesta.
+
+## 4 nov 2026
+- Email en inglés a Tom (responsable de la Second Home Expo Utrecht para NL/BE, marzo) para confirmar el stand, lo que haya que firmar y los plazos. Lo envía Adrián. Cuando responda → plazos al Calendario.
