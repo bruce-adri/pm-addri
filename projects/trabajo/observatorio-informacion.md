@@ -32,3 +32,8 @@ Adrián aclara que la reunión con Víctor es para poner en común **qué datos 
 - V1 de Información (fecha de corte 3/11) revisada: rigurosa, pero con tono de auditor. Faltan el "pulso de la demanda" y la eficiencia energética de la obra nueva; el margen del 10 % de la simulación se leerá como el de un promotor; datos de Pórtico II y de Aura desactualizados.
 - Borrador de las 40 respuestas de Manuel (★ en las 12 prioritarias, lo amarillo pendiente): `~/bruce/knowledge/mpc-group/2026-11-05-observatorio-informacion-respuestas-manuel-borrador.docx`.
 - Siguiente paso: feedback de Adrián → datos con Manuel → nota a Víctor con los cambios a la V1.
+
+## 5 nov (noche) — v2
+- Correcciones de Adrián: sin Murcia ni Aura, Torrevieja/Orihuela Costa, sin datos comerciales reales; preguntas 15, 19, 27, 29, 32, 33, 36, 37 y 39 fuera. Previsión 2027: +3-5 %.
+- Cuestionario v2: `~/bruce/knowledge/mpc-group/2026-11-05-observatorio-informacion-respuestas-manuel-borrador-v2.docx`.
+- Propuesta gráfica de 5 págs.: `~/Desktop/Bruce/Observatorio Inmobiliario Costa Blanca 2026 — propuesta MPC Group.pdf`. Las citas de Manuel, pendientes de su OK.
