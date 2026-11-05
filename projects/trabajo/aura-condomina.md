@@ -338,3 +338,5 @@ Propuesta para Manuel: 75 % de la comisión (1,5 % nacional / 3 % internacional)
 - Disponibles en la web el 1 nov: 35 viviendas (1D: A6D, A7B, A8B, A9B).
 
 - **5 nov 2026:** cuadrante del stand del C.C. Nueva Condomina (v5, PDF en ~/Desktop/Bruce/). Arranca el dom 8 nov con Isabel. Fines de semana alternos Oskar/Isabel hasta el 28 mar. Horario flexible con el Real Murcia en casa. Azafatas en diciembre, a valorar.
+
+- 5 nov: Persuadis — nota para la reunión de las 17:00 (444 leads → 1 venta, ≈26 €/lead, octubre −40 %, la maqueta sin precio ni captación). Propuesta B: 60 días con honorarios ligados a visitas cualificadas. Resultado de la reunión, pendiente.

@@ -27,3 +27,8 @@ Adrián aclara que la reunión con Víctor es para poner en común **qué datos 
 
 ## Siguiente paso
 - Resultado de la reunión del 30 sep: qué datos se aceptan, quién redacta y fechas. Después, desarrollar los capítulos 3 y 4.
+
+## 5 nov 2026 — V1 y 40 preguntas
+- V1 de Información (fecha de corte 3/11) revisada: rigurosa, pero con tono de auditor. Faltan el "pulso de la demanda" y la eficiencia energética de la obra nueva; el margen del 10 % de la simulación se leerá como el de un promotor; datos de Pórtico II y de Aura desactualizados.
+- Borrador de las 40 respuestas de Manuel (★ en las 12 prioritarias, lo amarillo pendiente): `~/bruce/knowledge/mpc-group/2026-11-05-observatorio-informacion-respuestas-manuel-borrador.docx`.
+- Siguiente paso: feedback de Adrián → datos con Manuel → nota a Víctor con los cambios a la V1.
