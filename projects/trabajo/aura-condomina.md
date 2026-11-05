@@ -337,3 +337,4 @@ Propuesta para Manuel: 75 % de la comisión (1,5 % nacional / 3 % internacional)
 - **Roberto Méndez (C.C. Nueva Condomina):** invierte con familiares, quiere una señal y pagos mensuales. Respuesta: pack o compra individual; A1I/A4G bloqueadas hasta el mar 3 (un cliente amigo se queda con una); alternativas A5E 243.900 · A6E 247.900 · A8C 255.900; contrato de compraventa a la semana de la reserva con el 10 % + IVA; pagos mensuales o trimestrales durante la obra (10-20 %). Condiciones de grupo: pendientes con Manuel.
 - Disponibles en la web el 1 nov: 35 viviendas (1D: A6D, A7B, A8B, A9B).
 
+- **5 nov 2026:** cuadrante del stand del C.C. Nueva Condomina (v5, PDF en ~/Desktop/Bruce/). Arranca el dom 8 nov con Isabel. Fines de semana alternos Oskar/Isabel hasta el 28 mar. Horario flexible con el Real Murcia en casa. Azafatas en diciembre, a valorar.
