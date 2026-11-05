@@ -40,3 +40,4 @@ Para reservas antes del 31/12/2026: comisión de agencia hasta el 10 % en las 2 
 - **Último ático VENDIDO** por María: cliente holandés que entró el 30 oct por Idealista. 330.000 € sin negociar y sin amueblar.
 - Solo queda la villa (499.000 €). La promoción tiene 84 casas en total.
 - Email enviado a Manuel y María Jesús proponiendo un mailing a agencias: "última villa y última de las 84 casas", con el 8 % de comisión. Esperando su OK.
+- **5 nov 2026:** mailing y WhatsApp a agencias (ES/EN) de la última villa, 499.000 € con un 8 % de comisión, preparados en `~/bruce/knowledge/mpc-group/nature-views-mailing-agencias-ultima-villa-nov2026.md`. Se envían con el OK de Manuel y María Jesús.

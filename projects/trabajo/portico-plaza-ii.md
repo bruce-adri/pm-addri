@@ -105,3 +105,4 @@ Informe de 2 páginas para Manuel: `~/bruce/knowledge/mpc-group/reports-comercia
   - Sociedad.
   - m² del local (530 / 551,70 / 560).
 - **5 nov 2026:** InmoCaixa no anuncia a promotores externos (es la promotora de \"la Caixa\"). Email redactado al gestor de CaixaBank Real Estate & Homes preguntando por canales comerciales; falta el nombre.
+- **5 nov 2026 (tarde):** segundo email, directo a inmocaixa@inmocaixa.com; se recomienda enviar los dos.
