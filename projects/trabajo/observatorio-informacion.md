@@ -36,8 +36,8 @@ Adrián aclara que la reunión con Víctor es para poner en común **qué datos 
 ## 5 nov (noche) — v2
 - Correcciones de Adrián: sin Murcia ni Aura, Torrevieja/Orihuela Costa, sin datos comerciales reales; preguntas 15, 19, 27, 29, 32, 33, 36, 37 y 39 fuera. Previsión 2027: +3-5 %.
 - Cuestionario v2: `~/bruce/knowledge/mpc-group/2026-11-05-observatorio-informacion-respuestas-manuel-borrador-v2.docx`.
-- Propuesta gráfica de 5 págs.: `~/Desktop/Bruce/Observatorio Inmobiliario Costa Blanca 2026 — propuesta MPC Group.pdf`. Las citas de Manuel, pendientes de su OK.
+- Propuesta gráfica de 5 págs.: `~/Desktop/Bruce/06 Estudios mercado/Observatorio Inmobiliario Costa Blanca 2026 — propuesta MPC Group.pdf`. Las citas de Manuel, pendientes de su OK.
 
 ## 5 nov (cierre) — edición gráfica
-- Estilo de la crónica gráfica de Forbes con colores de MPC: `~/Desktop/Bruce/Observatorio Costa Blanca 2026 — edición gráfica.pdf`. A Adrián le encanta.
-- Derivado: serie de LinkedIn "La cifra" (plantilla + Nº 01, 70.209 €) en `~/Desktop/Bruce/linkedin-cifra/`. Se publica después del lanzamiento del observatorio.
+- Estilo de la crónica gráfica de Forbes con colores de MPC: `~/Desktop/Bruce/06 Estudios mercado/Observatorio Costa Blanca 2026 — edición gráfica.pdf`. A Adrián le encanta.
+- Derivado: serie de LinkedIn "La cifra" (plantilla + Nº 01, 70.209 €) en `~/Desktop/Bruce/07 Marketing/linkedin-cifra/`. Se publica después del lanzamiento del observatorio.

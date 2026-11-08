@@ -287,7 +287,7 @@ No cambia cifras respecto a la del 2 oct. Incorpora las terrazas (Aura dobla a l
 
 ## Memoria de calidades Fase 1 · Bloque A (14 oct 2026)
 - Original de MPC con la revisión del abogado (Leo): `~/Downloads/2026-10-14 AuraCondomina-MemCalidades- rev cambios AL-V.rtf`.
-- **v3 unificada (la buena):** texto completo reescrito + diseño AURA, 10 págs. → `~/Desktop/Bruce/AURA Condomina — Memoria de Calidades v3 14 oct.pdf` (fuente en `~/bruce/knowledge/mpc-group/reports-comerciales/2026-10-14-aura-condomina-memoria-calidades-v3.html`).
+- **v3 unificada (la buena):** texto completo reescrito + diseño AURA, 10 págs. → `~/Desktop/Bruce/99 Archivo/AURA Condomina — Memoria de Calidades v3 14 oct.pdf` (fuente en `~/bruce/knowledge/mpc-group/reports-comerciales/2026-10-14-aura-condomina-memoria-calidades-v3.html`).
 - La cláusula de equivalencia de Leo y las notas legales van literales. Lo no confirmado (coworking equipado o no, lavabos, puerta del baño principal) se deja en ambiguo, por decisión de Adrián.
 - Pendiente: feedback de Adrián; OK de Leo a "Terraza XL" en vez de "solárium" y a fusionar las notas legales con su cláusula; posible cambio de la imagen del cierre (render de fachada).
 - Comité 14 oct: sin noticias del resultado de la propuesta de reserva de 3.300 € + contrato a 48 h.

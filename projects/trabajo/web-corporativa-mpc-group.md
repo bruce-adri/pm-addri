@@ -17,7 +17,7 @@ Que mpc-group.es deje de parecer una agencia y se lea como un **promotor con 34 
 
 ## Material
 - Briefing v2: `~/bruce/knowledge/mpc-group/reports-comerciales/2026-11-05-briefing-web-mpc-group.html` + PDF en `~/Desktop/MPC Group/Comité dirección/`.
-- Maquetas: `~/Desktop/Bruce/web-mpc-group-maqueta/` (`estilo-d.html`, `movil-d.html`). ZIP: `~/Desktop/Bruce/MPC Group - Maquetas nueva web (5 nov 2026).zip`.
+- Maquetas: `~/Desktop/Bruce/07 Marketing/web-mpc-group-maqueta/` (`estilo-d.html`, `movil-d.html`). ZIP: `~/Desktop/Bruce/07 Marketing/MPC Group - Maquetas nueva web (5 nov 2026).zip`.
 
 ## Próxima acción
 1. Presentarlo en el próximo comité y sacar los datos de Manuel:
