@@ -2,7 +2,7 @@
 area: trabajo
 status: 🟡 en marcha
 priority: alta
-updated: 2026-08-21
+updated: 2026-11-08
 ---
 
 # Sistema de reports mensuales para Manuel
@@ -63,3 +63,8 @@ Entregables para Manuel: "La IA como jefe de gabinete del CEO" + anexo práctico
   - ≈97 activos de 2.480.
   - Conversión de visita a venta: Oskar 33 % (4 ventas con 12 visitas), María 14 %.
   - El comité se queda en 3 páginas.
+
+## 8 nov 2026 — Comité del 9 nov y reunión con Manuel
+- 7 documentos en `bruce/knowledge/mpc-group/reports-comerciales/2026-11-09-reunion-manuel/`.
+- Balance de 2026: 26 ventas reales (Power BI 22), +186.589 €.
+- En el comité: 9 visitas en la semana (3 de Aura fuera del CRM). Revistas sin opinión.

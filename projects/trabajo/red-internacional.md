@@ -2,7 +2,7 @@
 area: trabajo
 status: 🟡 en marcha
 priority: alta
-updated: 2026-10-21
+updated: 2026-11-08
 ---
 
 # Red comercial internacional (Europa)
@@ -114,3 +114,8 @@ Mustafa (DAHLEH Realty) viene a Alicante del 30 nov al 4 dic, 3 personas (= viaj
 - Email en inglés a Tom (responsable de la Second Home Expo Utrecht para NL/BE, marzo) para confirmar el stand, lo que haya que firmar y los plazos. Lo envía Adrián. Cuando responda → plazos al Calendario.
 - **5 nov 2026:** Tom (Utrecht): stand de 4x3 m (antes 4x4). Se mantiene la ubicación y se encargan impresiones nuevas; respuesta redactada pidiendo especificaciones, plazos y coste.
 - **5 nov 2026 (tarde):** contrato de Second Home Expo Utrecht 2027 revisado. Stand 12-637 de 4×3, 6.374 € sin IVA. **La reserva caduca el 12/11.** Si se cancela, se paga el 100 %. Corregir la razón social y el número de IVA antes de firmar. Resumen: `~/bruce/knowledge/mpc-group/second-home-expo-utrecht-2027-contrato.md`.
+
+## 8 nov 2026
+- **Second Home Expo Utrecht 2027: contrato FIRMADO el viernes 6 nov.** Stand de 4×3 reservado.
+- Borrador de la visita de DAHLEH (30 nov-2 dic) en `bruce/knowledge/mpc-group/reports-comerciales/2026-11-09-reunion-manuel/04-visita-dahleh.html`.
+  - Pendiente: Hércules Populi (¿con ellos?), nombre (Realty/Reality) y comité del 30/11 → vie 27.

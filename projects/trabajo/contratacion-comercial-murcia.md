@@ -2,7 +2,7 @@
 area: trabajo
 status: 🟡 en marcha
 priority: alta
-updated: 2026-09-04
+updated: 2026-11-08
 ---
 
 # Contratación — Comercial senior de Murcia (refuerzo Aura Condomina)
@@ -116,3 +116,9 @@ Descartadas por no estar activas en el sector ahora mismo o no ser Murcia: Mirya
 ## Primer día de Isabel (5 oct 2026)
 - Incorporada a AURA. "De momento bien"; poco tiempo de Adrián por la mañana, tarde con ella (agenda de onboarding propuesta por Bruce).
 - **Inglés: no tiene buen nivel** (impresión de Adrián) → los leads extranjeros de Oliver necesitan otro reparto. Opción recomendada: María (inglés avanzado) en primer contacto + visita de Isabel/Oskar. Pendiente decisión de Adrián.
+
+## 8 nov 2026 — Informe de captación para Manuel
+- `07-captacion-comercial` en la carpeta de la reunión del 9 nov.
+- Tres frentes: búsqueda directa, portales y red (agencias, recomendación, competencia). LinkedIn solo como marca empleadora.
+- Calendario: publicar 16-20 nov · finalista el 4 dic (si no, headhunter) · decisión 14-18 dic · incorporación en enero.
+- **Adrián: no buscar en bancos.**
