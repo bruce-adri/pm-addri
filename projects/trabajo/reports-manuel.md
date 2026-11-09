@@ -68,3 +68,6 @@ Entregables para Manuel: "La IA como jefe de gabinete del CEO" + anexo práctico
 - 7 documentos en `bruce/knowledge/mpc-group/reports-comerciales/2026-11-09-reunion-manuel/`.
 - Balance de 2026: 26 ventas reales (Power BI 22), +186.589 €.
 - En el comité: 9 visitas en la semana (3 de Aura fuera del CRM). Revistas sin opinión.
+
+## 9 nov 2026
+- Comité y reunión con Manuel hechos. Dirección OK; detalles pendientes de Adrián. 26 ventas, valoradas como mal resultado.

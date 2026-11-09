@@ -122,3 +122,12 @@ Descartadas por no estar activas en el sector ahora mismo o no ser Murcia: Mirya
 - Tres frentes: búsqueda directa, portales y red (agencias, recomendación, competencia). LinkedIn solo como marca empleadora.
 - Calendario: publicar 16-20 nov · finalista el 4 dic (si no, headhunter) · decisión 14-18 dic · incorporación en enero.
 - **Adrián: no buscar en bancos.**
+
+## 9 nov 2026 — Retribución del vendedor de punto de venta + comité
+- Estudio para Manuel en `~/Desktop/Bruce/01 Dirección/` (auditoría 🟡 con los fixes aplicados).
+  - Junior: 19.000 € + 400/200 € por venta.
+  - Objetivos mínimos (Adrián): junior 2 ventas/mes, senior 4/mes.
+  - Senior: 24.000 € + 700/350 € + bonus de 1.500 € al llegar a 48 ventas.
+  - Hoy: 1.350 € netos × 12 (≈19.000 € brutos) + comisiones brutas de 250/500 € y 5 % de la comisión en la venta directa.
+- Pendiente: el bruto real de la nómina, a pedir a Administración.
+- Comité: 26 ventas = mal resultado; Jonathan, posiblemente a comercial en la oficina de Aura; ETT para el stand de Nueva Condomina (pedir presupuesto a 2-3).

@@ -108,3 +108,15 @@ Vadim propone que Adrián viaje a Eslovaquia para presentar MPC Group y sus prom
 - Hoja de ruta rehecha por fases (arranque oct → red nov-dic con Praga → primeras ventas ene-mar → escala abr-jun con evento a cliente final → objetivo jul-oct 27), revisión mensual con Manuel.
 - Riesgo añadido: objetivo exigente (~30 visitas y ~100 leads cualificados para 10 ventas, partiendo de 0 colaboradores).
 - Kristina habla eslovaco, checo, rumano, inglés y español (confirmado por Adrián 29 sep). Porcentajes de comisión quitados también del briefing de la llamada.
+
+## 9 nov 2026 — Propuesta de oficina compartida en Bratislava
+- Documento en inglés para Peter/Arbitas (`bruce/knowledge/mpc-group/reports-comerciales/2026-11-09-bratislava-office-proposal-en.pdf`), auditado 🟢. Enviado por Adrián con Vadim en CC.
+- Modelo:
+  - Colaboración Arbitas × MPC con coste al 50 %.
+  - Oficina de Vadim o, si no, una en buena zona de Bratislava.
+  - Office Lead propuesto y contratado por Arbitas.
+  - Producto: Aura y Pórtico.
+  - KPIs: 5-8 agencias nuevas; 1-2 ventas/mes desde el mes 4; revisión en el mes 6.
+- Nota interna de costes: 24-48 k€/año para MPC, es decir, 1.300-5.300 € por venta.
+- Abierto: retribución de Arbitas por venta, Kristina, techo de presupuesto mensual.
+- Vadim (email del 9 nov): pide la hipoteca directamente sobre Pórtico; solo es posible con la obra terminada. Préstamo de reforma: solo vías legítimas, sin facturas ficticias.
