@@ -136,3 +136,15 @@ Descartadas por no estar activas en el sector ahora mismo o no ser Murcia: Mirya
   - En objetivo, coste por venta: B 1.362/1.452 €; hoy 1.749/1.221 €. El junior gana menos que hoy en los 3 modelos.
 - Pendiente: el bruto real de la nómina, a pedir a Administración.
 - Comité: 26 ventas = mal resultado; Jonathan, posiblemente a comercial en la oficina de Aura; ETT para el stand de Nueva Condomina (pedir presupuesto a 2-3).
+
+### 9 nov (cierre): versión con el precio de Aura (296.245 €) + modelo D (propuesta del 2 jun)
+- Documento de junio: `~/Desktop/MPC Group/Estructura comisionado comerciales aura.docx`.
+  - Hoy la venta directa se paga ≈740 € (nacional) y ≈1.037 € (internacional).
+  - Propuesta de junio: 1.550 € netos + 350/500/150 €.
+- Coste por venta en objetivo (junior 24 / senior 48 ventas):
+  - Hoy: 1.892 / 1.364 €.
+  - **A (ahora propuesto): 1.485 / 1.471 €.**
+  - B: 1.467 / 1.716 € (senior en objetivo 62.400 €, el más caro).
+  - C: 1.342 / 1.089 €.
+  - D: 1.671 / 1.036 €.
+- Las versiones anteriores (B propuesto, ≈240/600 €, 1.749/1.221 €) quedan superadas.
