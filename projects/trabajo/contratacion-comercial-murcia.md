@@ -128,6 +128,11 @@ Descartadas por no estar activas en el sector ahora mismo o no ser Murcia: Mirya
   - Junior: 19.000 € + 400/200 € por venta.
   - Objetivos mínimos (Adrián): junior 2 ventas/mes, senior 4/mes.
   - Senior: 24.000 € + 700/350 € + bonus de 1.500 € al llegar a 48 ventas.
-  - Hoy: 1.350 € netos × 12 (≈19.000 € brutos) + comisiones brutas de 250/500 € y 5 % de la comisión en la venta directa.
+  - Hoy: 1.350 € netos × 12 = ≈1.600 € brutos/mes (≈19.200 €/año) + comisiones brutas de 250/500 € y 5 % de la comisión de MPC en la venta directa.
+  - v4 (9 nov, final): pago de la comisión 25 % a la firma del contrato / 25 % a los 12 meses / 50 % en la escritura. Tres modelos:
+    - A: 400/200 € y 700/350 €.
+    - B (propuesto): 2 %/5 % de la comisión de MPC, ≈240/600 € por venta.
+    - C: 100/200 €.
+  - En objetivo, coste por venta: B 1.362/1.452 €; hoy 1.749/1.221 €. El junior gana menos que hoy en los 3 modelos.
 - Pendiente: el bruto real de la nómina, a pedir a Administración.
 - Comité: 26 ventas = mal resultado; Jonathan, posiblemente a comercial en la oficina de Aura; ETT para el stand de Nueva Condomina (pedir presupuesto a 2-3).
