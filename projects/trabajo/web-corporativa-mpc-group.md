@@ -29,3 +29,5 @@ Que mpc-group.es deje de parecer una agencia y se lea como un **promotor con 34 
    - Precio mínimo de Pórtico.
 2. Pasar el briefing y el ZIP a Jonathan y Eduardo y fijar el calendario de lanzamiento.
 3. Pendiente: página de Promociones en estilo D, retoque de las fotos del equipo y servidor de pruebas para el móvil.
+
+- **10 nov 2026:** elegido el borrador de Edu para la home. Vídeo de portada "Un día mediterráneo" (B) en borrador: `~/Desktop/Bruce/00 En curso/2026-11-10 … Un día mediterráneo …` (4 versiones). Script en `bruce/knowledge/mpc-group/reports-comerciales/2026-11-10-video-un-dia-mediterraneo/`. Pendiente: feedback, renders 4K, WebM, auditoría y luego la historia A.

@@ -27,3 +27,5 @@ Lo lleva el agente `~/bruce/agents/inversores.md` (creado el 5 nov 2026, opción
 ## 5 nov — mapa de contactos y pausa
 - Mapa: `~/bruce/knowledge/mpc-group/inversores/mapa-contactos-2026-11.md`. Los grandes fondos de build to rent no encajan; sí los family offices medianos, los grandes caseros de Alicante y los inversores europeos. Puerta de entrada: OpenWealth (CaixaBank).
 - ⏸ En pausa (Adrián: "De momento no sigamos aquí").
+
+- **10 nov 2026:** Montero v3 lista (Pórtico −2 % sin mínimo; Aura −3,5 % como añadido). Contacto: Manuel Vicent.

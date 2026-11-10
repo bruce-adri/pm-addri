@@ -106,3 +106,5 @@ Informe de 2 páginas para Manuel: `~/bruce/knowledge/mpc-group/reports-comercia
   - m² del local (530 / 551,70 / 560).
 - **5 nov 2026:** InmoCaixa no anuncia a promotores externos (es la promotora de \"la Caixa\"). Email redactado al gestor de CaixaBank Real Estate & Homes preguntando por canales comerciales; falta el nombre.
 - **5 nov 2026 (tarde):** segundo email, directo a inmocaixa@inmocaixa.com; se recomienda enviar los dos.
+
+- **10 nov 2026:** Montero — −2 % sin mínimo aprobado por Manuel. Propuesta v3 (`~/Desktop/Bruce/04 Inversores/2026-11-10 Montero — Propuesta Pórtico Plaza II (v3).pdf`) + email a Manuel Vicent listos; los envía Adrián. Local de 530 m² sin mover por ningún canal.
