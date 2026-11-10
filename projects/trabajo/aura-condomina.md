@@ -340,3 +340,5 @@ Propuesta para Manuel: 75 % de la comisión (1,5 % nacional / 3 % internacional)
 - **5 nov 2026:** cuadrante del stand del C.C. Nueva Condomina (v5, PDF en ~/Desktop/Bruce/). Arranca el dom 8 nov con Isabel. Fines de semana alternos Oskar/Isabel hasta el 28 mar. Horario flexible con el Real Murcia en casa. Azafatas en diciembre, a valorar.
 
 - 5 nov: Persuadis — nota para la reunión de las 17:00 (444 leads → 1 venta, ≈26 €/lead, octubre −40 %, la maqueta sin precio ni captación). Propuesta B: 60 días con honorarios ligados a visitas cualificadas. Resultado de la reunión, pendiente.
+
+- **10 nov 2026:** plan para acelerar ventas (interno v1, `bruce/knowledge/mpc-group/reports-comerciales/2026-11-10-aura-plan-aceleracion-ventas.html`): 5.335 leads desde enero, atasco lead → visita; Jonathan 80/20; comisión internacional 5 % temporal (hasta 31 mar 2027); ~30 agencias internacionales; puertas abiertas sáb 23 ene 2027. Mailings y argumentario de WhatsApp (v1): de la obra solo la grúa, sin mencionar aval (no hay todavía). Just Murcia Property (Emma Beechey) pide colaborar. Pendiente: versión para Manuel, proveedor WhatsApp/SMS, jurídico sobre garantías.

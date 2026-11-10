@@ -119,3 +119,5 @@ Mustafa (DAHLEH Realty) viene a Alicante del 30 nov al 4 dic, 3 personas (= viaj
 - **Second Home Expo Utrecht 2027: contrato FIRMADO el viernes 6 nov.** Stand de 4×3 reservado.
 - Borrador de la visita de DAHLEH (30 nov-2 dic) en `bruce/knowledge/mpc-group/reports-comerciales/2026-11-09-reunion-manuel/04-visita-dahleh.html`.
   - Pendiente: Hércules Populi (¿con ellos?), nombre (Realty/Reality) y comité del 30/11 → vie 27.
+
+- **10 nov 2026:** listado de ~30 agencias internacionales con oficina en Murcia, Torrevieja y Costa Blanca Sur para Aura (anexo del plan de aceleración). Just Murcia Property (agencias de referidos de EE. UU.) pide colaborar → enlace con `usa-tampa-noviembre.md`.
