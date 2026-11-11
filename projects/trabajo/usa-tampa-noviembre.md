@@ -26,3 +26,6 @@ Confirmar con Provia el motivo/fechas exactas del viaje a New Orleans, y contact
 - El informe de AER Global Advisory (mayo 2026, para PROVIA) marca la red de brokers REALTORS®/GBC/CIPS/CRS como el canal crítico de conversión en USA — más que el contenido digital directo. El tramo de Tampa debería intentar capturar algo de esa red, no solo el evento social con la red de Raúl.
 - Florida es "activación inmediata" según AER Global — encaja con que el viaje ya pasa por esa zona, no es una desviación de la estrategia sectorial.
 - Detalle completo del plan en `knowledge/usa-market/plan-tampa-noviembre.md`.
+
+## 11 nov 2026
+- Webinar de Provia con Orlando el mar 17 nov a las 17:00 (calendario). Sin confirmar si se hizo el viaje a New Orleans con Provia.

@@ -71,3 +71,6 @@ Entregables para Manuel: "La IA como jefe de gabinete del CEO" + anexo práctico
 
 ## 9 nov 2026
 - Comité y reunión con Manuel hechos. Dirección OK; detalles pendientes de Adrián. 26 ventas, valoradas como mal resultado.
+
+## 11 nov 2026
+- Informe anual "Acciones y gestiones 2026: Comercial y Marketing", borrador v2 (5 págs., `~/Desktop/Bruce/00 En curso/`). Manuel le dijo a Adrián que dirige los dos departamentos "de forma estratégica y no impulsiva" → apartado 1 con 6 principios y pruebas. Representación de MPC: 15 actos, 9 días fuera. Pendiente: respuestas de Adrián (Alfonso X, New Orleans, Utrecht, Pórtico II mayo/junio, Manu), portada de 1 página → auditor → 01 Dirección.
