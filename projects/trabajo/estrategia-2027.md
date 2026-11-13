@@ -30,3 +30,7 @@ Una estrategia completa del departamento para 2027: ratios del equipo, talento, 
 - [ ] Decisiones del bloque 1: <1 h de primer contacto como objetivo interno; variable ligado a visitas registradas
 - [ ] Actualizar el plan de Aura (10 nov) con la secuencia del protocolo nuevo
 - [ ] Bloque 2: talento
+
+## 13 nov 2026
+- Adrián: no hay objetivo de ventas para 2027. La estrategia se reenfoca en **cómo funciona el equipo** (trabajo en equipo, protocolos necesarios), no en conseguir una cifra.
+- Primero se hizo la **estrategia de agencias 2027** (documento aparte para Manuel, `bruce/knowledge/mpc-group/reports-comerciales/2026-11-13-estrategia-agencias/`). La del equipo va después.
