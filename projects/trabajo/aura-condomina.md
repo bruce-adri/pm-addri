@@ -344,3 +344,7 @@ Propuesta para Manuel: 75 % de la comisión (1,5 % nacional / 3 % internacional)
 - **10 nov 2026:** plan para acelerar ventas (interno v1, `bruce/knowledge/mpc-group/reports-comerciales/2026-11-10-aura-plan-aceleracion-ventas.html`): 5.335 leads desde enero, atasco lead → visita; Jonathan 80/20; comisión internacional 5 % temporal (hasta 31 mar 2027); ~30 agencias internacionales; puertas abiertas sáb 23 ene 2027. Mailings y argumentario de WhatsApp (v1): de la obra solo la grúa, sin mencionar aval (no hay todavía). Just Murcia Property (Emma Beechey) pide colaborar. Pendiente: versión para Manuel, proveedor WhatsApp/SMS, jurídico sobre garantías.
 
 - **11 nov 2026:** locución del avatar para el tour virtual de la 2D (Gabriel Jonatan; 1.500 €, entrega el 25/11): opción B "Un día en Aura", ES/EN, auditada 🟡 y corregida ("encimera de diseño"). PDF en `~/Desktop/Bruce/07 Marketing/`. Jonathan tiene que validar el orden de las escenas, el 2.º baño y la planta.
+
+## 16 nov 2026 — Jonathan al Departamento Comercial y estructura 30/120
+- Documento para Manuel (v3, 🟢, `~/Desktop/Bruce/01 Dirección/`): Jonathan entre el 70 y el 80 % comercial (agencias 30 %, clientes en inglés 40–50 %) y marketing desde la oficina de ventas, sin traspaso. Aterrizaje 23 nov–Navidad, coche de empresa, sábados cubiertos por el equipo (él no puede). Sin variable por ahora.
+- Estructura para 30/120 ventas al año (v1, 🟢): 120 ventas cuestan 633–970 k€ solo en comercial y marketing, más que los 720 k€ de la tesorería. Pendiente: desglose de Charo.
