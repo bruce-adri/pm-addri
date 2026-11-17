@@ -109,3 +109,9 @@ Pendiente sin resolver de sesiones anteriores: mover el PDF del informe desde `~
 ## Notas
 - Cris es **consultora externa** (RRHH y organización — probablemente vía Valderrama y Asociados, ver `knowledge/mpc-group/company-context.md`), ahora liderando también la parte tecnológica de procesos.
 - El informe evitó deliberadamente inventar cifras de mercado — los % de mejora están marcados como objetivo, no como dato, a petición explícita tras aviso de Bruce.
+
+
+## 17 nov 2026 — Protocolo v2
+- Plan de implantación CRM de Eduardo (16 nov): Proyecto 1 (Siguiente paso + Fase del lead) en vigor el 20 nov; Proyecto 2 (auditor comercial con avisos) el 27 nov.
+- Protocolo v2 para el equipo, sin parte técnica: `Bruce/00 En curso/2026-11-17 Equipo — Protocolo del Departamento Comercial (v2).pdf`. Umbrales decididos por Adrián: actividad vencida > 2 días; oportunidad sin fecha > 30 días. Reconocimientos fuera del documento (sorpresa).
+- Pendiente con Eduardo: (1) resultados fijos, canal preferido y turnos de la v1; (2) ¿crea el CRM el «Primer contacto» en los leads dados de alta a mano?; (3) avance de Fase de un lead en Activo que vuelve a Seguimiento. Decidir si «Datos erróneos» permite descalificar antes de la Despedida.
