@@ -7,6 +7,10 @@ updated: 2026-11-01
 
 # Aura Condomina — Fase 1 (250 viv., Nueva Condomina, Murcia)
 
+## Tour virtual — locuciones del avatar (18 nov 2026)
+- Vivienda 2D (11 nov) y zonas comunes 360º (18 nov), las dos en ES-EN, en `Bruce/07 Marketing/`. Las produce Gabriel Jonatan.
+- Pendiente: que Jonathan confirme los 5 puntos y el orden del recorrido de zonas comunes.
+
 ## Objetivo
 Lanzamiento oficial: 2 de julio de 2026. 54 ventas en el año (Fase 1), de las cuales 20 durante el verano. Proyecto más grande de lo habitual para MPC — apuesta más visible de la promotora.
 
