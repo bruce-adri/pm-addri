@@ -115,3 +115,13 @@ Pendiente sin resolver de sesiones anteriores: mover el PDF del informe desde `~
 - Plan de implantación CRM de Eduardo (16 nov): Proyecto 1 (Siguiente paso + Fase del lead) en vigor el 20 nov; Proyecto 2 (auditor comercial con avisos) el 27 nov.
 - Protocolo v2 para el equipo, sin parte técnica: `Bruce/00 En curso/2026-11-17 Equipo — Protocolo del Departamento Comercial (v2).pdf`. Umbrales decididos por Adrián: actividad vencida > 2 días; oportunidad sin fecha > 30 días. Reconocimientos fuera del documento (sorpresa).
 - Pendiente con Eduardo: (1) resultados fijos, canal preferido y turnos de la v1; (2) ¿crea el CRM el «Primer contacto» en los leads dados de alta a mano?; (3) avance de Fase de un lead en Activo que vuelve a Seguimiento. Decidir si «Datos erróneos» permite descalificar antes de la Despedida.
+
+
+## 18 nov 2026 — Protocolo v3 (borrador)
+- Decisiones de Adrián:
+  - El canal preferido lo rellena el comercial después de hablar con el cliente.
+  - Reparto por turnos continuos (sin nombres ni números).
+  - En los leads dados de alta a mano, el «Primer contacto» lo crea el comercial.
+  - Descalificar antes de la Despedida, solo por motivos objetivos (datos erróneos con teléfono y email, agencia o competencia, ya ha comprado, pide no ser contactado).
+- Abierto con Eduardo (19 nov): un lead en Activo que vuelve a Seguimiento, y si el CRM puede limitar los motivos subjetivos.
+- Archivo: `bruce/knowledge/mpc-group/reports-comerciales/2026-11-18-protocolo-comercial-v3/`.
