@@ -7,6 +7,13 @@ updated: 2026-11-01
 
 # Aura Condomina — Fase 1 (250 viv., Nueva Condomina, Murcia)
 
+## Plan 20K — campaña tras las elecciones (19 nov 2026)
+- Petición de Manuel: anuncios agresivos tipo "con 20k compras tu casa en Murcia" después de las elecciones.
+- Forma de pago de campaña (1D y 2D): 20.000 € IVA incl. (reserva de 11.000 € dentro) + hasta el 20 % + IVA en cuotas mensuales durante la obra + 80 % + IVA en escritura. Cuotas (16): ≈1.416 € (1D desde 193.900 €) / ≈1.897 € (2D desde 228.900 €).
+- Coste: −11.000 €/vivienda cobrados antes de escritura. El cliente lleva ≈15.500/18.300 € + gastos a escritura (vs ≈4.500/7.300 hoy).
+- 6 anuncios de Meta 🟢: `~/Desktop/Bruce/00 En curso/2026-11-19 Aura — Anuncios Plan 20K (v2)/`. Propuesta para Manuel: `~/Desktop/Bruce/01 Dirección/2026-11-19 Aura — Plan 20K propuesta Manuel (v1).pdf`.
+- Pendiente: aprobación de Manuel, duración (3 meses propuestos), fecha de lanzamiento, revisión legal, precio web el día del lanzamiento.
+
 ## Tour virtual — locuciones del avatar (18 nov 2026)
 - Vivienda 2D (11 nov) y zonas comunes 360º (18 nov), las dos en ES-EN, en `Bruce/07 Marketing/`. Las produce Gabriel Jonatan.
 - Pendiente: que Jonathan confirme los 5 puntos y el orden del recorrido de zonas comunes.
