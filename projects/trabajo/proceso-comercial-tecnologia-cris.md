@@ -125,3 +125,8 @@ Pendiente sin resolver de sesiones anteriores: mover el PDF del informe desde `~
   - Descalificar antes de la Despedida, solo por motivos objetivos (datos erróneos con teléfono y email, agencia o competencia, ya ha comprado, pide no ser contactado).
 - Abierto con Eduardo (19 nov): un lead en Activo que vuelve a Seguimiento, y si el CRM puede limitar los motivos subjetivos.
 - Archivo: `bruce/knowledge/mpc-group/reports-comerciales/2026-11-18-protocolo-comercial-v3/`.
+
+## 19 nov 2026 — Protocolo del Departamento Comercial: versión final para el equipo
+- Auditada 🟡→🟡→🟢. `~/Desktop/Bruce/05 Equipo/2026-11-19 Equipo — Protocolo del Departamento Comercial.pdf` (11 págs.). Fuente: `bruce/knowledge/mpc-group/reports-comerciales/2026-11-18-protocolo-comercial-v3/protocolo-comercial-equipo.html`. En vigor el 20 nov.
+- Decisiones de Adrián: lead en Activo que deja de contestar → el comercial cambia a mano a Seguimiento 1 + COLD; secuencia desde S1 y Despedida a 6 semanas de la vuelta. Sin bloqueo de motivos en el CRM: lista cerrada + explicación en notas si se descalifica antes de la Despedida. Motivo nuevo «Sin interés declarado» (botón «Ya no, gracias»). «Ahora no» → notas y sigue la secuencia. «Seguimos en contacto» → tarea «Recontacto» a 60 días (o fecha del cliente); si no contesta, «No contesta».
+- Pendiente de Eduardo: Despedida calculada desde la vuelta a S1; aviso diario solo para respuestas «con interés»; crear la tarea «Recontacto».
