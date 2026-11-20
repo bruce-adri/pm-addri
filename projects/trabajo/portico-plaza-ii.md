@@ -86,7 +86,7 @@ Informe de 2 páginas para Manuel: `~/bruce/knowledge/mpc-group/reports-comercia
 - **Conclusión:** los inversores y family offices son los compradores más probables ahora; los negocios, a partir de 2027.
 - **Arranque:** semana del 2 nov, con cuatro frentes: inversores (CBRE y Colliers), negocios con uso propio, red propia y escaparate (lona en la obra y portales).
 - **Pendiente:**
-  - Altura libre y potencia eléctrica.
+  - ~~Altura libre y potencia eléctrica.~~ Resuelto el 20 nov (60,1 kW; altura de ≈4,83 m en el interior y ≈4,36 m en la fachada).
   - Nombre del comercial de Alicante.
   - Confirmar que hay valla de obra para la lona.
   - Decisiones de Manuel: margen de negociación, forma de pago, honorarios, presupuesto para lona y renders, dividir el local.
@@ -108,3 +108,6 @@ Informe de 2 páginas para Manuel: `~/bruce/knowledge/mpc-group/reports-comercia
 - **5 nov 2026 (tarde):** segundo email, directo a inmocaixa@inmocaixa.com; se recomienda enviar los dos.
 
 - **10 nov 2026:** Montero — −2 % sin mínimo aprobado por Manuel. Propuesta v3 (`~/Desktop/Bruce/04 Inversores/2026-11-10 Montero — Propuesta Pórtico Plaza II (v3).pdf`) + email a Manuel Vicent listos; los envía Adrián. Local de 530 m² sin mover por ningún canal.
+
+- **20 nov 2026:** dossier del local COMPLETO: potencia de 60,1 kW (2 × 24 kW en la zona de la escalera 2 + 12,10 kW en la zona de la escalera 3) y altura de ≈4,83 m en el interior y ≈4,36 m en la fachada (punto más bajo). Auditado 🟢 → `~/Desktop/Bruce/02 Clientes/2026-11-20 Local Pórtico Plaza II — Dossier negocios (v2).pdf`. Pendiente: superficie de 551,70 o 530 m².
+- **20 nov 2026:** informe para el comité «Personalización: lo aprendido para Aura» (v2, con Virginia de Producción). Precio de las reformas = ETOSA + beneficio de MPC + 10 % de IVA → el cliente no recibirá el dossier de ETOSA, sino un catálogo propio. Proceso alargado 13 días. A decidir: contrato antes del pago (2-3 días de margen) y ampliaciones de plazo. En `~/Desktop/MPC Group/Comité dirección/`.
