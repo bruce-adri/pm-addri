@@ -121,3 +121,5 @@ Mustafa (DAHLEH Realty) viene a Alicante del 30 nov al 4 dic, 3 personas (= viaj
   - Pendiente: Hércules Populi (¿con ellos?), nombre (Realty/Reality) y comité del 30/11 → vie 27.
 
 - **10 nov 2026:** listado de ~30 agencias internacionales con oficina en Murcia, Torrevieja y Costa Blanca Sur para Aura (anexo del plan de aceleración). Just Murcia Property (agencias de referidos de EE. UU.) pide colaborar → enlace con `usa-tampa-noviembre.md`.
+
+- **23 nov 2026:** DAHLEH — email en inglés a Mustafa redactado por Bruce: confirmar el viaje (lun 30 nov 9:00 → mié 2 dic 9:30), nombres de los 3 y hotel; Adrián les recoge en el aeropuerto; la agenda se envía el mié 25. Sin confirmar si salió ni si Peter va en copia. Agenda por preparar el mar 24 (todo en Alicante; Hércules Populi el mar 1 a las 13:30).

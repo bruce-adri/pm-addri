@@ -35,3 +35,15 @@ Bruce redactó una respuesta para Adrián:
 2. Bruce: textos corregidos listos para Jonathan (Fase 2).
 3. Bruce: revisar portales, RRSS, dossiers y campañas.
 4. Checklist mensual + guías para los suplentes de Eduardo/Jonathan (Fase 3).
+
+## 23 nov 2026: Protocolo de vigilancia de soportes y mercado (borrador v1)
+- Adrián pide un protocolo para vigilar todas las acciones online (webs, microsites, Resales Online, Metainmo, Idealista…) y añade las **vallas publicitarias exteriores**.
+- Resales y Metainmo con dos usos: control de nuestras fichas + radar de competencia. Además, **usar Resales para escribir directamente a los agentes** (hoy no se usa).
+- Borrador v1: `~/Desktop/Bruce/00 En curso/2026-11-23 Marketing — Protocolo de vigilancia de soportes y mercado (borrador v1).pdf`. Fuente: `~/bruce/knowledge/mpc-group/reports-comerciales/2026-11-23-protocolo-vigilancia-soportes/`.
+- **Revisión digital semanal (lunes): la hace Bruce con el navegador y Adrián valida y reparte** (aprobado el 23 nov). En el documento figura como "Dirección Comercial".
+- Pendiente:
+  - Entrar en Resales con la sesión de Adrián: no se pudo el 23 porque no había sesión iniciada en el grupo de pestañas de Claude.
+  - Inventario de vallas.
+  - Responsables de portales, Resales, fichas de Google y RRSS (tras la salida de Manu).
+  - Nº de agencias por tanda.
+- **23 nov (tarde), v2:** sale la sección del canal de agentes de Resales (irá como anexo de captación de la Estrategia de agencias 2027; texto guardado en `canal-agentes-resales-borrador.html`). Decisiones de Adrián: él sustituye a Jonathan en lo crítico; las vallas (inventario, visitas y fotos) son suyas; la entrada de leads la lleva Eduardo; **Pascual (Calidad) no entra en este protocolo de momento**; portales, Resales, fichas de Google y RRSS, Jonathan. Reunión de seguimiento con Jonathan los lunes a las 16:00 desde el 7 dic. v2 en `Bruce/00 En curso/`.
