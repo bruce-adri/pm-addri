@@ -48,3 +48,5 @@ Para reservas antes del 31/12/2026: comisión de agencia hasta el 10 % en las 2 
 - Pendiente: dar de alta en el CRM. Queda la villa 12 (499.000 €).
 
 - **20 nov 2026:** landing nueva (natureviews.es) centrada en la villa 12, «Última villa, llave en mano». En móvil, la cabecera todavía dice «Tu ático, con las mejores vistas…» (bloque solo de móvil en Elementor) → Jonathan. Falta el precio: propuesta de ponerlo debajo del titular de la cabecera y junto al botón de la mitad de la página. Comité del 23: villa 12, camino A (agencia al 8 %, 39.920 €, vender en 2026) o B (paciencia, directa o al 4 %, 19.960 €; muestra para NV II). El mailing al 8 % no se envió (no autorizado). 4 visitas a la villa en dos semanas. El ático (venta directa, holandés, Idealista, 330.000 € sin rebaja ni muebles) cuenta como venta de la semana del 8 al 14 en Power BI.
+
+- **23 nov 2026 (comité):** villa 12 por agencia al **5 %** (no al 8 % ni al 4 %), mailing a agencias (lo hace Jonathan) y **1.000 € en Meta** hasta final de año.

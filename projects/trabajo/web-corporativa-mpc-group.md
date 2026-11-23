@@ -32,3 +32,5 @@ Que mpc-group.es deje de parecer una agencia y se lea como un **promotor con 34 
 
 - **10 nov 2026:** elegido el borrador de Edu para la home. Vídeo de portada "Un día mediterráneo" (B) en borrador: `~/Desktop/Bruce/00 En curso/2026-11-10 … Un día mediterráneo …` (4 versiones). Script en `bruce/knowledge/mpc-group/reports-comerciales/2026-11-10-video-un-dia-mediterraneo/`. Pendiente: feedback, renders 4K, WebM, auditoría y luego la historia A.
 - **10 nov 2026 (tarde):** vídeo "Un día mediterráneo" v3 con metraje real (vídeo corporativo de MPC + Pexels, con el castillo de Santa Bárbara). `~/Desktop/Bruce/00 En curso/… (v3 castillo).mp4`. Pendiente: OK de Adrián, auditoría, WebM; originales de ISN Virtual.
+
+- **23 nov 2026 (comité):** mockup definitivo el **10 o el 12 de diciembre**; la web, funcionando en **Año Nuevo**.
