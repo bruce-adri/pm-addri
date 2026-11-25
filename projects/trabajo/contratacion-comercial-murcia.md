@@ -148,3 +148,11 @@ Descartadas por no estar activas en el sector ahora mismo o no ser Murcia: Mirya
   - C: 1.342 / 1.089 €.
   - D: 1.671 / 1.036 €.
 - Las versiones anteriores (B propuesto, ≈240/600 €, 1.749/1.221 €) quedan superadas.
+
+
+## 25 nov 2026 — Adecco: persona para el stand
+
+- MPC llega a un acuerdo con Adecco para contratar, de entrada, a alguien para el stand del C.C. Nueva Condomina.
+- Charo (RR. HH.) propuso una oferta de asesor/a que cierra ventas (1 año de exp., inglés imprescindible, 20 h). A Adrián no le encaja para el stand.
+- Respuesta redactada con 2 opciones: **A** asesor/a (2 años de exp., inglés valorable, disponibilidad en fin de semana) y **B** informador/a comercial de stand (capta contactos y concierta visitas; jue-sáb, tardes y sábado completo, 20 h). Sin variable en ninguna. Preferida: la B.
+- Pendiente: confirmar el horario real del stand para fijar los turnos; respuesta de Charo.

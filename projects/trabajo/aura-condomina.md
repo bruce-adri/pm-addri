@@ -7,6 +7,15 @@ updated: 2026-11-01
 
 # Aura Condomina — Fase 1 (250 viv., Nueva Condomina, Murcia)
 
+## Revisión de precios del bloque 1 (25 nov 2026)
+
+- Manuel pidió revisar precios para ganar velocidad (posible −1/−2 M€ en total); foco en los 2D: no más de 40.000 € entre dos 2D.
+- Propuesta técnica (Edu, A. Luis, Oihana, 25 nov): oeste −2.000 €, este +8.000 €, esquina singular +3.000 €, 1D +10.000 € (aprobado). Frente a la lista del 7 sep (vigente, confirmado por Adrián): +2.000 € en el bloque; sube 14 de las 34 viviendas de 2D y 3D.
+- Las 15 ventas del bloque 1 se cerraron a precio de lista.
+- Informe v4 (`Bruce/01 Dirección/2026-11-26 Aura — Precios bloque 1, escenarios y recomendación (v4).pdf`; generador en `bruce/knowledge/mpc-group/reports-comerciales/2026-11-26-aura-precios-bloque1/`): moderado −283.000 €, intenso −455.000 €, alternativa sencilla (−8.000 € a los 2D de 270.000 € o más) −72.000 €.
+- Recomendación: moderado en 2D como oferta temporal hasta el 31 ene 2027, sin tocar la lista; 3D, revisión a final de diciembre (−3 % primero); objetivo de 3-4 ventas en Aura antes del 31 dic; Administración valida el margen; plan para los ya compradores.
+- Pendiente: reunión del 26 con Edu y A. Luis → decisión de Manuel; fases 2 y 3 sin calcular.
+
 ## Plan 20K — campaña tras las elecciones (19 nov 2026)
 - Petición de Manuel: anuncios agresivos tipo "con 20k compras tu casa en Murcia" después de las elecciones.
 - Forma de pago de campaña (1D y 2D): 20.000 € IVA incl. (reserva de 11.000 € dentro) + hasta el 20 % + IVA en cuotas mensuales durante la obra + 80 % + IVA en escritura. Cuotas (16): ≈1.416 € (1D desde 193.900 €) / ≈1.897 € (2D desde 228.900 €).

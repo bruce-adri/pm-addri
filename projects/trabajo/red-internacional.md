@@ -123,3 +123,11 @@ Mustafa (DAHLEH Realty) viene a Alicante del 30 nov al 4 dic, 3 personas (= viaj
 - **10 nov 2026:** listado de ~30 agencias internacionales con oficina en Murcia, Torrevieja y Costa Blanca Sur para Aura (anexo del plan de aceleración). Just Murcia Property (agencias de referidos de EE. UU.) pide colaborar → enlace con `usa-tampa-noviembre.md`.
 
 - **23 nov 2026:** DAHLEH — email en inglés a Mustafa redactado por Bruce: confirmar el viaje (lun 30 nov 9:00 → mié 2 dic 9:30), nombres de los 3 y hotel; Adrián les recoge en el aeropuerto; la agenda se envía el mié 25. Sin confirmar si salió ni si Peter va en copia. Agenda por preparar el mar 24 (todo en Alicante; Hércules Populi el mar 1 a las 13:30).
+
+
+## 25 nov 2026 — DAHLEH y Emma
+
+- DAHLEH (Mustafa): el vuelo se mantiene; se gestionan ellos el transporte desde el aeropuerto; enviarán los detalles (nombres, hotel) antes del viernes. Respuesta redactada (sin invitar a la comida de Hércules Populi, que es de Adrián con Manuel).
+- Agenda: se envía el vie 27 a primera hora (evento con alerta el 27 a las 8:30 en el calendario "Trabajo"). Base: borrador del 9 nov (`04-visita-dahleh.html`) sin la recogida en el aeropuerto ni el traslado de salida; el mar 13:30, tiempo libre.
+- Pendientes: ¿confirma Manuel la cena del martes? ¿Va María el lunes por la tarde a Torrevieja?
+- Emma (agencia): ha enviado el formulario y los documentos; contrato en preparación; puede traer clientes ya (registrarlos por escrito).
