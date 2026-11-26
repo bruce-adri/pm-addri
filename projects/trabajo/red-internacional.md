@@ -131,3 +131,6 @@ Mustafa (DAHLEH Realty) viene a Alicante del 30 nov al 4 dic, 3 personas (= viaj
 - Agenda: se envía el vie 27 a primera hora (evento con alerta el 27 a las 8:30 en el calendario "Trabajo"). Base: borrador del 9 nov (`04-visita-dahleh.html`) sin la recogida en el aeropuerto ni el traslado de salida; el mar 13:30, tiempo libre.
 - Pendientes: ¿confirma Manuel la cena del martes? ¿Va María el lunes por la tarde a Torrevieja?
 - Emma (agencia): ha enviado el formulario y los documentos; contrato en preparación; puede traer clientes ya (registrarlos por escrito).
+
+## 26 nov 2026: DAHLEH
+- Email a Mustafa listo para el vie 27 a las 8:30 (`bruce/knowledge/mpc-group/reports-comerciales/2026-11-26-dahleh-agenda/email-agenda-mustafa.md`): agenda sugerida en el cuerpo, oferta de recogida y la lista de documentación eslovaca del 29 oct + el formulario. Pendiente: quién firma por MPC y quién prepara el contrato.

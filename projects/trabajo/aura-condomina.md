@@ -370,3 +370,6 @@ Propuesta para Manuel: 75 % de la comisión (1,5 % nacional / 3 % internacional)
 - Estructura para 30/120 ventas al año (v1, 🟢): 120 ventas cuestan 633–970 k€ solo en comercial y marketing, más que los 720 k€ de la tesorería. Pendiente: desglose de Charo.
 
 - **23 nov 2026 (comité):** paquete del stand del C.C. Nueva Condomina: mailing a los leads, flyers mensuales con la oferta, protocolo del stand (seguimiento, inversión y acción), cartel tipo nube en la chimenea, ofertas quincenales o mensuales, "100 €/mes para gastar en el C.C. durante 3-4 meses" (destinatario por aclarar) y métricas en el CRM. Contrato anual con [nombre por confirmar]. Lo hace Jonathan.
+
+## 26 nov 2026 (tarde): horquilla de 2D
+- Informe de precios v5 (`Bruce/01 Dirección`): horquilla de 2D por tamaño (opción B de Adrián). Pequeños 243.900–251.900 €, grandes 259.900–269.900 €; −102.000 € en el bloque, 18 de 19 rebajadas; planta 1 a 38.000 €; A2D a 267.900 €. Dirección elige moderado u horquilla. Falta decidir si pasa a ser la recomendación principal.
