@@ -41,3 +41,8 @@ Adrián aclara que la reunión con Víctor es para poner en común **qué datos 
 ## 5 nov (cierre) — edición gráfica
 - Estilo de la crónica gráfica de Forbes con colores de MPC: `~/Desktop/Bruce/06 Estudios mercado/Observatorio Costa Blanca 2026 — edición gráfica.pdf`. A Adrián le encanta.
 - Derivado: serie de LinkedIn "La cifra" (plantilla + Nº 01, 70.209 €) en `~/Desktop/Bruce/07 Marketing/linkedin-cifra/`. Se publica después del lanzamiento del observatorio.
+
+
+## 26 nov 2026 — Foro Activos (patrocinio de MPC)
+- MPC Group patrocinó el Foro Activos de INFORMACIÓN del 25 nov (Kongsberg Maritime y Navico Group Iberia: por qué las empresas internacionales eligen Alicante). Adrián asistió.
+- Texto de comunicación para Intermundo, la agencia de Manuel: la vivienda de calidad como parte de la competitividad para atraer talento. Ficha en `bruce/knowledge/mpc-group/2026-11-25-foro-activos-informacion.md`.
